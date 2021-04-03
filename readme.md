@@ -29,6 +29,12 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 
  * [Ankiのデッキパッケージ](https://github.com/qq542vev/jihu_laho_zoi_pjcg_gimste_zoi/releases)
 
+## Ankiのデッキパッケージ
+
+[Anki](https://apps.ankiweb.net/)のデッキパッケージを使用することで、PCやスマートフォンで効率的にgismuの学習が行えます。
+
+[![Ankiのデッキリスト](pixra/cmalu_pixra/ank_zei_karda_bakfu_liste.png)](pixra/ank_zei_karda_bakfu_liste.png "Ankiのデッキリスト") [[!Ankiのカード](pixra/cmalu_pixra/ank_zei_karda.png)](pixra/ank_zei_karda.png "Ankiのカード")
+
 # 謝辞
 
 このプロジェクトはPJCG gimsteを基にしています。PJCG gimsteの作成者の皆様に感謝の意を表します。
