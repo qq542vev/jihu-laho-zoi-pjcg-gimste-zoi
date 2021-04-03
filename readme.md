@@ -33,7 +33,7 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 
 [Anki](https://apps.ankiweb.net/)のデッキパッケージを使用することで、PCやスマートフォンで効率的にgismuの学習が行えます。
 
-[![Ankiのデッキリスト](pixra/cmalu_pixra/ank_zei_karda_bakfu_liste.png)](pixra/ank_zei_karda_bakfu_liste.png "Ankiのデッキリスト") [[!Ankiのカード](pixra/cmalu_pixra/ank_zei_karda.png)](pixra/ank_zei_karda.png "Ankiのカード")
+[![Ankiのデッキリスト](pixra/cmalu_pixra/ank_zei_karda_bakfu_liste.png)](pixra/ank_zei_karda_bakfu_liste.png "Ankiのデッキリスト") [![Ankiのカード](pixra/cmalu_pixra/ank_zei_karda.png)](pixra/ank_zei_karda.png "Ankiのカード")
 
 # 謝辞
 
