@@ -6,17 +6,17 @@
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.0
-##   date - 2021-04-02
+##   version - 0.1.1
+##   date - 2021-04-09
 ##   since - 2021-04-01
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
-##   package - jihu_laho_zoi_pjcg_gimste_zoi
+##   package - jihu-laho-zoi-pjcg-gimste-zoi
 ##
 ## See Also:
 ##
-##   * Project homepage - <https://github.com/qq542vev/jihu_laho_zoi_pjcg_gimste_zoi>
-##   * Bag report - <https://github.com/qq542vev/jihu_laho_zoi_pjcg_gimste_zoi/issues>
+##   * Project homepage - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
+##   * Bag report - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
 # ji'u la'o .zoi. PJCG gimste .zoi.
@@ -33,7 +33,7 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 
 [Anki](https://apps.ankiweb.net/)のデッキパッケージを使用することで、PCやスマートフォンで効率的にgismuの学習が行えます。
 
-[![Ankiのデッキリスト](pixra/cmalu_pixra/ank_zei_karda_bakfu_liste.png)](pixra/ank_zei_karda_bakfu_liste.png "Ankiのデッキリスト") [![Ankiのカード](pixra/cmalu_pixra/ank_zei_karda.png)](pixra/ank_zei_karda.png "Ankiのカード")
+[![Ankiのデッキリスト](pixra/cmalu-pixra/ank-zei-karda-bakfu-liste.png)](pixra/ank-zei-karda-bakfu-liste.png "Ankiのデッキリスト") [![Ankiのカード](pixra/cmalu-pixra/ank-zei-karda.png)](pixra/ank-zei-karda.png "Ankiのカード")
 
 # 謝辞
 
