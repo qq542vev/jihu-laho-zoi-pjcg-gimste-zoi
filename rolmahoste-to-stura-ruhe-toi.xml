@@ -162,8 +162,8 @@
 			<jufra xml:lang="jbo">le lenku dilnu cu sutkla a'idai</jufra>
 			<jufra xml:lang="ja">寒い雲がいそぐ</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<mupli>
@@ -539,8 +539,8 @@
 			<jufra xml:lang="jbo">be'u ro'a lo zdacau cu me pa litru</jufra>
 			<jufra xml:lang="ja">ルンペンのひとり旅はさみしいね</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ベフ</lerfu>
@@ -564,7 +564,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">bi</lerfu>
-		<rafsi>biv</rafsi>
+		<rafsi klesi="cimei-lerfu">biv</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>8 ： 数量詞</ve_ciksi>
 		<smuni>8</smuni>
@@ -578,7 +578,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">bi'i</lerfu>
-		<rafsi>biz</rafsi>
+		<rafsi klesi="cimei-lerfu">biz</rafsi>
 		<cmavo_klesi>BIhI</cmavo_klesi>
 		<ve_ciksi>~から~まで（順序なし） ： 接続詞（非論理・間隔）</ve_ciksi>
 		<smuni>～から～まで</smuni>
@@ -592,8 +592,8 @@
 			<jufra xml:lang="jbo">nu litru bi'o litru litru ru'i .e'i kei me mi</jufra>
 			<jufra xml:lang="ja">旅から旅へ旅しつゞける外ない私でありました</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ビホ</lerfu>
@@ -624,7 +624,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">bo</lerfu>
-		<rafsi>bor</rafsi>
+		<rafsi klesi="cimei-lerfu">bor</rafsi>
 		<cmavo_klesi>BO</cmavo_klesi>
 		<ve_ciksi>範囲接続（短） ： 種々の構造範囲を最も短く右方向に繋げる</ve_ciksi>
 		<smuni>小範囲結合</smuni>
@@ -638,8 +638,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">bu</lerfu>
-		<rafsi>bus</rafsi>
-		<rafsi>bu'i</rafsi>
+		<rafsi klesi="cimei-lerfu">bus</rafsi>
+		<rafsi klesi="cimei-lerfu">bu'i</rafsi>
 		<cmavo_klesi>BU</cmavo_klesi>
 		<ve_ciksi>字詞造成 ： 単語を字詞（BY）にする</ve_ciksi>
 		<mupli>
@@ -663,7 +663,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">bu'a</lerfu>
-		<rafsi>bul</rafsi>
+		<rafsi klesi="cimei-lerfu">bul</rafsi>
 		<cmavo_klesi>GOhA</cmavo_klesi>
 		<ve_ciksi>量化型 selbri 変数１ ： 代詞（selbri）； 量化可能な selbri 変数の１つ目</ve_ciksi>
 		<mupli>
@@ -740,10 +740,10 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ca'a</lerfu>
-		<rafsi>caz</rafsi>
+		<rafsi klesi="cimei-lerfu">caz</rafsi>
 		<cmavo_klesi>CAhA</cmavo_klesi>
 		<ve_ciksi>実際に ： 間制詞（モダリティ）；</ve_ciksi>
-		<smuni>実際に ・読み方：</smuni>
+		<smuni>実際に</smuni>
 		<srana>{cabna}</srana>
 		<srana>{ca}</srana>
 	</valsi>
@@ -773,8 +773,8 @@
 			<jufra xml:lang="jbo">.uucai blabi kerfa filcni</jufra>
 			<jufra xml:lang="ja">あはれむべきかな、白髪のセンチメンタリスト！</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 	</valsi>
@@ -805,7 +805,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ce</lerfu>
-		<rafsi>cec</rafsi>
+		<rafsi klesi="cimei-lerfu">cec</rafsi>
 		<cmavo_klesi>JOI</cmavo_klesi>
 		<ve_ciksi>〜と／そして〜 ： 接続詞（非論理・sumti/selbri）； 無順序の繋がりを示し、集合を形成する</ve_ciksi>
 		<smuni>～とセットで</smuni>
@@ -834,7 +834,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ce'i</lerfu>
-		<rafsi>cez</rafsi>
+		<rafsi klesi="cimei-lerfu">cez</rafsi>
 		<cmavo_klesi>PA3</cmavo_klesi>
 		<ve_ciksi>パーセント／％ ： 数量詞；</ve_ciksi>
 		<smuni>パーセント</smuni>
@@ -846,7 +846,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ce'o</lerfu>
-		<rafsi>ce'o</rafsi>
+		<rafsi klesi="cimei-lerfu">ce'o</rafsi>
 		<cmavo_klesi>JOI</cmavo_klesi>
 		<ve_ciksi>~と~が連続して（順序あり） ： 接続詞（非論理・sumti/selbri）； 順序の伴う連続を表す</ve_ciksi>
 		<notci>「~、それから~」</notci>
@@ -871,7 +871,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ci</lerfu>
-		<rafsi>cib</rafsi>
+		<rafsi klesi="cimei-lerfu">cib</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>3 ： 数量詞；</ve_ciksi>
 		<smuni>3</smuni>
@@ -915,16 +915,19 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">co</lerfu>
-		<rafsi>col</rafsi>
+		<rafsi klesi="cimei-lerfu">col</rafsi>
 		<cmavo_klesi>CO</cmavo_klesi>
 		<ve_ciksi>tanru 反転 ： tanru の修飾関係を反転させる。修飾部のPSが後続の terbri を担う。</ve_ciksi>
-		<notci>「tricu co barda」は「木、大きな」。</notci>
+		<mupli>
+			<jufra xml:lang="jbo">tricu co barda</jufra>
+			<jufra xml:lang="ja">木、大きな</jufra>
+		</mupli>
 		<smuni>tanru 反転</smuni>
 		<lerfu xml:lang="ja">ショ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">co'a</lerfu>
-		<rafsi>co'a</rafsi>
+		<rafsi klesi="cimei-lerfu">co'a</rafsi>
 		<cmavo_klesi>ZAhO</cmavo_klesi>
 		<ve_ciksi>開始 ： 相制詞；</ve_ciksi>
 		<mupli>
@@ -939,8 +942,8 @@
 			<jufra xml:lang="jbo">fa'a lo cifnu poi klaku co'a lo cerni cu zi co'a cmabratu</jufra>
 			<jufra xml:lang="ja">朝から泣く児に霰がふつてきた</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<smuni>テンス： 開始</smuni>
@@ -952,8 +955,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">co'e</lerfu>
-		<rafsi>com</rafsi>
-		<rafsi>co'e</rafsi>
+		<rafsi klesi="cimei-lerfu">com</rafsi>
+		<rafsi klesi="cimei-lerfu">co'e</rafsi>
 		<cmavo_klesi>GOhA</cmavo_klesi>
 		<ve_ciksi>不特定 selbri ： 意味とPSが不特定の selbri を表す； tanru も形成できる</ve_ciksi>
 		<smuni>不特定 selbri</smuni>
@@ -974,8 +977,8 @@
 			<jufra xml:lang="jbo">jausna ninyna'a co'i</jufra>
 			<jufra xml:lang="ja">水音の、新年が来た</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ショヒ</lerfu>
@@ -988,7 +991,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">co'u</lerfu>
-		<rafsi>co'u</rafsi>
+		<rafsi klesi="cimei-lerfu">co'u</rafsi>
 		<cmavo_klesi>ZAhO</cmavo_klesi>
 		<ve_ciksi>停止 ： 相制詞； ~の停止時点において</ve_ciksi>
 		<notci>事の完了は含意されない。中断も。</notci>
@@ -1004,8 +1007,8 @@
 			<jufra xml:lang="jbo">.ua co'u lo nu viska je tirna mi kei le klaku cifnu cu klaku</jufra>
 			<jufra xml:lang="ja">私の姿を見、私の声を聞くと、泣く児が泣くことをやめる！</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<smuni>テンス： 停止</smuni>
@@ -1058,16 +1061,16 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">da</lerfu>
-		<rafsi>dav</rafsi>
-		<rafsi>dza</rafsi>
+		<rafsi klesi="cimei-lerfu">dav</rafsi>
+		<rafsi klesi="cimei-lerfu">dza</rafsi>
 		<cmavo_klesi>KOhA1</cmavo_klesi>
 		<ve_ciksi>量化型 sumti 変数１ ： 代詞（selbri）； 量化可能な sumti 変数の１つ目</ve_ciksi>
 		<mupli>
 			<jufra xml:lang="jbo">ro da vrici ke kampre mutce</jufra>
 			<jufra xml:lang="ja">みんなとり／″＼に人間味たつぷりだ</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<smuni>某／何か／X</smuni>
@@ -1076,10 +1079,13 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">da'a</lerfu>
-		<rafsi>daz</rafsi>
+		<rafsi klesi="cimei-lerfu">daz</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>n 以外全て ： 数量詞； デフォルトは1</ve_ciksi>
-		<notci>「da'a re prenu = 二人を除く全員」</notci>
+		<mupli>
+			<jufra xml:lang="jbo">da'a re prenu</jufra>
+			<jufra xml:lang="ja">二人を除く全員</jufra>
+		</mupli>
 		<smuni>以外</smuni>
 		<lerfu xml:lang="ja">ダハ</lerfu>
 		<goro>我以外は打破</goro>
@@ -1099,8 +1105,8 @@
 			<jufra xml:lang="jbo">le lenku dilnu cu sutkla a'idai</jufra>
 			<jufra xml:lang="ja">寒い雲がいそぐ</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ダイ</lerfu>
@@ -1184,7 +1190,19 @@
 		<lerfu xml:lang="jbo">de'ei</lerfu>
 		<cmavo_klesi>ROI</cmavo_klesi>
 		<ve_ciksi>左の数量詞について基準日（デフォルトは発話時点の日、「今日」）から何番目の日かを表す。</ve_ciksi>
-		<notci>「{ni'u} de'ei／昨日」「{no} de'ei／今日」「{pa} de'ei／明日」；sumtcitaとして用いる場合、取り込んだ項は基準日を意味する。</notci>
+		<notci>sumtcitaとして用いる場合、取り込んだ項は基準日を意味する。</notci>
+		<mupli>
+			<jufra xml:lang="jbo">ni'u de'ei</jufra>
+			<jufra xml:lang="ja">昨日</jufra>
+		</mupli>
+		<mupli>
+			<jufra xml:lang="jbo">no de'ei</jufra>
+			<jufra xml:lang="ja">今日</jufra>
+		</mupli>
+		<mupli>
+			<jufra xml:lang="jbo">pa de'ei</jufra>
+			<jufra xml:lang="ja">明日</jufra>
+		</mupli>
 		<srana>{zu'oi}</srana>
 		<srana>{djedi}</srana>
 	</valsi>
@@ -1256,8 +1274,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">do</lerfu>
-		<rafsi>don</rafsi>
-		<rafsi>doi</rafsi>
+		<rafsi klesi="cimei-lerfu">don</rafsi>
+		<rafsi klesi="cimei-lerfu">doi</rafsi>
 		<cmavo_klesi>KOhA3</cmavo_klesi>
 		<ve_ciksi>聞き手（話し手＆その他以外） ： 代詞（sumti）；</ve_ciksi>
 		<smuni>あなた</smuni>
@@ -1327,8 +1345,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">du</lerfu>
-		<rafsi>dub</rafsi>
-		<rafsi>du'o</rafsi>
+		<rafsi klesi="cimei-lerfu">dub</rafsi>
+		<rafsi klesi="cimei-lerfu">du'o</rafsi>
 		<cmavo_klesi>GOhA</cmavo_klesi>
 		<ve_ciksi>同一 ： 同一性を表す； x_1 は x_2 ・ x_3 ・・・と同一</ve_ciksi>
 		<notci>感覚上はほぼコピュラに相当する。</notci>
@@ -1368,7 +1386,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">du'u</lerfu>
-		<rafsi>dum</rafsi>
+		<rafsi klesi="cimei-lerfu">dum</rafsi>
 		<cmavo_klesi>NU</cmavo_klesi>
 		<ve_ciksi>命題抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する命題を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる； x_1 は x_2 （文字列）によって表される[bridi]（命題）</ve_ciksi>
 		<lerfu xml:lang="ja">ドゥフ</lerfu>
@@ -1643,8 +1661,8 @@
 			<jufra xml:lang="jbo">fa'a lo cifnu poi klaku co'a lo cerni cu zi co'a cmabratu</jufra>
 			<jufra xml:lang="ja">朝から泣く児に霰がふつてきた</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ファハ</lerfu>
@@ -1778,8 +1796,8 @@
 			<jufra xml:lang="jbo">loi cmana snime tai'i .kirakiran. cu jai gusni fi'o jikseicni lo litru</jufra>
 			<jufra xml:lang="ja">山の雪がきら／＼光つて旅人を寂しがらせる</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">フィホ</lerfu>
@@ -1798,7 +1816,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">fo'a</lerfu>
-		<rafsi>fo'a</rafsi>
+		<rafsi klesi="cimei-lerfu">fo'a</rafsi>
 		<cmavo_klesi>KOhA4</cmavo_klesi>
 		<ve_ciksi>sumti 変数（彼女／彼／其）６ ： 代詞（sumti）； goi で配当する</ve_ciksi>
 		<smuni>其六</smuni>
@@ -1806,7 +1824,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">fo'e</lerfu>
-		<rafsi>fo'e</rafsi>
+		<rafsi klesi="cimei-lerfu">fo'e</rafsi>
 		<cmavo_klesi>KOhA4</cmavo_klesi>
 		<ve_ciksi>sumti 変数（彼女／彼／其）７ ： 代詞（sumti）； goi で配当</ve_ciksi>
 		<smuni>其七</smuni>
@@ -1820,7 +1838,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">fo'i</lerfu>
-		<rafsi>fo'i</rafsi>
+		<rafsi klesi="cimei-lerfu">fo'i</rafsi>
 		<cmavo_klesi>KOhA4</cmavo_klesi>
 		<ve_ciksi>sumti 変数（彼女／彼／其）８ ： 代詞（sumti）； goi で配当</ve_ciksi>
 		<smuni>其八</smuni>
@@ -1968,8 +1986,8 @@
 			<jufra xml:lang="jbo">gau zgitigni .ije sanga</jufra>
 			<jufra xml:lang="ja">ひかせてうたつてゐる</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ガウ</lerfu>
@@ -2395,8 +2413,8 @@
 			<jufra xml:lang="jbo">gau zgitigni .ije sanga</jufra>
 			<jufra xml:lang="ja">ひかせてうたつてゐる</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">イジェ</lerfu>
@@ -2439,8 +2457,8 @@
 			<jufra xml:lang="jbo">to'u ja'o tcima xamgu .inaja lo jikcre cu se sidju</jufra>
 			<jufra xml:lang="ja">とにかくお天気ならば世間師は助かる</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">イナジャ</lerfu>
@@ -2550,7 +2568,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ja</lerfu>
-		<rafsi>jav</rafsi>
+		<rafsi klesi="cimei-lerfu">jav</rafsi>
 		<cmavo_klesi>JA</cmavo_klesi>
 		<ve_ciksi>tanru 論理和（OR）／～や～ ： 接続詞（論理・後置・tanru）； 前部と後部のどちらか或いは両が真</ve_ciksi>
 		<smuni>や</smuni>
@@ -2580,7 +2598,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">jai</lerfu>
-		<rafsi>jax</rafsi>
+		<rafsi klesi="cimei-lerfu">jax</rafsi>
 		<cmavo_klesi>JAI</cmavo_klesi>
 		<ve_ciksi>付辞項辞転換 ： 通常は間制や法制の一部として使う項を項辞 x_1 として使えるようにする； 本来の x_1 は不特定の項位置に移る（この項位置を明示して本来の x_1 を再利用するには fai を使う； x_1 に持ってくる付辞の種類を特定する場合は該当する間制や法制を jai の後に加える</ve_ciksi>
 		<notci>「lo nunkla jaica lerci／来る時間が遅い」 「ko'e jai nabmi = 彼は問題だ」、本来は人が何かをすることや何かであることが問題なのであり、人そのものは問題となれない。</notci>
@@ -2588,8 +2606,8 @@
 			<jufra xml:lang="jbo">lo jai cerni clira cu jipci je verba</jufra>
 			<jufra xml:lang="ja">朝早いのは鶏と子供だ</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ジャイ</lerfu>
@@ -2622,8 +2640,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">je</lerfu>
-		<rafsi>jev</rafsi>
-		<rafsi>jve</rafsi>
+		<rafsi klesi="cimei-lerfu">jev</rafsi>
+		<rafsi klesi="cimei-lerfu">jve</rafsi>
 		<cmavo_klesi>JA</cmavo_klesi>
 		<ve_ciksi>tanru 論理積（AND）／～と～ ： 接続詞（論理・後置・tanru）； 前部と後部は共に真</ve_ciksi>
 		<smuni>と／かつ／そして</smuni>
@@ -2652,10 +2670,13 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">jei</lerfu>
-		<rafsi>jez</rafsi>
+		<rafsi klesi="cimei-lerfu">jez</rafsi>
 		<cmavo_klesi>NU</cmavo_klesi>
 		<ve_ciksi>真理値抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する真理値を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は[bridi]の真理値、 x_2 （認識体系）の</ve_ciksi>
-		<notci>「lo jei do mi nelci = あなたが私のことを好きかどうか」</notci>
+		<mupli>
+			<jufra xml:lang="jbo">lo jei do mi nelci</jufra>
+			<jufra xml:lang="ja">あなたが私のことを好きかどうか</jufra>
+		</mupli>
 		<smuni>抽象： 真理値</smuni>
 		<lerfu xml:lang="ja">ジェイ</lerfu>
 	</valsi>
@@ -2667,8 +2688,8 @@
 			<jufra xml:lang="jbo">lo xalka cu pe'a selklaku je'i kau cniselva'u .i ju'o naje</jufra>
 			<jufra xml:lang="ja">酒は涙か溜息か、――たしかに溜息だよ。</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ジェヒ</lerfu>
@@ -2710,7 +2731,11 @@
 		<lerfu xml:lang="jbo">je'unai</lerfu>
 		<cmavo_klesi>UI*3</cmavo_klesi>
 		<ve_ciksi>虚偽 （ je'u 真実 - je'unai 虚偽）</ve_ciksi>
-		<notci>心態詞（談話系）「mi terpa lo cidjrmanju .i ca terpa lo glare tcati je'unai／まんじゅう怖い。今は濃いお茶が怖い（嘘）。」 いわゆる（真実はそうではない）</notci>
+		<notci>心態詞（談話系）； いわゆる（真実はそうではない）</notci>
+		<mupli>
+			<jufra xml:lang="jbo">mi terpa lo cidjrmanju .i ca terpa lo glare tcati je'unai／</jufra>
+			<jufra xml:lang="ja">まんじゅう怖い。今は濃いお茶が怖い（嘘）。</jufra>
+		</mupli>
 		<mupli>
 			<jufra xml:lang="jbo">le je'unai palci cu xanri le menli poi na jimpe le manku sevzi</jufra>
 			<jufra xml:lang="ja">いわゆる悪というのは、暗黒の自己を理解できない心が見る幻だ</jufra>
@@ -2820,7 +2845,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">jo</lerfu>
-		<rafsi>jov</rafsi>
+		<rafsi klesi="cimei-lerfu">jov</rafsi>
 		<cmavo_klesi>JA</cmavo_klesi>
 		<ve_ciksi>tanru 否定排他的論理和（XNOR）／同値（iff） ： 接続詞（論理・後置・tanru）； 前部と後部は共に真あるいは共に偽</ve_ciksi>
 		<smuni>～のときだけ</smuni>
@@ -2846,11 +2871,35 @@
 		<lerfu xml:lang="jbo">jo'au</lerfu>
 		<cmavo_klesi>COI3</cmavo_klesi>
 		<ve_ciksi>パーサのバージョン／方言を変更する</ve_ciksi>
-		<notci>{do'u} が省略可能な終端詞。 {jo'au} に続く cmevla/sumti/selbri の語形と文法は lojban.org サイト内のページ ``BPFK Section: PEG Morphology Algorithm'' のバージョン 134 と、 公式文法に従っていなければならない。 例えば ``jo'au jie bu'' や ``jo'au xy xi xei'' は意味のある句ではない。 標準的な用法では全文章の最初に {jo'au} 句を使う。 {fa'o} の使い方と反対である。 {jo'au} 句の意味は後ろに係り、その範囲は次の {jo'au} 句が現れるまでの部分である。 最初の {jo'au} 句が文章の途中に出てくる場合は、 その意味は文章の最初から次の {jo'au} 句が現れるまでの部分に係る。 意味のある例: jo'au cylyly xi papipa (公式yaccとjbofi'e http://www.lojban.org/jboski/ ) ; jo'au camxes (現行 peg http://camxes.lojban.org/ ) ; jo'au iocixes (xorxes の zasni gerna https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna ) ; jo'au zantufa xi nopipapa (zantufa第0.11版 http://guskant.github.io/gerna_cipra/zantufa-0.11.html ) ; jo'au ilmentufa xi renopavopi'epapapi'erevo (ilmentufa の 2014-11-24 版 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa ) ; jo'au fancylojban (fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau )</notci>
+		<notci>{do'u} が省略可能な終端詞。 {jo'au} に続く cmevla/sumti/selbri の語形と文法は lojban.org サイト内のページ ``BPFK Section: PEG Morphology Algorithm'' のバージョン 134 と、 公式文法に従っていなければならない。 例えば ``jo'au jie bu'' や ``jo'au xy xi xei'' は意味のある句ではない。 標準的な用法では全文章の最初に {jo'au} 句を使う。 {fa'o} の使い方と反対である。 {jo'au} 句の意味は後ろに係り、その範囲は次の {jo'au} 句が現れるまでの部分である。 最初の {jo'au} 句が文章の途中に出てくる場合は、 その意味は文章の最初から次の {jo'au} 句が現れるまでの部分に係る。</notci>
+		<mupli>
+			<jufra xml:lang="jbo">jo'au cylyly xi papipa</jufra>
+			<jufra xml:lang="ja">公式yaccとjbofi'e http://www.lojban.org/jboski/</jufra>
+		</mupli>
+		<mupli>
+			<jufra xml:lang="jbo">jo'au camxes</jufra>
+			<jufra xml:lang="ja">現行 peg http://camxes.lojban.org/</jufra>
+		</mupli>
+		<mupli>
+			<jufra xml:lang="jbo">jo'au iocixes</jufra>
+			<jufra xml:lang="ja">xorxes の zasni gerna https://skami2.iocikun.jp/lojban/zasniGerna , http://www.lojban.org/tiki/zasni+gerna</jufra>
+		</mupli>
+		<mupli>
+			<jufra xml:lang="jbo">jo'au zantufa xi nopipapa</jufra>
+			<jufra xml:lang="ja">zantufa 第0.11版 http://guskant.github.io/gerna_cipra/zantufa-0.11.html</jufra>
+		</mupli>
+		<mupli>
+			<jufra xml:lang="jbo">jo'au ilmentufa xi renopavopi'epapapi'erevo</jufra>
+			<jufra xml:lang="ja">ilmentufa の 2014-11-24 版 http://mw.lojban.org/extensions/ilmentufa/camxes-exp.html , https://github.com/Ilmen-vodhr/ilmentufa</jufra>
+		</mupli>
+		<mupli>
+			<jufra xml:lang="jbo">jo'au fancylojban</jufra>
+			<jufra xml:lang="ja">fancylojban http://mw.lojban.org/lmw/fancylojban , http://mw.lojban.org/lmw/ce_ki_tau_jau</jufra>
+		</mupli>
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">jo'e</lerfu>
-		<rafsi>jom</rafsi>
+		<rafsi klesi="cimei-lerfu">jom</rafsi>
 		<cmavo_klesi>JOI</cmavo_klesi>
 		<ve_ciksi>和集合 ： 接続詞（非論理・sumti/selbri）； 左右の集合の和を表す</ve_ciksi>
 		<smuni>和集合</smuni>
@@ -2858,8 +2907,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">joi</lerfu>
-		<rafsi>jol</rafsi>
-		<rafsi>joi</rafsi>
+		<rafsi klesi="cimei-lerfu">jol</rafsi>
+		<rafsi klesi="cimei-lerfu">joi</rafsi>
 		<cmavo_klesi>JOI</cmavo_klesi>
 		<ve_ciksi>一緒（混合） ： 接続詞（非論理・sumti/selbri）； 事物や性質が混合的に一緒であることを表す； 数学的群を形成する</ve_ciksi>
 		<mupli>
@@ -2889,7 +2938,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">jo'u</lerfu>
-		<rafsi>jo'u</rafsi>
+		<rafsi klesi="cimei-lerfu">jo'u</rafsi>
 		<cmavo_klesi>JOI</cmavo_klesi>
 		<ve_ciksi>一緒（非混合） ： 接続詞（非論理・sumti/selbri）；</ve_ciksi>
 		<smuni>一緒に（非混合）</smuni>
@@ -2897,7 +2946,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ju</lerfu>
-		<rafsi>juv</rafsi>
+		<rafsi klesi="cimei-lerfu">juv</rafsi>
 		<cmavo_klesi>JA</cmavo_klesi>
 		<ve_ciksi>tanru ～にかかわらず ： 接続詞（論理・後置・tanru）； 前部は真、後部がどうであるかにかかわらず</ve_ciksi>
 		<smuni>～にかかわらず</smuni>
@@ -2950,8 +2999,8 @@
 			<jufra xml:lang="jbo">lo xalka cu pe'a selklaku je'i kau cniselva'u .i ju'o naje</jufra>
 			<jufra xml:lang="ja">酒は涙か溜息か、――たしかに溜息だよ。</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ジュホ</lerfu>
@@ -2967,8 +3016,8 @@
 			<jufra xml:lang="jbo">ju'ocu'i mi ga ca'o litru ginai ka'e te pemrxaiku</jufra>
 			<jufra xml:lang="ja">私は旅に出てゐなければ句は出来ないのかも知れない</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ジュホシュヒ</lerfu>
@@ -2994,7 +3043,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ka</lerfu>
-		<rafsi>kam</rafsi>
+		<rafsi klesi="cimei-lerfu">kam</rafsi>
 		<cmavo_klesi>NU</cmavo_klesi>
 		<ve_ciksi>性質抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する性質を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される性質</ve_ciksi>
 		<mupli>
@@ -3089,7 +3138,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ke</lerfu>
-		<rafsi>kem</rafsi>
+		<rafsi klesi="cimei-lerfu">kem</rafsi>
 		<cmavo_klesi>KE</cmavo_klesi>
 		<ve_ciksi>tanru グループ開始 ： 境界詞； tanru 内のグループの開始を示す</ve_ciksi>
 		<mupli>
@@ -3112,8 +3161,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ke'e</lerfu>
-		<rafsi>kep</rafsi>
-		<rafsi>ke'e</rafsi>
+		<rafsi klesi="cimei-lerfu">kep</rafsi>
+		<rafsi klesi="cimei-lerfu">ke'e</rafsi>
 		<cmavo_klesi>KEhE</cmavo_klesi>
 		<ve_ciksi>tanru グループ終了 ： 境界詞； ke で開かれたグループ範囲を閉じる； 構文上の曖昧性をきたさなければ省略できる；</ve_ciksi>
 		<mupli>
@@ -3126,7 +3175,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">kei</lerfu>
-		<rafsi>kez</rafsi>
+		<rafsi klesi="cimei-lerfu">kez</rafsi>
 		<cmavo_klesi>KEI</cmavo_klesi>
 		<ve_ciksi>抽象終了 ： 境界詞； NU類で開かれた抽象化範囲を閉じる； 構文上の曖昧性をきたさなければ省略できる</ve_ciksi>
 		<smuni>抽象終了</smuni>
@@ -3359,15 +3408,15 @@
 			<jufra xml:lang="jbo">vu ja vi ku lo bonsna pu co'a ca ca'o durcarvi</jufra>
 			<jufra xml:lang="ja">遠く近く波音のしぐれてくる</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ク</lerfu>
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ku'a</lerfu>
-		<rafsi>kuz</rafsi>
+		<rafsi klesi="cimei-lerfu">kuz</rafsi>
 		<cmavo_klesi>JOI</cmavo_klesi>
 		<ve_ciksi>集合交差 ： 接続詞（非論理・sumti/selbri）； 集合の交差、積集合</ve_ciksi>
 		<smuni>数学的交差</smuni>
@@ -3556,7 +3605,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">le'e</lerfu>
-		<rafsi>lem</rafsi>
+		<rafsi klesi="cimei-lerfu">lem</rafsi>
 		<cmavo_klesi>LE</cmavo_klesi>
 		<ve_ciksi>形容された典型 ： 冠詞（主観系）； selbri を冠する</ve_ciksi>
 		<notci>「ステレオタイプ的」も。</notci>
@@ -3657,7 +3706,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">li'i</lerfu>
-		<rafsi>liz</rafsi>
+		<rafsi klesi="cimei-lerfu">liz</rafsi>
 		<cmavo_klesi>NU</cmavo_klesi>
 		<ve_ciksi>経験抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する経験を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される経験、 x_2 （経験者）の</ve_ciksi>
 		<smuni>抽象： 経験</smuni>
@@ -3711,7 +3760,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">lo'e</lerfu>
-		<rafsi>lom</rafsi>
+		<rafsi klesi="cimei-lerfu">lom</rafsi>
 		<cmavo_klesi>LE</cmavo_klesi>
 		<ve_ciksi>そうである典型 ： 冠詞（客観系）； selbri を冠する</ve_ciksi>
 		<smuni>典型的な</smuni>
@@ -3891,8 +3940,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">mei</lerfu>
-		<rafsi>mem</rafsi>
-		<rafsi>mei</rafsi>
+		<rafsi klesi="cimei-lerfu">mem</rafsi>
+		<rafsi klesi="cimei-lerfu">mei</rafsi>
 		<cmavo_klesi>MOI</cmavo_klesi>
 		<ve_ciksi>濃度 selbri ： 数量詞nの右に付いて、それを「x_1 はn個」という濃度を表す brivla にする</ve_ciksi>
 		<mupli>
@@ -3930,7 +3979,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">mi</lerfu>
-		<rafsi>mib</rafsi>
+		<rafsi klesi="cimei-lerfu">mib</rafsi>
 		<cmavo_klesi>KOhA3</cmavo_klesi>
 		<ve_ciksi>話し手（聞き手＆その他以外） ： 代詞（sumti）；</ve_ciksi>
 		<smuni>私</smuni>
@@ -4016,7 +4065,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">mo'a</lerfu>
-		<rafsi>mob</rafsi>
+		<rafsi klesi="cimei-lerfu">mob</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>少なすぎる～ ： 数量詞；</ve_ciksi>
 		<smuni>過少</smuni>
@@ -4030,8 +4079,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">moi</lerfu>
-		<rafsi>mom</rafsi>
-		<rafsi>moi</rafsi>
+		<rafsi klesi="cimei-lerfu">mom</rafsi>
+		<rafsi klesi="cimei-lerfu">moi</rafsi>
 		<cmavo_klesi>MOI</cmavo_klesi>
 		<ve_ciksi>序列 selbri ： 数量詞の右に付いて、「x_1 は x_2 （集合）・ x_3 （原理）の［数量詞］番目の要素」というPSを与える</ve_ciksi>
 		<mupli>
@@ -4043,7 +4092,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">mo'i</lerfu>
-		<rafsi>mov</rafsi>
+		<rafsi klesi="cimei-lerfu">mov</rafsi>
 		<cmavo_klesi>MOhI</cmavo_klesi>
 		<ve_ciksi>時空間遷移 ： selbri や間詞の左に付いて時空間における動きを表す</ve_ciksi>
 		<notci>「mo'i ti'a plipe／後ろへ跳ぶ」、次との違いに注目「ti'a plipe／後ろで跳ぶ」</notci>
@@ -4090,7 +4139,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">mu</lerfu>
-		<rafsi>mum</rafsi>
+		<rafsi klesi="cimei-lerfu">mum</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>5 ： 数量詞；</ve_ciksi>
 		<smuni>5</smuni>
@@ -4136,7 +4185,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">mu'e</lerfu>
-		<rafsi>muf</rafsi>
+		<rafsi klesi="cimei-lerfu">muf</rafsi>
 		<cmavo_klesi>NU1</cmavo_klesi>
 		<ve_ciksi>時点抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する時点を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される時点</ve_ciksi>
 		<smuni>抽象： 時点</smuni>
@@ -4195,7 +4244,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">na</lerfu>
-		<rafsi>nar</rafsi>
+		<rafsi klesi="cimei-lerfu">nar</rafsi>
 		<cmavo_klesi>NA</cmavo_klesi>
 		<ve_ciksi>命題否定 ： 文中で右に続く語すべてをその命題に関して否定する； 特定の語を否定するのは na'e</ve_ciksi>
 		<smuni>命題否定</smuni>
@@ -4215,7 +4264,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">na'e</lerfu>
-		<rafsi>nal</rafsi>
+		<rafsi klesi="cimei-lerfu">nal</rafsi>
 		<cmavo_klesi>NAhE</cmavo_klesi>
 		<ve_ciksi>段階否定（～以外の／～ではなく） ： 段階詞；</ve_ciksi>
 		<smuni>段階： 非</smuni>
@@ -4325,7 +4374,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ni</lerfu>
-		<rafsi>nil</rafsi>
+		<rafsi klesi="cimei-lerfu">nil</rafsi>
 		<cmavo_klesi>NU</cmavo_klesi>
 		<ve_ciksi>数量抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する数量を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される数量、 x_2 （尺度）の</ve_ciksi>
 		<smuni>抽象： 数量</smuni>
@@ -4358,7 +4407,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">no</lerfu>
-		<rafsi>non</rafsi>
+		<rafsi klesi="cimei-lerfu">non</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>0 ： 数量詞；</ve_ciksi>
 		<smuni>0</smuni>
@@ -4372,8 +4421,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">no'e</lerfu>
-		<rafsi>nor</rafsi>
-		<rafsi>no'e</rafsi>
+		<rafsi klesi="cimei-lerfu">nor</rafsi>
+		<rafsi klesi="cimei-lerfu">no'e</rafsi>
 		<cmavo_klesi>NAhE</cmavo_klesi>
 		<ve_ciksi>段階中間 ： 段階詞； je'a と to'e の中間</ve_ciksi>
 		<smuni>段階： 中間</smuni>
@@ -4413,7 +4462,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">nu</lerfu>
-		<rafsi>nun</rafsi>
+		<rafsi klesi="cimei-lerfu">nun</rafsi>
 		<cmavo_klesi>NU</cmavo_klesi>
 		<ve_ciksi>事象抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する事象を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される事象</ve_ciksi>
 		<notci>NUの中では su'u に次いで抽出対象が最も広い。 過程（pu'u）／時点（mu'e）／動作（zu'o）／状態（za'i）／経験（li'i）も含まれる。</notci>
@@ -4463,7 +4512,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">nu'o</lerfu>
-		<rafsi>nu'o</rafsi>
+		<rafsi klesi="cimei-lerfu">nu'o</rafsi>
 		<cmavo_klesi>CAhA</cmavo_klesi>
 		<ve_ciksi>可能だが未実現 ： 間制詞（モダリティ）； 潜在的に可能だが未だ実現していない</ve_ciksi>
 		<mupli>
@@ -4527,8 +4576,8 @@
 			<jufra xml:lang="jbo">.o'anai muvdu frili cinmo</jufra>
 			<jufra xml:lang="ja">動き易い心を恥ぢる</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<mupli>
@@ -4709,7 +4758,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">pa</lerfu>
-		<rafsi>pav</rafsi>
+		<rafsi klesi="cimei-lerfu">pav</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>1 ： 数量詞；</ve_ciksi>
 		<smuni>1</smuni>
@@ -4813,7 +4862,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">pe'a</lerfu>
-		<rafsi>pev</rafsi>
+		<rafsi klesi="cimei-lerfu">pev</rafsi>
 		<cmavo_klesi>UI3c</cmavo_klesi>
 		<ve_ciksi>比喩 ： 左の語句が比喩的であることを示す</ve_ciksi>
 		<mupli>
@@ -4866,7 +4915,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">pi</lerfu>
-		<rafsi>piz</rafsi>
+		<rafsi klesi="cimei-lerfu">piz</rafsi>
 		<cmavo_klesi>PA3</cmavo_klesi>
 		<ve_ciksi>小数点／基数点／対数底（てい） ： 数量詞； 右の数量詞に関して「全体量のうちの～」も表す</ve_ciksi>
 		<mupli>
@@ -4906,7 +4955,6 @@
 		<lerfu xml:lang="jbo">pi'ai</lerfu>
 		<cmavo_klesi>KE</cmavo_klesi>
 		<ve_ciksi>単位 tanru 開始 ： 境界詞；単位を表す tanru 内のグループの開始を示す； te'ai とともに使う； 場所構造が tertau と異なるような tanru を作ることができる</ve_ciksi>
-		<notci>「x_1 pi'ai mitre snidu te'ai ni'u pa x_2 x_3 ／ x_1 の速度は x_2 m/s （基準 x_3 による）」</notci>
 		<mupli>
 			<jufra xml:lang="jbo">x_1 pi'ai mitre snidu te'ai ni'u pa x_2 x_3</jufra>
 			<jufra xml:lang="ja">x_1 の速度は x_2 m/s （基準 x_3 による）</jufra>
@@ -4949,10 +4997,13 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">pi'u</lerfu>
-		<rafsi>piv</rafsi>
+		<rafsi klesi="cimei-lerfu">piv</rafsi>
 		<cmavo_klesi>JOI</cmavo_klesi>
 		<ve_ciksi>直積集合／デカルト積 ： 接続詞（非論理・sumti/selbri）；</ve_ciksi>
-		<notci>「la djeimyz. ce[bo] la djordj. pi'u la meris. cebo la martas. cu prami se remei／［ジェームズとジョージ］集合と［メアリとマルタ］集合の直積集合は恋人ペアの集合だ」（この直積集合の元は4つの順序対（ジェームズ、メアリ）、（ジェームズ、マルタ）、（ジョージ、メアリ）、（ジョージ、マルタ）となっている。つまり全員二股をかけている。）</notci>
+		<mupli>
+			<jufra xml:lang="jbo">la djeimyz. ce[bo] la djordj. pi'u la meris. cebo la martas. cu prami se remei</jufra>
+			<jufra xml:lang="ja">［ジェームズとジョージ］集合と［メアリとマルタ］集合の直積集合は恋人ペアの集合だ（この直積集合の元は4つの順序対（ジェームズ、メアリ）、（ジェームズ、マルタ）、（ジョージ、メアリ）、（ジョージ、マルタ）となっている。つまり全員二股をかけている。）</jufra>
+		</mupli>
 		<smuni>直交積</smuni>
 		<lerfu xml:lang="ja">ピフ</lerfu>
 	</valsi>
@@ -4984,8 +5035,8 @@
 			<jufra xml:lang="jbo">.u'u lo litru pe lo nu voksa poi mutce simsa tu'a lo patfu cu se badri</jufra>
 			<jufra xml:lang="ja">父によう似た声が出てくる旅はかなしい</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ポイ</lerfu>
@@ -5036,7 +5087,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">pu'i</lerfu>
-		<rafsi>pus</rafsi>
+		<rafsi klesi="cimei-lerfu">pus</rafsi>
 		<cmavo_klesi>CAhA</cmavo_klesi>
 		<ve_ciksi>可能かつ実現 ： 間制詞（モダリティ）； 可能性が実現されたことを表す</ve_ciksi>
 		<smuni>可能かつ実現</smuni>
@@ -5051,7 +5102,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">pu'u</lerfu>
-		<rafsi>puv</rafsi>
+		<rafsi klesi="cimei-lerfu">puv</rafsi>
 		<cmavo_klesi>NU1</cmavo_klesi>
 		<ve_ciksi>過程抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する過程を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される過程、 x_2 （段階）の</ve_ciksi>
 		<smuni>抽象： 過程</smuni>
@@ -5175,7 +5226,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">re</lerfu>
-		<rafsi>rel</rafsi>
+		<rafsi klesi="cimei-lerfu">rel</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>2 ： 数量詞；</ve_ciksi>
 		<smuni>2</smuni>
@@ -5247,8 +5298,8 @@
 			<jufra xml:lang="jbo">pu cadzu .i cadzu gi'e cadzu .i ro re'u bo ti se klama ba'o</jufra>
 			<jufra xml:lang="ja">歩いた、歩いて、歩いて、とう／＼こゝまで来た</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">レフ</lerfu>
@@ -5319,15 +5370,15 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ro</lerfu>
-		<rafsi>rol</rafsi>
+		<rafsi klesi="cimei-lerfu">rol</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>各／全／一つ一つの ： 数量詞；</ve_ciksi>
 		<mupli>
 			<jufra xml:lang="jbo">ro da vrici ke kampre mutce</jufra>
 			<jufra xml:lang="ja">みんなとり／″＼に人間味たつぷりだ</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<smuni>各／全</smuni>
@@ -5342,8 +5393,8 @@
 			<jufra xml:lang="jbo">be'u ro'a lo zdacau cu me pa litru</jufra>
 			<jufra xml:lang="ja">ルンペンのひとり旅はさみしいね</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ロハ</lerfu>
@@ -5373,8 +5424,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">roi</lerfu>
-		<rafsi>rom</rafsi>
-		<rafsi>roi</rafsi>
+		<rafsi klesi="cimei-lerfu">rom</rafsi>
+		<rafsi klesi="cimei-lerfu">roi</rafsi>
 		<cmavo_klesi>ROI</cmavo_klesi>
 		<ve_ciksi>回テンス ： 数量詞の後に付いて頻度回数を表す相制詞となる</ve_ciksi>
 		<notci>頻度テンス。「～回にわたって」。数量詞の右に付く。</notci>
@@ -5470,8 +5521,8 @@
 			<jufra xml:lang="jbo">nu litru bi'o litru litru ru'i .e'i kei me mi</jufra>
 			<jufra xml:lang="ja">旅から旅へ旅しつゞける外ない私でありました</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ルヒ</lerfu>
@@ -5510,7 +5561,11 @@
 		<lerfu xml:lang="jbo">sa'a</lerfu>
 		<cmavo_klesi>UI3a</cmavo_klesi>
 		<ve_ciksi>編集挿入</ve_ciksi>
-		<notci>心態詞（談話系）； 発話者や編集者が挿入した語句であることを示す； しばしば to'i と併用する「la frank. cusku lu mi prami do to'i sa'a do du la djein. toi li'u／フランクは「私はあなたを愛している（あなた＝ジェイン）」と言う」</notci>
+		<notci>心態詞（談話系）； 発話者や編集者が挿入した語句であることを示す； しばしば to'i と併用する</notci>
+		<mupli>
+			<jufra xml:lang="jbo">la frank. cusku lu mi prami do to'i sa'a do du la djein. toi li'u</jufra>
+			<jufra xml:lang="ja">フランクは「私はあなたを愛している（あなた＝ジェイン）」と言う</jufra>
+		</mupli>
 		<lerfu xml:lang="ja">サハ</lerfu>
 		<srana>{setca}</srana>
 	</valsi>
@@ -5544,8 +5599,8 @@
 			<jufra xml:lang="jbo">lo bakni lo tilju gau bevri .i janbe sa'ei rinrin.</jufra>
 			<jufra xml:lang="ja">牛は重荷を負はされて鈴はりんりん</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">サヘイ</lerfu>
@@ -5565,7 +5620,8 @@
 		<lerfu xml:lang="jbo">sai</lerfu>
 		<cmavo_klesi>CAI</cmavo_klesi>
 		<ve_ciksi>強</ve_ciksi>
-		<notci>心態詞； 心情や態度が強いことを表す； ！に相当 ・読み方：サイ</notci>
+		<notci>心態詞； 心情や態度が強いことを表す； ！に相当</notci>
+		<lerfu xml:lang="ja">サイ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">sa'i</lerfu>
@@ -5619,7 +5675,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">se</lerfu>
-		<rafsi>sel</rafsi>
+		<rafsi klesi="cimei-lerfu">sel</rafsi>
 		<cmavo_klesi>SE</cmavo_klesi>
 		<ve_ciksi>x_1-x_2 転換 ： selbri の左に付いてPSの x_1 と x_2 を転換する</ve_ciksi>
 		<smuni>x_1-x_2 転換</smuni>
@@ -6127,7 +6183,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">si'o</lerfu>
-		<rafsi>siz</rafsi>
+		<rafsi klesi="cimei-lerfu">siz</rafsi>
 		<cmavo_klesi>NU</cmavo_klesi>
 		<ve_ciksi>概念抽象 ： 抽象詞； bridi の左に付いて、その bridi が内包する概念を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される概念、 x_2 （思考者）の</ve_ciksi>
 		<smuni>抽象： 概念</smuni>
@@ -6142,7 +6198,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">so</lerfu>
-		<rafsi>soz</rafsi>
+		<rafsi klesi="cimei-lerfu">soz</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>9 ： 数量詞；</ve_ciksi>
 		<smuni>9</smuni>
@@ -6150,7 +6206,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">so'a</lerfu>
-		<rafsi>soj</rafsi>
+		<rafsi klesi="cimei-lerfu">soj</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>ほぼ全ての ： 数量詞；</ve_ciksi>
 		<smuni>殆ど</smuni>
@@ -6158,7 +6214,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">so'e</lerfu>
-		<rafsi>sop</rafsi>
+		<rafsi klesi="cimei-lerfu">sop</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>ほとんどの ： 数量詞；</ve_ciksi>
 		<smuni>大半</smuni>
@@ -6174,8 +6230,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">so'i</lerfu>
-		<rafsi>sor</rafsi>
-		<rafsi>so'i</rafsi>
+		<rafsi klesi="cimei-lerfu">sor</rafsi>
+		<rafsi klesi="cimei-lerfu">so'i</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>たくさんの ： 数量詞；</ve_ciksi>
 		<smuni>沢山</smuni>
@@ -6183,7 +6239,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">so'o</lerfu>
-		<rafsi>sos</rafsi>
+		<rafsi klesi="cimei-lerfu">sos</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>いくつかの ： 数量詞；</ve_ciksi>
 		<smuni>幾つか</smuni>
@@ -6191,7 +6247,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">so'u</lerfu>
-		<rafsi>sot</rafsi>
+		<rafsi klesi="cimei-lerfu">sot</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>少しの ： 数量詞；</ve_ciksi>
 		<smuni>少し</smuni>
@@ -6221,8 +6277,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">su'e</lerfu>
-		<rafsi>sup</rafsi>
-		<rafsi>su'e</rafsi>
+		<rafsi klesi="cimei-lerfu">sup</rafsi>
+		<rafsi klesi="cimei-lerfu">su'e</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>最大で～／多くとも～ ： 数量詞；</ve_ciksi>
 		<smuni>多くても</smuni>
@@ -6236,8 +6292,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">su'o</lerfu>
-		<rafsi>suz</rafsi>
-		<rafsi>su'o</rafsi>
+		<rafsi klesi="cimei-lerfu">suz</rafsi>
+		<rafsi klesi="cimei-lerfu">su'o</rafsi>
 		<cmavo_klesi>PA4</cmavo_klesi>
 		<ve_ciksi>最小で～／少なくとも～ ： 数量詞；</ve_ciksi>
 		<smuni>少なくとも</smuni>
@@ -6253,7 +6309,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">su'u</lerfu>
-		<rafsi>suv</rafsi>
+		<rafsi klesi="cimei-lerfu">suv</rafsi>
 		<cmavo_klesi>NU</cmavo_klesi>
 		<ve_ciksi>不特定抽象 ： 抽象詞； bridi の左に付いて、その bridi の不特定の内包要素を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される不特定の抽象、 x_2 （種類）の</ve_ciksi>
 		<notci>NUの中では抽出対象の範囲が最も広い。</notci>
@@ -6269,7 +6325,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ta</lerfu>
-		<rafsi>taz</rafsi>
+		<rafsi klesi="cimei-lerfu">taz</rafsi>
 		<cmavo_klesi>KOhA6</cmavo_klesi>
 		<ve_ciksi>それ（そこのもの） ： 代詞（sumti）；</ve_ciksi>
 		<notci>聴き手の近くにある対象（物／事）を指示する。また、話者からある程度離れた対象を指示する（{ti} と {tu} の間）ことも。</notci>
@@ -6316,8 +6372,8 @@
 			<jufra xml:lang="jbo">loi cmana snime tai'i .kirakiran. cu jai gusni fi'o jikseicni lo litru</jufra>
 			<jufra xml:lang="ja">山の雪がきら／＼光つて旅人を寂しがらせる</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">タイヒ</lerfu>
@@ -6377,7 +6433,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">te</lerfu>
-		<rafsi>ter</rafsi>
+		<rafsi klesi="cimei-lerfu">ter</rafsi>
 		<cmavo_klesi>SE</cmavo_klesi>
 		<ve_ciksi>x_1-x_3 転換 ： selbri の左に付いてPSの x_1 と x_3 を転換する</ve_ciksi>
 		<smuni>x_1-x_3 転換</smuni>
@@ -6706,7 +6762,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ti</lerfu>
-		<rafsi>tif</rafsi>
+		<rafsi klesi="cimei-lerfu">tif</rafsi>
 		<cmavo_klesi>KOhA6</cmavo_klesi>
 		<ve_ciksi>これ（近くにあるもの） ： 代詞（sumti）；</ve_ciksi>
 		<notci>話者の近くにある対象（物／事）を指示する。</notci>
@@ -6763,8 +6819,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">to'e</lerfu>
-		<rafsi>tol</rafsi>
-		<rafsi>to'e</rafsi>
+		<rafsi klesi="cimei-lerfu">tol</rafsi>
+		<rafsi klesi="cimei-lerfu">to'e</rafsi>
 		<cmavo_klesi>NAhE</cmavo_klesi>
 		<ve_ciksi>段階反対 ： 段階詞； je'a の反対； 対義語を造る</ve_ciksi>
 		<smuni>段階： 反対</smuni>
@@ -6820,7 +6876,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">tu</lerfu>
-		<rafsi>tuf</rafsi>
+		<rafsi klesi="cimei-lerfu">tuf</rafsi>
 		<cmavo_klesi>KOhA6</cmavo_klesi>
 		<ve_ciksi>あれ（遠くのもの） ： 代詞（sumti）；</ve_ciksi>
 		<notci>話者と聴者から離れたところにある対象（物／事）を指示する。</notci>
@@ -7174,7 +7230,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">va</lerfu>
-		<rafsi>vaz</rafsi>
+		<rafsi klesi="cimei-lerfu">vaz</rafsi>
 		<cmavo_klesi>VA</cmavo_klesi>
 		<ve_ciksi>～のそこに ： 間制詞（空間・程度・中）</ve_ciksi>
 		<smuni>テンス： そこに</smuni>
@@ -7266,7 +7322,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ve</lerfu>
-		<rafsi>vel</rafsi>
+		<rafsi klesi="cimei-lerfu">vel</rafsi>
 		<cmavo_klesi>SE</cmavo_klesi>
 		<ve_ciksi>x_1-x_4 転換 ： selbri の左に付いてPSの x_1 と x_4 を転換する</ve_ciksi>
 		<smuni>x_1-x_4 転換</smuni>
@@ -7310,7 +7366,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ve'e</lerfu>
-		<rafsi>ve'e</rafsi>
+		<rafsi klesi="cimei-lerfu">ve'e</rafsi>
 		<cmavo_klesi>VEhA</cmavo_klesi>
 		<ve_ciksi>空間間隔・全 ： 間制詞（空間・間隔）</ve_ciksi>
 		<smuni>テンス： 全空間隔</smuni>
@@ -7402,7 +7458,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">vi</lerfu>
-		<rafsi>viz</rafsi>
+		<rafsi klesi="cimei-lerfu">viz</rafsi>
 		<cmavo_klesi>VA</cmavo_klesi>
 		<ve_ciksi>～に／～の近くに／ここに ： 間制詞（空間・程度・小）</ve_ciksi>
 		<smuni>テンス： ここに</smuni>
@@ -7443,7 +7499,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">vo</lerfu>
-		<rafsi>von</rafsi>
+		<rafsi klesi="cimei-lerfu">von</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>4 ： 数量詞；</ve_ciksi>
 		<smuni>4</smuni>
@@ -7487,15 +7543,15 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">vu</lerfu>
-		<rafsi>vuz</rafsi>
+		<rafsi klesi="cimei-lerfu">vuz</rafsi>
 		<cmavo_klesi>VA</cmavo_klesi>
 		<ve_ciksi>～のあそこに／むこうに／遠くに ： 間制詞（空間・程度・大）</ve_ciksi>
 		<mupli>
 			<jufra xml:lang="jbo">vu ja vi ku lo bonsna pu co'a ca ca'o durcarvi</jufra>
 			<jufra xml:lang="ja">遠く近く波音のしぐれてくる</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<smuni>テンス： あそこに</smuni>
@@ -7556,7 +7612,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">xa</lerfu>
-		<rafsi>xav</rafsi>
+		<rafsi klesi="cimei-lerfu">xav</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>6 ： 数量詞；</ve_ciksi>
 		<smuni>6</smuni>
@@ -7585,7 +7641,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">xe</lerfu>
-		<rafsi>xel</rafsi>
+		<rafsi klesi="cimei-lerfu">xel</rafsi>
 		<cmavo_klesi>SE</cmavo_klesi>
 		<ve_ciksi>x_1-x_5 転換 ： selbri の左に付いてPSの x_1 と x_5 を転換する</ve_ciksi>
 		<smuni>x_1-x_5 転換</smuni>
@@ -7732,7 +7788,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">za'i</lerfu>
-		<rafsi>zaz</rafsi>
+		<rafsi klesi="cimei-lerfu">zaz</rafsi>
 		<cmavo_klesi>NU1</cmavo_klesi>
 		<ve_ciksi>抽象・状態 ： 抽象詞； bridi の左に付いて、その bridi が内包する状態を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される状態</ve_ciksi>
 		<smuni>抽象： 状態</smuni>
@@ -7743,7 +7799,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">za'o</lerfu>
-		<rafsi>za'o</rafsi>
+		<rafsi klesi="cimei-lerfu">za'o</rafsi>
 		<cmavo_klesi>ZAhO</cmavo_klesi>
 		<ve_ciksi>延続 ： 相制詞； ~の自然な終了時点からさらに継続して；</ve_ciksi>
 		<mupli>
@@ -7754,8 +7810,8 @@
 			<jufra xml:lang="jbo">lo cmana rutrkaki po le cmana malsi zo'u za'o makcu</jufra>
 			<jufra xml:lang="ja">山寺の山柿のうれたまゝ</jufra>
 			<krasi>
-			 	<finti>山頭火</finti>
-			 	<se_finti>行乞記（二）</se_finti>
+				<finti>山頭火</finti>
+				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
 		<smuni>テンス： 延続</smuni>
@@ -7776,7 +7832,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ze</lerfu>
-		<rafsi>zel</rafsi>
+		<rafsi klesi="cimei-lerfu">zel</rafsi>
 		<cmavo_klesi>PA1</cmavo_klesi>
 		<ve_ciksi>7 ： 数量詞；</ve_ciksi>
 		<smuni>7</smuni>
@@ -7790,7 +7846,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ze'e</lerfu>
-		<rafsi>ze'e</rafsi>
+		<rafsi klesi="cimei-lerfu">ze'e</rafsi>
 		<cmavo_klesi>ZEhA</cmavo_klesi>
 		<ve_ciksi>時間隔・全 ： 間制詞（時間・間隔）</ve_ciksi>
 		<smuni>テンス： 全時間隔</smuni>
@@ -7828,8 +7884,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">ze'o</lerfu>
-		<rafsi>zev</rafsi>
-		<rafsi>ze'o</rafsi>
+		<rafsi klesi="cimei-lerfu">zev</rafsi>
+		<rafsi klesi="cimei-lerfu">ze'o</rafsi>
 		<cmavo_klesi>FAhA4</cmavo_klesi>
 		<ve_ciksi>~よりも外側へ／~から遠ざかって ： 間制詞（空間・方向）；</ve_ciksi>
 		<smuni>テンス： 外向</smuni>
@@ -7859,7 +7915,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">zi'o</lerfu>
-		<rafsi>zil</rafsi>
+		<rafsi klesi="cimei-lerfu">zil</rafsi>
 		<cmavo_klesi>KOhA7</cmavo_klesi>
 		<ve_ciksi>不在 sumti ： 代詞（sumti）； PS上の特定の項を消去する</ve_ciksi>
 		<smuni>不在項</smuni>
@@ -7874,8 +7930,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">zo'a</lerfu>
-		<rafsi>zon</rafsi>
-		<rafsi>zo'a</rafsi>
+		<rafsi klesi="cimei-lerfu">zon</rafsi>
+		<rafsi klesi="cimei-lerfu">zo'a</rafsi>
 		<cmavo_klesi>FAhA4</cmavo_klesi>
 		<ve_ciksi>~に近接して／通りがかって ： 間制詞（空間・方向）；</ve_ciksi>
 		<mupli>
@@ -7903,8 +7959,8 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">zo'i</lerfu>
-		<rafsi>zor</rafsi>
-		<rafsi>zo'i</rafsi>
+		<rafsi klesi="cimei-lerfu">zor</rafsi>
+		<rafsi klesi="cimei-lerfu">zo'i</rafsi>
 		<cmavo_klesi>FAhA4</cmavo_klesi>
 		<ve_ciksi>~よりも内奥へ／~から近づいて ： 間制詞（空間・方向）；</ve_ciksi>
 		<smuni>テンス： 内向</smuni>
@@ -7971,7 +8027,7 @@
 	</valsi>
 	<valsi klesi="cmavo">
 		<lerfu xml:lang="jbo">zu'o</lerfu>
-		<rafsi>zum</rafsi>
+		<rafsi klesi="cimei-lerfu">zum</rafsi>
 		<cmavo_klesi>NU1</cmavo_klesi>
 		<ve_ciksi>動作 ： 抽象詞； bridi の左に付いて、その bridi が内包する動作を抽出する； 抽象の焦点となる sumti を ce'u に替えて置ける； bridi の範囲を含めた全体が１つの selbri となる； 冠詞を左に加えると sumti になる；x_1 は［bridi］に表される動作、 x_2 （要素）の</ve_ciksi>
 		<notci>蟻の手洗いも銀河の運行も。「lo zu'o citka」で「食べる動き」「食事作法」など。</notci>
