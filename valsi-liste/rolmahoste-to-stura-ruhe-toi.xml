@@ -8,7 +8,7 @@
 ##
 ##   author - qq542vev<https://purl.org/meta/me/>
 ##   version - 0.1.0
-##   date - 2021-04-18
+##   date - 2021-04-20
 ##   since - 2021-04-11
 ##   package - jihu-laho-zoi-pjcg-gimste-zoi
 ##   source - ma'oste bau la'o by 日本語 by ji'u la jbovlaste de'i li 2016-01-10 <https://guskant.github.io/lojbo/gismu-cmavo/jpn-mahoste.html>
@@ -4700,8 +4700,7 @@
 		<lerfu xml:lang="ja">ナア</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_80656ba0-f67a-41d5-8456-f5dd98fad00a">
-		<lerfu xml:lang="jbo">na.a</lerfu>
-		<lerfu xml:lang="jbo-fonipa">na?a</lerfu>
+		<lerfu xml:lang="jbo">na'a</lerfu>
 		<lerfu xml:lang="jbo-fonipa">naha</lerfu>
 		<cmavo_klesi>BY1</cmavo_klesi>
 		<ve_ciksi>文字コード・シフト解除 ：</ve_ciksi>
@@ -4746,8 +4745,8 @@
 		<srana>{nalmapti}</srana>
 	</valsi>
 	<valsi klesi="cmavo-compound" xml:id="uuid_3dc312ec-473a-4b9a-827f-4ce53384e4c9">
-		<lerfu xml:lang="jbo">na.a</lerfu>
-		<lerfu xml:lang="jbo-fonipa">na?a</lerfu>
+		<lerfu xml:lang="jbo">naja</lerfu>
+		<lerfu xml:lang="jbo-fonipa">naja</lerfu>
 		<cmavo_klesi>JA*</cmavo_klesi>
 		<ve_ciksi>tanru 論理含有／～なら～ ： 接続詞（論理・後置・tanru）； 前部が真なら後部は真；</ve_ciksi>
 		<lerfu xml:lang="ja">ナジャ</lerfu>
