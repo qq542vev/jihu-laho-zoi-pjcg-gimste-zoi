@@ -6,8 +6,8 @@
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.1
-##   date - 2021-04-09
+##   version - 0.1.2
+##   date - 2021-04-20
 ##   since - 2021-04-01
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -34,6 +34,8 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 [Anki](https://apps.ankiweb.net/)のデッキパッケージを使用することで、PCやスマートフォンで効率的にgismuの学習が行えます。
 
 [![Ankiのデッキリスト](pixra/cmalu-pixra/ank-zei-karda-bakfu-liste.png)](pixra/ank-zei-karda-bakfu-liste.png "Ankiのデッキリスト") [![Ankiのカード](pixra/cmalu-pixra/ank-zei-karda.png)](pixra/ank-zei-karda.png "Ankiのカード")
+
+Ankiのデッキにはロジバンから日本語のカードと日本語からロジバンのカードの2種類が含まれています。カードブラウザの検索欄に `"note:PJCG gimste Lv.1" card:1` と入力するとロジバンから日本語のカードの一覧が、 `"note:PJCG gimste Lv.1" card:2` と入力すると日本語からロジバンのカードの一覧が表示されます。「全て選択」、「カードを保留」と選択することで、当該カードを一括で非表示に出来ます。
 
 # 謝辞
 
