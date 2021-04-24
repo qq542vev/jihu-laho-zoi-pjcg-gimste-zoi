@@ -127,14 +127,14 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | cliva | x<sub>1</sub> は x<sub>2</sub> から x<sub>3</sub> (経路)によって離れる / 発つ / 別れる / 去る; x<sub>1</sub> は x<sub>2</sub> を残す | to'e stali | A1::ペア・ワード |
 | critu | x<sub>1</sub> は x<sub>2</sub> (年)・ x<sub>3</sub> (所)の秋季 | x<sub>1</sub> crisa mi'i to'e crisa x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::春夏秋冬 |
 | vensa | x<sub>1</sub> は x<sub>2</sub> (年)・ x<sub>3</sub> (所)の春季 | x<sub>1</sub> to'e crisa mi'i crisa x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::春夏秋冬 |
-| cerni | x<sub>1</sub> は x<sub>2</sub> (日)・ x<sub>3</sub> (所)の朝 | x<sub>1</sub> to'e donri mi'i donri x<sub>2</sub> x<sub>3</sub>　| A1::カテゴリ・ワード::朝昼晩夜 |
+| cerni | x<sub>1</sub> は x<sub>2</sub> (日)・ x<sub>3</sub> (所)の朝 | x<sub>1</sub> to'e donri mi'i donri x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::朝昼晩夜 |
 | vanci | x<sub>1</sub> は x<sub>2</sub> (日)・ x<sub>3</sub> (所)の夕方 / 夕暮れ / 晩 | x<sub>1</sub> donri mi'i to'e donri x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::朝昼晩夜 |
 | dunda | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> (者)に与える / 贈る / 授ける | x<sub>1</sub> vecnu x<sub>2</sub> x<sub>3</sub> fo tu'a li no boi | A1::etc |
 | manku | x<sub>1</sub> は暗い / 闇 | x<sub>1</sub> to'e culno lo gusni ku | A1::etc |
 | remna | x<sub>1</sub> は生物学的ヒト / ホモサピエンス | x<sub>1</sub> to'e spati sedu'i lo prenu ku | A1::etc |
 | bloti | x<sub>1</sub> は x<sub>2</sub> (客 / 荷)・ x<sub>3</sub> (原動力)の船 / ボート | x<sub>1</sub> marce x<sub>2</sub> fo x<sub>3</sub> ga'u lo djacu ku | B1::カテゴリ・ワード::乗り物 |
 | vinji | x<sub>1</sub> は x<sub>2</sub> (荷 / 乗客)・ x<sub>3</sub> (原動力)の飛行機 / 航空機 / 飛行船 | x<sub>1</sub> marce x<sub>2</sub> fo x<sub>3</sub> ne'i lo tsani ku | B1::カテゴリ・ワード::乗り物 |
-| briju | x<sub>1</sub> は x<sub>2</sub> (従業員)・ x<sub>3</sub> (所)の職場 / 事務所 / 営業所 / 局 | x<sub>1</sub> dinju lo nu x<sub>2</sub> to'e kelsi bu'u x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
+| briju | x<sub>1</sub> は x<sub>2</sub> (従業員)・ x<sub>3</sub> (所)の職場 / 事務所 / 営業所 / 局 | x<sub>1</sub> dinju lo nu x<sub>2</sub> to'e kelsi kei ku bu'u x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
 | ckule | x<sub>1</sub> は x<sub>2</sub> (所)で x<sub>3</sub> (科目)を x<sub>4</sub> (聴衆)に教える、 x<sub>5</sub> (者)によって営まれている教育機関 / 学習施設 | x<sub>1</sub> dinju bu'u x<sub>2</sub> lo nu cilre fi x<sub>3</sub> fa x<sub>4</sub> kei ku ca'i x<sub>5</sub> | B1::カテゴリ・ワード::店・建物・場所 |
 | gusta | x<sub>1</sub> は x<sub>2</sub> (飲み物 / 食べ物)を x<sub>3</sub> (客)に提供する飲食店 / レストラン / カフェテリア | x<sub>1</sub> jai bu'u citka lo se vecnu ku ne x<sub>2</sub> fai x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
 | zarci | x<sub>1</sub> は x<sub>2</sub> (取引品)・ x<sub>3</sub> (営者)の店 / 市場 | x<sub>1</sub> jai bu'u vecnu x<sub>2</sub> fai x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
@@ -166,7 +166,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | brodu | 代ブリディその5[x<sub>1</sub> を始めとするPS全体が文脈次第] | | D1::カテゴリ・ワード::broda |
 | creka | x<sub>1</sub> は x<sub>2</sub> (素材)の上着 / トップス | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo cutne je betfu ku | D1::カテゴリ・ワード::服飾 |
 | cutci | x<sub>1</sub> は x<sub>2</sub> (足 / ひづめ)を覆う / 守るための x<sub>3</sub> (素材)の靴 | x<sub>1</sub> taxfu x<sub>2</sub> ma'e tezu'e lo nu na'e xrani ku | D1::カテゴリ・ワード::服飾 |
-| gluta | x<sub>1</sub> は手袋 / グローブ / ミトン | taxfu lo xance ku | D1::カテゴリ・ワード::服飾 |
+| gluta | x<sub>1</sub> は手袋 / グローブ / ミトン | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo xance ku | D1::カテゴリ・ワード::服飾 |
 | mapku | x<sub>1</sub> は x<sub>2</sub> (素材)の帽子 / 冠 / 兜 / ヘルメット | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo stedu ku | D1::カテゴリ・ワード::服飾 |
 | palku | x<sub>1</sub> は x<sub>2</sub> (素材)のズボン / スラックス / パンツ(女性用) | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo to'e birka ku | D1::カテゴリ・ワード::服飾 |
 | pastu | x<sub>1</sub> は(素材)のローブ / チュニック / ガウン / ドレス | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo ctune bi'o birka ku | D1::カテゴリ・ワード::服飾 |
