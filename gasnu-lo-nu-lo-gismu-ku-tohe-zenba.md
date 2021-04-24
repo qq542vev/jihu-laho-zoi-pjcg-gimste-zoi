@@ -132,7 +132,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザー�
 | dunda | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> (者)に与える / 贈る / 授ける | vecnu be fo tu'a li no | A1::etc |
 | manku | x<sub>1</sub> は暗い / 闇 | to'e culno be lo gusni ku | A1::etc |
 | remna | x<sub>1</sub> は生物学的ヒト / ホモサピエンス | to'e spati be sedu'i lo prenu ku | A1::etc |
-| bloti | x<sub>1</sub> は x<sub>2</sub> (客 / 荷)・ x<sub>3</sub> (原動力)の船 / ボート | marce be ga'u lo djacu ku  | B1::カテゴリ・ワード::乗り物 |
+| bloti | x<sub>1</sub> は x<sub>2</sub> (客 / 荷)・ x<sub>3</sub> (原動力)の船 / ボート | marce be ga'u lo djacu ku | B1::カテゴリ・ワード::乗り物 |
 | vinji | x<sub>1</sub> は x<sub>2</sub> (荷 / 乗客)・ x<sub>3</sub> (原動力)の飛行機 / 航空機 / 飛行船 | marce be ne'i lo tsani ku | B1::カテゴリ・ワード::乗り物 |
 | briju | x<sub>1</sub> は x<sub>2</sub> (従業員)・ x<sub>3</sub> (所)の職場 / 事務所 / 営業所 / 局 | jai bu'u to'e kelsi | B1::カテゴリ・ワード::店・建物・場所 |
 | ckule | x<sub>1</sub> は x<sub>2</sub> (所)で x<sub>3</sub> (科目)を x<sub>4</sub> (聴衆)に教える、 x<sub>5</sub> (者)によって営まれている教育機関 / 学習施設 | jai bu'u to'e cilre | B1::カテゴリ・ワード::店・建物・場所 |
@@ -148,10 +148,10 @@ Ankiで以上のカードを全て選択する場合、カードブラウザー�
 | vitke | x<sub>1</sub> は x<sub>2</sub> (者)・ x<sub>3</sub> (所 / 事)の客; x<sub>1</sub> は x<sub>2</sub> ・ x<sub>3</sub> を訪れる | klama be tezu'e lo nu to'e vecnu kei ku | B1::etc |
 | cpina | x<sub>1</sub> は x<sub>2</sub> (味覚者)にとってからい / スパイシー | se citka be seri'a lo nu ne'i lo moklu ku cortu kei ku | C1::カテゴリ・ワード::味 |
 | cmima | x<sub>1</sub> は x<sub>2</sub> (集合)の成員 / メンバー; x<sub>1</sub> は x<sub>2</sub> に属する | te girzu | C1::カテゴリ・ワード::集団 |
-| grake | x<sub>1</sub> は x<sub>2</sub> (数)・ x<sub>3</sub> (基準)のグラム | co'e be la .gram. bei li x2 | C1::カテゴリ・ワード::単位 |
-| mitre | x<sub>1</sub> は x<sub>2</sub> (数量)・ x<sub>3</sub> (方向)・ x<sub>4</sub> (基準)のメートル; x<sub>1</sub> は x<sub>2</sub> メートル | co'e be la .meter. bei li x2 | C1::カテゴリ・ワード::単位 |
-| xampo | x<sub>1</sub> は x<sub>2</sub> (数)・ x<sub>3</sub> (基準)のアンペア | co'e be la .amper. bei li x2 | C1::カテゴリ・ワード::単位 |
-| ciblu | x<sub>1</sub> は x<sub>2</sub> (生体)の血 / 血液 | xunre no'e sligu be ne'i lo to'e menli ku  | C1::etc |
+| grake | x<sub>1</sub> は x<sub>2</sub> (数)・ x<sub>3</sub> (基準)のグラム | co'e be la .gram. bei li x<sub>2</sub> | C1::カテゴリ・ワード::単位 |
+| mitre | x<sub>1</sub> は x<sub>2</sub> (数量)・ x<sub>3</sub> (方向)・ x<sub>4</sub> (基準)のメートル; x<sub>1</sub> は x<sub>2</sub> メートル | co'e be la .meter. bei li x<sub>2</sub> | C1::カテゴリ・ワード::単位 |
+| xampo | x<sub>1</sub> は x<sub>2</sub> (数)・ x<sub>3</sub> (基準)のアンペア | co'e be la .amper. bei li x<sub>2</sub> | C1::カテゴリ・ワード::単位 |
+| ciblu | x<sub>1</sub> は x<sub>2</sub> (生体)の血 / 血液 | xunre no'e sligu be ne'i lo to'e menli ku | C1::etc |
 | speni | x<sub>1</sub> は x<sub>2</sub> と結婚している / の配偶者、 x<sub>3</sub> (法律 / 規則 / 慣習)のもと | bilga be lo nu kansa kei ku bei mu'i lo nu prami kei ku | C1::etc |
 | stapa | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> で踏む | gasnu be lo nu lo to'e xance ku cpana kei ku | C1::etc |
 | jenmi | x<sub>1</sub> (群)は x<sub>2</sub> (群 / 共同体)に奉仕する、 x<sub>3</sub> (機動特性)の軍隊 | bende be loi sonci ku | D1::カテゴリ・ワード::兵 |
