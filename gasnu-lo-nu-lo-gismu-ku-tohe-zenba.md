@@ -163,7 +163,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | narju | x<sub>1</sub> は橙色 / オレンジ色 | x<sub>1</sub> skari tai lo fagri ku | D1::カテゴリ・ワード::色 |
 | jenmi | x<sub>1</sub> (群)は x<sub>2</sub> (群 / 共同体)に奉仕する、 x<sub>3</sub> (機動特性)の軍隊 | x<sub>1</sub> bende seva'u x<sub>2</sub> loi sonci ku | D1::カテゴリ・ワード::兵 |
 | pulji | x<sub>1</sub> は x<sub>2</sub> (法 / 治安)を守る警察(官) | x<sub>1</sub> lebna ja'i x<sub>2</sub> lo ka lo zekri prenu ku to'e bilga kei ku | D1::カテゴリ・ワード::兵 |
-| ckana | x<sub>1</sub> は x<sub>2</sub> (素材)の、 x<sub>3</sub> (者 / 物 / 事)を支えるための寝台 / ベッド | x<sub>1</sub> sligu x<sub>2</sub> to'e ga'u x<sub>3</sub> ne lo vreta sipna ku | D1::カテゴリ・ワード::寝具 |
+| ckana | x<sub>1</sub> は x<sub>2</sub> (素材)の、 x<sub>3</sub> (者 / 物 / 事)を支えるための寝台 / ベッド | x<sub>1</sub> kicne fi x<sub>2</sub> fe lo nu x<sub>3</sub> vreta sipna kei ku | D1::カテゴリ・ワード::寝具 |
 | cinba | x<sub>1</sub> は x<sub>2</sub> (対象本体)・ x<sub>3</sub> (対象箇所)にキス / 接吻 / くちづけする | x<sub>1</sub> pencu x<sub>2</sub> x<sub>3</sub> lo moklu ku | D1::カテゴリ・ワード::性愛 |
 | gletu | x<sub>1</sub> は x<sub>2</sub> と性交 / 交尾 / セックスする | x<sub>1</sub> pluka pencu x<sub>2</sub> | D1::カテゴリ・ワード::性愛 |
 | broda | 代ブリディその1[x<sub>1</sub> を始めとするPS全体が文脈次第] | | D1::カテゴリ・ワード::broda |
