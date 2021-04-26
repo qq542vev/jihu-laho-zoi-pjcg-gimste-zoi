@@ -140,8 +140,8 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | gusta | x<sub>1</sub> は x<sub>2</sub> (飲み物 / 食べ物)を x<sub>3</sub> (客)に提供する飲食店 / レストラン / カフェテリア | x<sub>1</sub> jai bu'u citka x<sub>2</sub> ne lo se vecnu ku fai x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
 | zarci | x<sub>1</sub> は x<sub>2</sub> (取引品)・ x<sub>3</sub> (営者)の店 / 市場 | x<sub>1</sub> jai bu'u vecnu x<sub>2</sub> fai x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
 | zdani | x<sub>1</sub> は x<sub>2</sub> の(ための)巣 / 家 / ねぐら / アジト | x<sub>1</sub> ne tezu'e lo nu xabju kei ku dinju x<sub>2</sub> | B1::カテゴリ・ワード::店・建物・場所 |
-| stuzi | x<sub>1</sub> は x<sub>2</sub> (物 / 事)の本質的 / 恒久的な場所 / 現場 | x<sub>1</sub> jai bu'u co'e ra'a x<sub>2</sub> | B1::カテゴリ・ワード::所在 |
-| lalxu | x<sub>1</sub> は x<sub>2</sub> (所)の湖 / 池 / 水たまり | x<sub>1</sub> ne lo stali ku djacu bu'u x<sub>2</sub> | B1::カテゴリ・ワード::水辺 |
+| stuzi | x<sub>1</sub> は x<sub>2</sub> (物 / 事)の本質的 / 恒久的な場所 / 現場 | x<sub>1</sub> jai (no'e / to'e) ve'i co'e bu'u x<sub>2</sub> | B1::カテゴリ・ワード::所在 |
+| lalxu | x<sub>1</sub> は x<sub>2</sub> (所)の湖 / 池 / 水たまり | x<sub>1</sub> se stali bu'u x<sub>2</sub> fa lo djacu ku | B1::カテゴリ・ワード::水辺 |
 | rirxe | x<sub>1</sub> は x<sub>2</sub> (土地)の x<sub>3</sub> (流域)が x<sub>4</sub> (河口)に流れる河川 | x<sub>1</sub> djacu dargu bu'u x<sub>2</sub> fi x<sub>3</sub> fe x<sub>4</sub> | B1::カテゴリ・ワード::水辺 |
 | cidja | x<sub>1</sub> は x<sub>2</sub> (摂食者)のための食べ物 / 食糧 / 餌; x<sub>1</sub> は x<sub>2</sub> に栄養価を与える; x<sub>1</sub> は食用 | x<sub>1</sub> se citka x<sub>2</sub> | B1::カテゴリ・ワード::ご飯 |
 | sanmi | x<sub>1</sub> (群)は x<sub>2</sub> (品 / コース)の食事 / ごはん | x<sub>1</sub> gunma x<sub>2</sub> ne lo se citka ku | B1::カテゴリ・ワード::ご飯 |
