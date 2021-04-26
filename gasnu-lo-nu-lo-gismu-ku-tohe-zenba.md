@@ -7,7 +7,7 @@
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
 ##   version - 0.1.0
-##   date - 2021-04-24
+##   date - 2021-04-26
 ##   since - 2021-04-24
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -19,7 +19,7 @@
 ##   * Bag report - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
-# カードの枚数を減らす
+# gismuを更に減らす実験的試み
 
 **このページの内容は実験的です。実際にテストされていません。**
 
@@ -162,7 +162,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | bunre | x<sub>1</sub> は茶色 / 黄褐色 / 小麦色 | x<sub>1</sub> skari tai lo dertu ku | D1::カテゴリ・ワード::色 |
 | narju | x<sub>1</sub> は橙色 / オレンジ色 | x<sub>1</sub> skari tai lo fagri ku | D1::カテゴリ・ワード::色 |
 | jenmi | x<sub>1</sub> (群)は x<sub>2</sub> (群 / 共同体)に奉仕する、 x<sub>3</sub> (機動特性)の軍隊 | x<sub>1</sub> bende seva'u x<sub>2</sub> loi sonci ku | D1::カテゴリ・ワード::兵 |
-| pulji | x<sub>1</sub> は x<sub>2</sub> (法 / 治安)を守る警察(官) | x<sub>1</sub> lebna ja'i x<sub>2</sub> lo ka lo zekri prenu ku bilga kei ku | D1::カテゴリ・ワード::兵 |
+| pulji | x<sub>1</sub> は x<sub>2</sub> (法 / 治安)を守る警察(官) | x<sub>1</sub> lebna ja'i x<sub>2</sub> lo ka lo zekri prenu ku to'e bilga kei ku | D1::カテゴリ・ワード::兵 |
 | ckana | x<sub>1</sub> は x<sub>2</sub> (素材)の、 x<sub>3</sub> (者 / 物 / 事)を支えるための寝台 / ベッド | x<sub>1</sub> sligu x<sub>2</sub> to'e ga'u x<sub>3</sub> ne lo vreta sipna ku | D1::カテゴリ・ワード::寝具 |
 | cinba | x<sub>1</sub> は x<sub>2</sub> (対象本体)・ x<sub>3</sub> (対象箇所)にキス / 接吻 / くちづけする | x<sub>1</sub> pencu x<sub>2</sub> x<sub>3</sub> lo moklu ku | D1::カテゴリ・ワード::性愛 |
 | gletu | x<sub>1</sub> は x<sub>2</sub> と性交 / 交尾 / セックスする | x<sub>1</sub> pluka pencu x<sub>2</sub> | D1::カテゴリ・ワード::性愛 |
