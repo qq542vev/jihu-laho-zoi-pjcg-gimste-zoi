@@ -133,7 +133,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | manku | x<sub>1</sub> は暗い / 闇 | x<sub>1</sub> to'e culno lo gusni ku | A1::etc |
 | tixnu | x<sub>1</sub> は x<sub>2</sub> (親)の娘 | x<sub>1</sub> ne lo ninmu ku se rirni x<sub>2</sub> | B1::ペア・ワード |
 | remna | x<sub>1</sub> は生物学的ヒト / ホモサピエンス | x<sub>1</sub> ne lo prenu ku to'e spati | A1::etc |
-| sisti | x<sub>1</sub> (者)は x<sub>2</sub> (動作 / 過程 / 状態)をやめる / 中止 / 終了する | x<sub>1</sub> to'e [cp'a / ca'o] gasnu x<sub>2</sub> | A1::etc |
+| sisti | x<sub>1</sub> (者)は x<sub>2</sub> (動作 / 過程 / 状態)をやめる / 中止 / 終了する | x<sub>1</sub> to'e [co'a / ca'o] gasnu x<sub>2</sub> | A1::etc |
 | bloti | x<sub>1</sub> は x<sub>2</sub> (客 / 荷)・ x<sub>3</sub> (原動力)の船 / ボート | x<sub>1</sub> marce x<sub>2</sub> fo x<sub>3</sub> ga'u lo djacu ku | B1::カテゴリ・ワード::乗り物 |
 | vinji | x<sub>1</sub> は x<sub>2</sub> (荷 / 乗客)・ x<sub>3</sub> (原動力)の飛行機 / 航空機 / 飛行船 | x<sub>1</sub> marce x<sub>2</sub> fo x<sub>3</sub> ne'i lo tsani ku | B1::カテゴリ・ワード::乗り物 |
 | briju | x<sub>1</sub> は x<sub>2</sub> (従業員)・ x<sub>3</sub> (所)の職場 / 事務所 / 営業所 / 局 | x<sub>1</sub> dinju lo nu x<sub>2</sub> to'e kelsi kei ku bu'u x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
