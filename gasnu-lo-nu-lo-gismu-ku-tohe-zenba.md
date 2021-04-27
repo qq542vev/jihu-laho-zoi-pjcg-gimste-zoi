@@ -44,7 +44,7 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | nanmu | x<sub>1</sub> は男(の人) | to'e ninmu | A1::ペア・ワード |
 | nanla | x<sub>1</sub> は x<sub>2</sub> (年齢)・ x<sub>3</sub> (基準)の少年 / 未成熟の男 | to'e nixli | A1::ペア・ワード |
 | nakni | x<sub>1</sub> は x<sub>2</sub> (生物種)の、 x<sub>3</sub> (体現性質)に基づく男性 / 雄; x<sub>1</sub> は男性的 | to'e fetsi | A1::ペア・ワード |
-| krasi | x<sub>1</sub> (所 / 事)は x<sub>2</sub> (物 / 者 / 事)の起源 / 根源 / 発祥地 | to'e fanmo | A1::ペア・ワード |
+| fanmo | x<sub>1</sub> (所 / 事)は x<sub>2</sub> (物 / 者 / 事)の起源 / 根源 / 発祥地 | to'e krasi | A1::ペア・ワード |
 | linto | x<sub>1</sub> は x<sub>2</sub> (基準)において軽い / 軽量 | to'e tilju | A1::ペア・ワード |
 | cliva | x<sub>1</sub> は x<sub>2</sub> から x<sub>3</sub> (経路)によって離れる / 発つ / 別れる / 去る; x<sub>1</sub> は x<sub>2</sub> を残す | to'e penmi, to'e stali | A1::ペア・ワード |
 | xebni | x<sub>1</sub> は x<sub>2</sub> (物 / 者 / 事)を憎む; x<sub>1</sub> は x<sub>2</sub> にたいする怨恨を抱いている; x<sub>2</sub> は憎らしい | to'e prami | A1::ペア・ワード |
@@ -125,10 +125,10 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | ----- | ---- | -------- | ---------- |
 | mamta | x<sub>1</sub> は x<sub>2</sub> の母親; x<sub>1</sub> は母性的 | x<sub>1</sub> ne lo ninmu ku rirni x<sub>2</sub> | A1::ペア・ワード |
 | nixli | x<sub>1</sub> は x<sub>2</sub> (年齢)・ x<sub>3</sub> (基準)の少女 / 未成熟の女 | x<sub>1</sub> ne lo ninmu ku verba x<sub>2</sub> | A1::ペア・ワード |
-| critu | x<sub>1</sub> は x<sub>2</sub> (年)・ x<sub>3</sub> (所)の秋季 | x<sub>1</sub> crisa mi'i to'e crisa x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::春夏秋冬 |
-| vensa | x<sub>1</sub> は x<sub>2</sub> (年)・ x<sub>3</sub> (所)の春季 | x<sub>1</sub> to'e crisa mi'i crisa x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::春夏秋冬 |
-| cerni | x<sub>1</sub> は x<sub>2</sub> (日)・ x<sub>3</sub> (所)の朝 | x<sub>1</sub> to'e donri mi'i donri x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::朝昼晩夜 |
-| vanci | x<sub>1</sub> は x<sub>2</sub> (日)・ x<sub>3</sub> (所)の夕方 / 夕暮れ / 晩 | x<sub>1</sub> donri mi'i to'e donri x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::朝昼晩夜 |
+| critu | x<sub>1</sub> は x<sub>2</sub> (年)・ x<sub>3</sub> (所)の秋季 | x<sub>1</sub> citsi fi x<sub>2</sub> bu'u x<sub>3</sub> fe lo crisa ku ke'i bi'o ke'i lo to'e crisa ku | A1::カテゴリ・ワード::春夏秋冬 |
+| vensa | x<sub>1</sub> は x<sub>2</sub> (年)・ x<sub>3</sub> (所)の春季 | x<sub>1</sub> citsi fi x<sub>2</sub> bu'u x<sub>3</sub> fe lo to'e crisa ku ke'i bi'o ke'i lo crisa ku | A1::カテゴリ・ワード::春夏秋冬 |
+| cerni | x<sub>1</sub> は x<sub>2</sub> (日)・ x<sub>3</sub> (所)の朝 | x<sub>1</sub> tcika fi x<sub>2</sub> x<sub>3</sub> fe lo to'e donri ku ke'i bi'o ke'i lo donri ku | A1::カテゴリ・ワード::朝昼晩夜 |
+| vanci | x<sub>1</sub> は x<sub>2</sub> (日)・ x<sub>3</sub> (所)の夕方 / 夕暮れ / 晩 | x<sub>1</sub> tcika fi x<sub>2</sub> x<sub>3</sub> fe lo donri ku ke'i bi'o ke'i lo to'e donri ku | A1::カテゴリ・ワード::朝昼晩夜 |
 | dunda | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> (者)に与える / 贈る / 授ける | x<sub>1</sub> vecnu x<sub>2</sub> x<sub>3</sub> fo tu'a li no boi | A1::etc |
 | manku | x<sub>1</sub> は暗い / 闇 | x<sub>1</sub> to'e culno lo gusni ku | A1::etc |
 | tixnu | x<sub>1</sub> は x<sub>2</sub> (親)の娘 | x<sub>1</sub> ne lo ninmu ku se rirni x<sub>2</sub> | B1::ペア・ワード |
