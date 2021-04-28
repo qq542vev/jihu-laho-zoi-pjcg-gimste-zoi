@@ -23,7 +23,7 @@
 
 このプロジェクトは[PJCG gimste](https://cogas.github.io/pages/lojbo/pjcg_gimste/)の成果に基づいて、新たな学習教材を作成する試みです。
 
-PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジェクトです。[ロジバン若手の会](https://groups.google.com/g/ponjo_lojbo_citno_girzu)のメンバーの方々が使用頻度が多いgismuの中からより重要なものを選定し、[.cogas.](https://cogas.github.io/)さんによって纏められました。
+PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジェクトです。[ロジバン若手の会](https://groups.google.com/g/ponjo_lojbo_citno_girzu)のメンバーの方々が使用頻度が多いgismuの中からより重要なものを選定し、[cogas](https://cogas.github.io/)さんによって纏められました。
 
 # 成果物
 
