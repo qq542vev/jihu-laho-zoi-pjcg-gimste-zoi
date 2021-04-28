@@ -7,7 +7,7 @@
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
 ##   version - 0.1.0
-##   date - 2021-04-26
+##   date - 2021-04-28
 ##   since - 2021-04-24
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -125,6 +125,8 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | ----- | ---- | -------- | ---------- |
 | mamta | x<sub>1</sub> は x<sub>2</sub> の母親; x<sub>1</sub> は母性的 | x<sub>1</sub> ne lo ninmu ku rirni x<sub>2</sub> | A1::ペア・ワード |
 | nixli | x<sub>1</sub> は x<sub>2</sub> (年齢)・ x<sub>3</sub> (基準)の少女 / 未成熟の女 | x<sub>1</sub> ne lo ninmu ku verba x<sub>2</sub> | A1::ペア・ワード |
+| stici | x<sub>1</sub> は x<sub>2</sub> に対して x<sub>3</sub> (照合枠)における西方 / 西側 | x<sub>1</sub> noi ke'a to'e pritu lo snanu ku ku'o farna x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::東西南北 |
+| stuna | x<sub>1</sub> は x<sub>2</sub> に対して x<sub>3</sub> (照合枠)における東方 / 東側 | x<sub>1</sub> noi ke'a pritu lo snanu ku ku'o farna x<sub>2</sub> x<sub>3</sub> | A1::カテゴリ・ワード::東西南北 |
 | critu | x<sub>1</sub> は x<sub>2</sub> (年)・ x<sub>3</sub> (所)の秋季 | x<sub>1</sub> citsi fi x<sub>2</sub> bu'u x<sub>3</sub> fe lo crisa ku ke'i bi'o ke'i lo to'e crisa ku | A1::カテゴリ・ワード::春夏秋冬 |
 | vensa | x<sub>1</sub> は x<sub>2</sub> (年)・ x<sub>3</sub> (所)の春季 | x<sub>1</sub> citsi fi x<sub>2</sub> bu'u x<sub>3</sub> fe lo to'e crisa ku ke'i bi'o ke'i lo crisa ku | A1::カテゴリ・ワード::春夏秋冬 |
 | cerni | x<sub>1</sub> は x<sub>2</sub> (日)・ x<sub>3</sub> (所)の朝 | x<sub>1</sub> tcika fi x<sub>2</sub> x<sub>3</sub> fe lo to'e donri ku ke'i bi'o ke'i lo donri ku | A1::カテゴリ・ワード::朝昼晩夜 |
@@ -193,4 +195,4 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 
 Ankiで以上のカードを全て選択する場合、カードブラウザの検索欄に次の文を入力してください。
 
-`"deck:PJCG gimste Lv.1 (519語)" ("valsi:mamta" or "valsi:nixli" or "valsi:critu" or "valsi:vensa" or "valsi:cerni" or "valsi:vanci" or "valsi:dunda" or "valsi:manku" or "valsi:tixnu" or "valsi:remna" or "valsi:sisti" or "valsi:bloti" or "valsi:vinji" or "valsi:briju" or "valsi:ckule" or "valsi:gusta" or "valsi:zarci" or "valsi:zdani" or "valsi:stuzi" or "valsi:lalxu" or "valsi:rirxe" or "valsi:cidja" or "valsi:sanmi" or "valsi:lojbo" or "valsi:vitke" or "valsi:cpina" or "valsi:cmima" or "valsi:grake" or "valsi:mitre" or "valsi:xampo" or "valsi:ciblu" or "valsi:ranji" or "valsi:speni" or "valsi:jatna" or "valsi:klaku" or "valsi:limna" or "valsi:stapa" or "valsi:savru" or "valsi:bunre" or "valsi:narju" or "valsi:jenmi" or "valsi:pulji" or "valsi:ckana" or "valsi:matci" or "valsi:cinba" or "valsi:gletu" or "valsi:broda" or "valsi:brode" or "valsi:brodi" or "valsi:brodo" or "valsi:brodu" or "valsi:creka" or "valsi:cutci" or "valsi:gluta" or "valsi:mapku" or "valsi:palku" or "valsi:pastu" or "valsi:smoka" or "valsi:canko" or "valsi:catra" or "valsi:cifnu" or "valsi:fange" or "valsi:kagni" or "valsi:livla" or "valsi:vacri" or "valsi:vindu" or "valsi:xagji")`
+`"deck:PJCG gimste Lv.1 (519語)" ("valsi:mamta" or "valsi:nixli" or "valsi:stici" or "valsi:stuna" or "valsi:critu" or "valsi:vensa" or "valsi:cerni" or "valsi:vanci" or "valsi:dunda" or "valsi:manku" or "valsi:tixnu" or "valsi:remna" or "valsi:sisti" or "valsi:bloti" or "valsi:vinji" or "valsi:briju" or "valsi:ckule" or "valsi:gusta" or "valsi:zarci" or "valsi:zdani" or "valsi:stuzi" or "valsi:lalxu" or "valsi:rirxe" or "valsi:cidja" or "valsi:sanmi" or "valsi:lojbo" or "valsi:vitke" or "valsi:cpina" or "valsi:cmima" or "valsi:grake" or "valsi:mitre" or "valsi:xampo" or "valsi:ciblu" or "valsi:ranji" or "valsi:speni" or "valsi:jatna" or "valsi:klaku" or "valsi:limna" or "valsi:stapa" or "valsi:savru" or "valsi:bunre" or "valsi:narju" or "valsi:jenmi" or "valsi:pulji" or "valsi:ckana" or "valsi:matci" or "valsi:cinba" or "valsi:gletu" or "valsi:broda" or "valsi:brode" or "valsi:brodi" or "valsi:brodo" or "valsi:brodu" or "valsi:creka" or "valsi:cutci" or "valsi:gluta" or "valsi:mapku" or "valsi:palku" or "valsi:pastu" or "valsi:smoka" or "valsi:canko" or "valsi:catra" or "valsi:cifnu" or "valsi:fange" or "valsi:kagni" or "valsi:livla" or "valsi:vacri" or "valsi:vindu" or "valsi:xagji")`
