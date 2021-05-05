@@ -1,13 +1,13 @@
 <!--
 ## File: readme.md
 ##
-## 「ji'u la'o .zoi. PJCG gimste .zoi.」の内のgismuを更に減らす実験的試み
+## 「PJCG gimste」のgismuを更に減らす実験的試み
 ##
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.0
-##   date - 2021-04-28
+##   version - 0.1.1
+##   date - 2021-05-05
 ##   since - 2021-04-24
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -19,7 +19,7 @@
 ##   * Bag report - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
-# gismuを更に減らす実験的試み
+# 「PJCG gimste」のgismuを更に減らす実験的試み
 
 **このページの内容は実験的です。実際にテストされていません。**
 
@@ -162,6 +162,15 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | klaku | x<sub>1</sub> は x<sub>2</sub> (涙)・ x<sub>3</sub> (理由)で泣く | x<sub>1</sub> jai ci'o movdu fa x<sub>2</sub> ne lo djacu ku mu'i x<sub>3</sub> lo kanla to'e nenri ku lo kanla ku | C1::etc |
 | limna | x<sub>1</sub> は x<sub>2</sub> (液体)中を泳ぐ / 水泳する | x<sub>1</sub> movdu ne'i x<sub>2</sub> ne lo no'e sligu ku | C1::etc |
 | stapa | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> で踏む | x<sub>1</sub> jai gau cpana x<sub>2</sub> fai x<sub>3</sub> | C1::etc |
+| bakni | x<sub>1</sub> は x<sub>2</sub> (種類)のウシ属動物 | x<sub>1</sub> ne la .bos. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
+| banfi | x<sub>1</sub> は x<sub>2</sub> (種類)の両生綱 / 両生類動物 | x<sub>1</sub> ne la .amfibian. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
+| cinki | x<sub>1</sub> は x<sub>2</sub> (種類)の昆虫綱(甲虫 / チョウ / ハエ / ハチ / カメムシ / バッタ / トンボ…目) | x<sub>1</sub> ne la .insekt. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
+| cipni | x<sub>1</sub> は x<sub>2</sub> (種類)のトリ綱(ダチョウ / キジ / カモ / カッコウ / オウム / ツバメ / フクロウ / ハト / ツル / コウノトリ / ペリカン / フラミンゴ / ペンギン…目) | x<sub>1</sub> ne la .bard. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
+| curnu | x<sub>1</sub> は x<sub>2</sub> (種類)の無脊椎動物(ミミズ / クラゲ / イカ等) | x<sub>1</sub> ne la .invertebratan. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
+| gerku | x<sub>1</sub> は x<sub>2</sub> (種類)のイヌ科動物(オオカミ / イエイヌ / コヨーテ / ジャッカル / リカオン / タヌキ / キツネ等) | x<sub>1</sub> ne la .dog. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
+| mabru | x<sub>1</sub> は x<sub>2</sub> (種類)の哺乳綱動物 | x<sub>1</sub> ne ladru to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
+| mlatu | x<sub>1</sub> は x<sub>2</sub> (種類)のネコ科動物(チーター / イエネコ / ヤマネコ / ヒョウ / ピューマ等) | x<sub>1</sub> ne la .kiat. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
+| respa | x<sub>1</sub> は x<sub>2</sub> (種類)の爬虫綱 / 爬虫類(カメ / トカゲ / ヘビ / ワニ) | x<sub>1</sub> ne la .reptilian. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | savru | x<sub>1</sub> は x<sub>2</sub> (者)・ x<sub>3</sub> (知覚体系)にたいする騒音 / ノイズ | x<sub>1</sub> to'e kufra sance ci'o x<sub>2</sub> vedu'o x<sub>3</sub> | D1::カテゴリ・ワード::音 |
 | bunre | x<sub>1</sub> は茶色 / 黄褐色 / 小麦色 | x<sub>1</sub> skari tai lo dertu ku | D1::カテゴリ・ワード::色 |
 | narju | x<sub>1</sub> は橙色 / オレンジ色 | x<sub>1</sub> skari tai lo fagri ku | D1::カテゴリ・ワード::色 |
@@ -195,4 +204,4 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 
 Ankiで以上のカードを全て選択する場合、カードブラウザの検索欄に次の文を入力してください。
 
-`"deck:PJCG gimste Lv.1 (519語)" ("valsi:mamta" or "valsi:nixli" or "valsi:stici" or "valsi:stuna" or "valsi:critu" or "valsi:vensa" or "valsi:cerni" or "valsi:vanci" or "valsi:dunda" or "valsi:manku" or "valsi:tixnu" or "valsi:remna" or "valsi:sisti" or "valsi:bloti" or "valsi:vinji" or "valsi:briju" or "valsi:ckule" or "valsi:gusta" or "valsi:zarci" or "valsi:zdani" or "valsi:stuzi" or "valsi:lalxu" or "valsi:rirxe" or "valsi:cidja" or "valsi:sanmi" or "valsi:lojbo" or "valsi:vitke" or "valsi:cpina" or "valsi:cmima" or "valsi:grake" or "valsi:mitre" or "valsi:xampo" or "valsi:ciblu" or "valsi:ranji" or "valsi:speni" or "valsi:jatna" or "valsi:klaku" or "valsi:limna" or "valsi:stapa" or "valsi:savru" or "valsi:bunre" or "valsi:narju" or "valsi:jenmi" or "valsi:pulji" or "valsi:ckana" or "valsi:matci" or "valsi:cinba" or "valsi:gletu" or "valsi:broda" or "valsi:brode" or "valsi:brodi" or "valsi:brodo" or "valsi:brodu" or "valsi:creka" or "valsi:cutci" or "valsi:gluta" or "valsi:mapku" or "valsi:palku" or "valsi:pastu" or "valsi:smoka" or "valsi:canko" or "valsi:catra" or "valsi:cifnu" or "valsi:fange" or "valsi:kagni" or "valsi:livla" or "valsi:vacri" or "valsi:vindu" or "valsi:xagji")`
+`"deck:PJCG gimste Lv.1 (519語)" ("valsi:mamta" or "valsi:nixli" or "valsi:stici" or "valsi:stuna" or "valsi:critu" or "valsi:vensa" or "valsi:cerni" or "valsi:vanci" or "valsi:dunda" or "valsi:manku" or "valsi:tixnu" or "valsi:remna" or "valsi:sisti" or "valsi:bloti" or "valsi:vinji" or "valsi:briju" or "valsi:ckule" or "valsi:gusta" or "valsi:zarci" or "valsi:zdani" or "valsi:stuzi" or "valsi:lalxu" or "valsi:rirxe" or "valsi:cidja" or "valsi:sanmi" or "valsi:lojbo" or "valsi:vitke" or "valsi:cpina" or "valsi:cmima" or "valsi:grake" or "valsi:mitre" or "valsi:xampo" or "valsi:ciblu" or "valsi:ranji" or "valsi:speni" or "valsi:jatna" or "valsi:klaku" or "valsi:limna" or "valsi:stapa" or "valsi:bakni" or "valsi:banfi" or "valsi:cinki" or "valsi:cipni" or "valsi:curnu" or "valsi:gerku" or "valsi:mabru" or "valsi:mlatu" or "valsi:respa" or "valsi:savru" or "valsi:bunre" or "valsi:narju" or "valsi:jenmi" or "valsi:pulji" or "valsi:ckana" or "valsi:matci" or "valsi:cinba" or "valsi:gletu" or "valsi:broda" or "valsi:brode" or "valsi:brodi" or "valsi:brodo" or "valsi:brodu" or "valsi:creka" or "valsi:cutci" or "valsi:gluta" or "valsi:mapku" or "valsi:palku" or "valsi:pastu" or "valsi:smoka" or "valsi:canko" or "valsi:catra" or "valsi:cifnu" or "valsi:fange" or "valsi:kagni" or "valsi:livla" or "valsi:vacri" or "valsi:vindu" or "valsi:xagji")`

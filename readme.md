@@ -7,7 +7,7 @@
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
 ##   version - 0.1.5
-##   date - 2021-05-04
+##   date - 2021-05-05
 ##   since - 2021-04-01
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -28,7 +28,7 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 # 成果物
 
  * [Ankiのデッキパッケージ](https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/releases)
- * [gismuを減らす実験的試み](gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md)
+ * [「PJCG gimste」のgismuを更に減らす実験的試み](gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md)
 
 ## Ankiのデッキパッケージ
 
