@@ -28,7 +28,7 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 # 成果物
 
  * [Ankiのデッキパッケージ](https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/releases)
- * [「PJCG gimste」のgismuを更に減らす実験的試み](gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md)
+ * [PJCG gimsteのgismuを更に減らす実験的試み](gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md)
 
 ## Ankiのデッキパッケージ
 

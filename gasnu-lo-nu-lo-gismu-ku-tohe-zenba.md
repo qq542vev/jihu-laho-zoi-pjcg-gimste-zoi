@@ -1,7 +1,7 @@
 <!--
-## File: readme.md
+## File: gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md
 ##
-## 「PJCG gimste」のgismuを更に減らす実験的試み
+## PJCG gimsteのgismuを更に減らす実験的試み
 ##
 ## Metadata:
 ##
@@ -19,7 +19,7 @@
 ##   * Bag report - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
-# 「PJCG gimste」のgismuを更に減らす実験的試み
+# PJCG gimsteのgismuを更に減らす実験的試み
 
 **このページの内容は実験的です。実際にテストされていません。**
 
