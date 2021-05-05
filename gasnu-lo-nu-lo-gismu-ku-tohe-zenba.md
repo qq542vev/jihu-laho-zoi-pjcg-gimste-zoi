@@ -168,7 +168,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | cipni | x<sub>1</sub> は x<sub>2</sub> (種類)のトリ綱(ダチョウ / キジ / カモ / カッコウ / オウム / ツバメ / フクロウ / ハト / ツル / コウノトリ / ペリカン / フラミンゴ / ペンギン…目) | x<sub>1</sub> ne la .bard. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | curnu | x<sub>1</sub> は x<sub>2</sub> (種類)の無脊椎動物(ミミズ / クラゲ / イカ等) | x<sub>1</sub> ne la .invertebratan. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | gerku | x<sub>1</sub> は x<sub>2</sub> (種類)のイヌ科動物(オオカミ / イエイヌ / コヨーテ / ジャッカル / リカオン / タヌキ / キツネ等) | x<sub>1</sub> ne la .dog. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
-| mabru | x<sub>1</sub> は x<sub>2</sub> (種類)の哺乳綱動物 | x<sub>1</sub> ne ladru to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
+| mabru | x<sub>1</sub> は x<sub>2</sub> (種類)の哺乳綱動物 | x<sub>1</sub> ladru to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | mlatu | x<sub>1</sub> は x<sub>2</sub> (種類)のネコ科動物(チーター / イエネコ / ヤマネコ / ヒョウ / ピューマ等) | x<sub>1</sub> ne la .kiat. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | respa | x<sub>1</sub> は x<sub>2</sub> (種類)の爬虫綱 / 爬虫類(カメ / トカゲ / ヘビ / ワニ) | x<sub>1</sub> ne la .reptilian. to'e spati x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | savru | x<sub>1</sub> は x<sub>2</sub> (者)・ x<sub>3</sub> (知覚体系)にたいする騒音 / ノイズ | x<sub>1</sub> to'e kufra sance ci'o x<sub>2</sub> vedu'o x<sub>3</sub> | D1::カテゴリ・ワード::音 |
