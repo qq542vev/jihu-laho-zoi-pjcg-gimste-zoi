@@ -1,0 +1,15 @@
+{
+	"input": {
+		"text": "ふむ"
+	},
+	"voice": {
+		"languageCode": "ja-JP",
+                "name": "ja-JP-Wavenet-B",
+                "ssmlGender": "FEMALE"
+	},
+	"audioConfig": {
+		"audioEncoding": "LINEAR16",
+		"speakingRate": 0.85,
+		"pitch": -1.8
+	}
+}
