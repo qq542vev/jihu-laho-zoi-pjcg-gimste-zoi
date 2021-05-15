@@ -7,7 +7,7 @@
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
 ##   version - 0.1.1
-##   date - 2021-05-05
+##   date - 2021-05-15
 ##   since - 2021-04-24
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -93,7 +93,7 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | fliba | x<sub>1</sub> は x<sub>2</sub> (事)に失敗する; x<sub>1</sub> は x<sub>2</sub> を怠る | to'e snada | C1::ペア・ワード |
 | laldo | x<sub>1</sub> は x<sub>2</sub> (基準)において古い / 高齢 / 年寄り | to'e citno | C1::ペア・ワード |
 | stela | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> (仕組)で封じる錠 / ロック | to'e ckiku | C1::ペア・ワード |
-| kalri | x<sub>1</sub> は x<sub>2</sub> (通り抜けた先)へ x<sub>3</sub> (通り抜けるもの)にとって開いている | to'e ganlo | C1::ペア・ワード |
+| ganlo | x<sub>1</sub> は x<sub>2</sub> (到達されないもの / 所)にたいして x<sub>3</sub> (通過を妨げられているもの)にとって閉まっている; x<sub>1</sub> は x<sub>3</sub> が x<sub>2</sub> へ達することを妨げる | to'e kalri | C1::ペア・ワード |
 | slabu | x<sub>1</sub> は x<sub>2</sub> (者)にとって x<sub>3</sub> (性質)の点で x<sub>4</sub> (観点)から判断してなじみがある | to'e cnino | C1::ペア・ワード |
 | sampu | x<sub>1</sub> は x<sub>2</sub> (性質)に関して簡単 / 単純 | to'e pluja | C1::ペア・ワード |
 | kunti | x<sub>1</sub> は x<sub>2</sub> (内容)が無い; x<sub>1</sub> は空っぽ | to'e culno | C1::ペア・ワード |
@@ -115,7 +115,7 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 
 Ankiで以上のカードを全て選択する場合、カードブラウザの検索欄に次の文を入力してください。
 
-`"deck:PJCG gimste Lv.1 (519語)" ("valsi:badri" or "valsi:lacpu" or "valsi:cmalu" or "valsi:bartu" or "valsi:cikna" or "valsi:ctuca" or "valsi:cpacu" or "valsi:lenku" or "valsi:makcu" or "valsi:patfu" or "valsi:nanmu" or "valsi:nanla" or "valsi:nakni" or "valsi:krasi" or "valsi:linto" or "valsi:cliva" or "valsi:xebni" or "valsi:tordu" or "valsi:lunra" or "valsi:jarki" or "valsi:dunli" or "valsi:jmive" or "valsi:xlali" or "valsi:xadni" or "valsi:ruble" or "valsi:jamfu" or "valsi:tuple" or "valsi:blabi" or "valsi:grusi" or "valsi:pelxu" or "valsi:srasu" or "valsi:drudi" or "valsi:tumla" or "valsi:berti" or "valsi:stuna" or "valsi:cnita" or "valsi:trixe" or "valsi:zunle" or "valsi:nicte" or "valsi:vanci" or "valsi:critu" or "valsi:dunra" or "valsi:sanli" or "valsi:dizlo" or "valsi:balvi" or "valsi:lerci" or "valsi:cadzu" or "valsi:drani" or "valsi:bersa" or "valsi:tcidu" or "valsi:rigni" or "valsi:jdika" or "valsi:mleca" or "valsi:gapci" or "valsi:litki" or "valsi:danlu" or "valsi:kanro" or "valsi:sudga" or "valsi:jibni" or "valsi:fliba" or "valsi:laldo" or "valsi:stela" or "valsi:kalri" or "valsi:slabu" or "valsi:sampu" or "valsi:kunti" or "valsi:kusru" or "valsi:cabna" or "valsi:masno" or "valsi:frili" or "valsi:caxno" or "valsi:bruna" or "valsi:danfu" or "valsi:snura" or "valsi:macnu" or "valsi:fulta" or "valsi:zifre" or "valsi:rutni" or "valsi:sirji" or "valsi:senpi" or "valsi:ctino")`
+`"deck:PJCG gimste Lv.1 (519語)" ("valsi:badri" or "valsi:lacpu" or "valsi:cmalu" or "valsi:bartu" or "valsi:cikna" or "valsi:ctuca" or "valsi:cpacu" or "valsi:lenku" or "valsi:makcu" or "valsi:patfu" or "valsi:nanmu" or "valsi:nanla" or "valsi:nakni" or "valsi:krasi" or "valsi:linto" or "valsi:cliva" or "valsi:xebni" or "valsi:tordu" or "valsi:lunra" or "valsi:jarki" or "valsi:dunli" or "valsi:jmive" or "valsi:xlali" or "valsi:xadni" or "valsi:ruble" or "valsi:jamfu" or "valsi:tuple" or "valsi:blabi" or "valsi:grusi" or "valsi:pelxu" or "valsi:srasu" or "valsi:drudi" or "valsi:tumla" or "valsi:berti" or "valsi:stuna" or "valsi:cnita" or "valsi:trixe" or "valsi:zunle" or "valsi:nicte" or "valsi:vanci" or "valsi:critu" or "valsi:dunra" or "valsi:sanli" or "valsi:dizlo" or "valsi:balvi" or "valsi:lerci" or "valsi:cadzu" or "valsi:drani" or "valsi:bersa" or "valsi:tcidu" or "valsi:rigni" or "valsi:jdika" or "valsi:mleca" or "valsi:gapci" or "valsi:litki" or "valsi:danlu" or "valsi:kanro" or "valsi:sudga" or "valsi:jibni" or "valsi:fliba" or "valsi:laldo" or "valsi:stela" or "valsi:ganlo" or "valsi:slabu" or "valsi:sampu" or "valsi:kunti" or "valsi:kusru" or "valsi:cabna" or "valsi:masno" or "valsi:frili" or "valsi:caxno" or "valsi:bruna" or "valsi:danfu" or "valsi:snura" or "valsi:macnu" or "valsi:fulta" or "valsi:zifre" or "valsi:rutni" or "valsi:sirji" or "valsi:senpi" or "valsi:ctino")`
 
 ## 更にカードを減らす
 
