@@ -2,6 +2,9 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::A1::カテゴリ・ワード::姿勢
 
+#EXTINF:-1,sanli
 sanli.mp3
+#EXTINF:-1,vreta
 vreta.mp3
+#EXTINF:-1,zutse
 zutse.mp3

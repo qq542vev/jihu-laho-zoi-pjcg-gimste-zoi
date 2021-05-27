@@ -2,7 +2,11 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::C1::カテゴリ・ワード::味
 
-# cpina.mp3
+## #EXTINF:-1,cpina
+## cpina.mp3
+#EXTINF:-1,kurki
 kurki.mp3
+#EXTINF:-1,slari
 slari.mp3
+#EXTINF:-1,titla
 titla.mp3

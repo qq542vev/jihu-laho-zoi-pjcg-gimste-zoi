@@ -2,6 +2,9 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::D1::カテゴリ・ワード::類似
 
+#EXTINF:-1,simlu
 simlu.mp3
+#EXTINF:-1,simsa
 simsa.mp3
+#EXTINF:-1,simxu
 simxu.mp3

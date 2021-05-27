@@ -2,7 +2,11 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::C1::カテゴリ・ワード::表面
 
+#EXTINF:-1,cpana
 cpana.mp3
+#EXTINF:-1,pencu
 pencu.mp3
+#EXTINF:-1,punji
 punji.mp3
+#EXTINF:-1,sefta
 sefta.mp3

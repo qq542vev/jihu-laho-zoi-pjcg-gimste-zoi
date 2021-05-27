@@ -2,30 +2,57 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::A1::etc
 
+#EXTINF:-1,binxo
 binxo.mp3
+#EXTINF:-1,cmene
 cmene.mp3
+#EXTINF:-1,dasni
 dasni.mp3
+#EXTINF:-1,djacu
 djacu.mp3
+#EXTINF:-1,djuno
 djuno.mp3
-# dunda.mp3
+## #EXTINF:-1,dunda
+## dunda.mp3
+#EXTINF:-1,fagri
 fagri.mp3
+#EXTINF:-1,ganse
 ganse.mp3
+#EXTINF:-1,gunma
 gunma.mp3
+#EXTINF:-1,jbena
 jbena.mp3
+#EXTINF:-1,kakne
 kakne.mp3
+#EXTINF:-1,kelci
 kelci.mp3
+#EXTINF:-1,klama
 klama.mp3
+#EXTINF:-1,kufra
 kufra.mp3
+#EXTINF:-1,lamji
 lamji.mp3
-# manku.mp3
+## #EXTINF:-1,manku
+## manku.mp3
+#EXTINF:-1,melbi
 melbi.mp3
+#EXTINF:-1,minji
 minji.mp3
+#EXTINF:-1,mutce
 mutce.mp3
+#EXTINF:-1,namcu
 namcu.mp3
+#EXTINF:-1,nelci
 nelci.mp3
+#EXTINF:-1,pendo
 pendo.mp3
+#EXTINF:-1,pilno
 pilno.mp3
-# remna.mp3
-# sisti.mp3
+## #EXTINF:-1,remna
+## remna.mp3
+## #EXTINF:-1,sisti
+## sisti.mp3
+#EXTINF:-1,stali
 stali.mp3
+#EXTINF:-1,tavla
 tavla.mp3

@@ -2,6 +2,9 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::C1::カテゴリ・ワード::単位
 
+#EXTINF:-1,grake
 grake.mp3
+#EXTINF:-1,mitre
 mitre.mp3
+#EXTINF:-1,xampo
 xampo.mp3

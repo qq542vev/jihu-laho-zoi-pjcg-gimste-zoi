@@ -2,8 +2,13 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::D1::カテゴリ・ワード::命題感情
 
+#EXTINF:-1,birti
 birti.mp3
+#EXTINF:-1,krici
 krici.mp3
+#EXTINF:-1,morji
 morji.mp3
+#EXTINF:-1,senpi
 senpi.mp3
+#EXTINF:-1,smadi
 smadi.mp3

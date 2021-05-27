@@ -2,7 +2,11 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::A1::カテゴリ・ワード::東西南北
 
+#EXTINF:-1,berti
 berti.mp3
+#EXTINF:-1,snanu
 snanu.mp3
+#EXTINF:-1,stici
 stici.mp3
+#EXTINF:-1,stuna
 stuna.mp3

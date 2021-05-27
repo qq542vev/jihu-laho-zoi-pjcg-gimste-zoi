@@ -2,7 +2,11 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::A1::カテゴリ・ワード::春夏秋冬
 
+#EXTINF:-1,crisa
 crisa.mp3
+#EXTINF:-1,critu
 critu.mp3
+#EXTINF:-1,dunra
 dunra.mp3
+#EXTINF:-1,vensa
 vensa.mp3

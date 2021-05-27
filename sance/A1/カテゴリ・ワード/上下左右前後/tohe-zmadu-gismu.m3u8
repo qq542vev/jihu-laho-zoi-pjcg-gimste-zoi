@@ -2,9 +2,15 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::A1::カテゴリ・ワード::上下左右前後
 
-# cnita.mp3
+## #EXTINF:-1,cnita
+## cnita.mp3
+#EXTINF:-1,crane
 crane.mp3
+#EXTINF:-1,gapru
 gapru.mp3
+#EXTINF:-1,pritu
 pritu.mp3
-# trixe.mp3
-# zunle.mp3
+## #EXTINF:-1,trixe
+## trixe.mp3
+## #EXTINF:-1,zunle
+## zunle.mp3

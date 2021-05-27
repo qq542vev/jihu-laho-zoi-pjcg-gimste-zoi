@@ -2,67 +2,131 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::D1::カテゴリ・ワード
 
-# 動物/bakni.mp3
-# 動物/banfi.mp3
-# 動物/cinki.mp3
-# 動物/cipni.mp3
-# 動物/curnu.mp3
-# 動物/gerku.mp3
-# 動物/mabru.mp3
-# 動物/mlatu.mp3
-# 動物/respa.mp3
+## #EXTINF:-1,bakni
+## 動物/bakni.mp3
+## #EXTINF:-1,banfi
+## 動物/banfi.mp3
+## #EXTINF:-1,cinki
+## 動物/cinki.mp3
+## #EXTINF:-1,cipni
+## 動物/cipni.mp3
+## #EXTINF:-1,curnu
+## 動物/curnu.mp3
+## #EXTINF:-1,gerku
+## 動物/gerku.mp3
+## #EXTINF:-1,mabru
+## 動物/mabru.mp3
+## #EXTINF:-1,mlatu
+## 動物/mlatu.mp3
+## #EXTINF:-1,respa
+## 動物/respa.mp3
+#EXTINF:-1,birje
 飲み物/birje.mp3
+#EXTINF:-1,ckafi
 飲み物/ckafi.mp3
+#EXTINF:-1,jikru
 飲み物/jikru.mp3
+#EXTINF:-1,jisra
 飲み物/jisra.mp3
+#EXTINF:-1,ladru
 飲み物/ladru.mp3
+#EXTINF:-1,tcati
 飲み物/tcati.mp3
+#EXTINF:-1,vanju
 飲み物/vanju.mp3
+#EXTINF:-1,sance
 音/sance.mp3
-# 音/savru.mp3
+## #EXTINF:-1,savru
+## 音/savru.mp3
+#EXTINF:-1,voksa
 音/voksa.mp3
+#EXTINF:-1,birti
 命題感情/birti.mp3
+#EXTINF:-1,krici
 命題感情/krici.mp3
+#EXTINF:-1,morji
 命題感情/morji.mp3
-# 命題感情/senpi.mp3
+## #EXTINF:-1,senpi
+## 命題感情/senpi.mp3
+#EXTINF:-1,smadi
 命題感情/smadi.mp3
+#EXTINF:-1,bende
 集団/bende.mp3
+#EXTINF:-1,cecmu
 集団/cecmu.mp3
+#EXTINF:-1,klesi
 集団/klesi.mp3
+#EXTINF:-1,ckini
 関連/ckini.mp3
+#EXTINF:-1,srana
 関連/srana.mp3
+#EXTINF:-1,jitro
 命令/jitro.mp3
+#EXTINF:-1,minde
 命令/minde.mp3
+#EXTINF:-1,sazri
 命令/sazri.mp3
+#EXTINF:-1,tinbe
 命令/tinbe.mp3
-# 色/bunre.mp3
-# 色/narju.mp3
+## #EXTINF:-1,bunre
+## 色/bunre.mp3
+## #EXTINF:-1,narju
+## 色/narju.mp3
+#EXTINF:-1,zirpu
 色/zirpu.mp3
+#EXTINF:-1,simlu
 類似/simlu.mp3
+#EXTINF:-1,simsa
 類似/simsa.mp3
+#EXTINF:-1,simxu
 類似/simxu.mp3
-# 兵/jenmi.mp3
-# 兵/pulji.mp3
+## #EXTINF:-1,jenmi
+## 兵/jenmi.mp3
+## #EXTINF:-1,pulji
+## 兵/pulji.mp3
+#EXTINF:-1,sonci
 兵/sonci.mp3
-# 寝具/ckana.mp3
+## #EXTINF:-1,ckana
+## 寝具/ckana.mp3
+#EXTINF:-1,kicne
 寝具/kicne.mp3
-# 寝具/matci.mp3
-# 性愛/cinba.mp3
-# 性愛/gletu.mp3
-# broda/broda.mp3
-# broda/brode.mp3
-# broda/brodi.mp3
-# broda/brodo.mp3
-# broda/brodu.mp3
-# 服飾/creka.mp3
-# 服飾/cutci.mp3
+## #EXTINF:-1,matci
+## 寝具/matci.mp3
+## #EXTINF:-1,cinba
+## 性愛/cinba.mp3
+## #EXTINF:-1,gletu
+## 性愛/gletu.mp3
+## #EXTINF:-1,broda
+## broda/broda.mp3
+## #EXTINF:-1,brode
+## broda/brode.mp3
+## #EXTINF:-1,brodi
+## broda/brodi.mp3
+## #EXTINF:-1,brodo
+## broda/brodo.mp3
+## #EXTINF:-1,brodu
+## broda/brodu.mp3
+## #EXTINF:-1,creka
+## 服飾/creka.mp3
+## #EXTINF:-1,cutci
+## 服飾/cutci.mp3
+#EXTINF:-1,dakli
 服飾/dakli.mp3
+#EXTINF:-1,daski
 服飾/daski.mp3
-# 服飾/gluta.mp3
+## #EXTINF:-1,gluta
+## 服飾/gluta.mp3
+#EXTINF:-1,kosta
 服飾/kosta.mp3
-# 服飾/mapku.mp3
-# 服飾/palku.mp3
-# 服飾/pastu.mp3
+## #EXTINF:-1,mapku
+## 服飾/mapku.mp3
+## #EXTINF:-1,palku
+## 服飾/palku.mp3
+## #EXTINF:-1,pastu
+## 服飾/pastu.mp3
+#EXTINF:-1,skaci
 服飾/skaci.mp3
-# 服飾/smoka.mp3
+## #EXTINF:-1,smoka
+## 服飾/smoka.mp3
+#EXTINF:-1,taxfu
 服飾/taxfu.mp3

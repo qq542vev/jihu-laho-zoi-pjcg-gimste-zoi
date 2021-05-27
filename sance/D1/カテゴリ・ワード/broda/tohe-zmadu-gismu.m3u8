@@ -2,8 +2,13 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::D1::カテゴリ・ワード::broda
 
-# broda.mp3
-# brode.mp3
-# brodi.mp3
-# brodo.mp3
-# brodu.mp3
+## #EXTINF:-1,broda
+## broda.mp3
+## #EXTINF:-1,brode
+## brode.mp3
+## #EXTINF:-1,brodi
+## brodi.mp3
+## #EXTINF:-1,brodo
+## brodo.mp3
+## #EXTINF:-1,brodu
+## brodu.mp3

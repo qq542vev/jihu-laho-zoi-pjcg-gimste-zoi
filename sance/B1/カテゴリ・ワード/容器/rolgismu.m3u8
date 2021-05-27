@@ -2,11 +2,19 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::B1::カテゴリ・ワード::容器
 
+#EXTINF:-1,baktu
 baktu.mp3
+#EXTINF:-1,botpi
 botpi.mp3
+#EXTINF:-1,kabri
 kabri.mp3
+#EXTINF:-1,lante
 lante.mp3
+#EXTINF:-1,palta
 palta.mp3
+#EXTINF:-1,patxu
 patxu.mp3
+#EXTINF:-1,tanxe
 tanxe.mp3
+#EXTINF:-1,vasru
 vasru.mp3

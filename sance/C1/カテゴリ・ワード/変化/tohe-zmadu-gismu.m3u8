@@ -2,5 +2,7 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::C1::カテゴリ・ワード::変化
 
+#EXTINF:-1,cenba
 cenba.mp3
+#EXTINF:-1,galfi
 galfi.mp3

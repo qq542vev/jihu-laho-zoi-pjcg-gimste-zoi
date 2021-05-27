@@ -2,8 +2,13 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::A1::カテゴリ・ワード::植物
 
+#EXTINF:-1,grute
 grute.mp3
+#EXTINF:-1,spati
 spati.mp3
-# srasu.mp3
+## #EXTINF:-1,srasu
+## srasu.mp3
+#EXTINF:-1,tricu
 tricu.mp3
+#EXTINF:-1,xrula
 xrula.mp3

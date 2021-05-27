@@ -2,12 +2,21 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::D1::カテゴリ・ワード::動物
 
-# bakni.mp3
-# banfi.mp3
-# cinki.mp3
-# cipni.mp3
-# curnu.mp3
-# gerku.mp3
-# mabru.mp3
-# mlatu.mp3
-# respa.mp3
+## #EXTINF:-1,bakni
+## bakni.mp3
+## #EXTINF:-1,banfi
+## banfi.mp3
+## #EXTINF:-1,cinki
+## cinki.mp3
+## #EXTINF:-1,cipni
+## cipni.mp3
+## #EXTINF:-1,curnu
+## curnu.mp3
+## #EXTINF:-1,gerku
+## gerku.mp3
+## #EXTINF:-1,mabru
+## mabru.mp3
+## #EXTINF:-1,mlatu
+## mlatu.mp3
+## #EXTINF:-1,respa
+## respa.mp3

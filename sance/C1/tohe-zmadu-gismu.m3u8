@@ -2,115 +2,227 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::C1
 
+#EXTINF:-1,zasti
 ペア・ワード/zasti.mp3
+#EXTINF:-1,xanri
 ペア・ワード/xanri.mp3
+#EXTINF:-1,bilma
 ペア・ワード/bilma.mp3
-# ペア・ワード/kanro.mp3
+## #EXTINF:-1,kanro
+## ペア・ワード/kanro.mp3
+#EXTINF:-1,cilmo
 ペア・ワード/cilmo.mp3
-# ペア・ワード/sudga.mp3
+## #EXTINF:-1,sudga
+## ペア・ワード/sudga.mp3
+#EXTINF:-1,darno
 ペア・ワード/darno.mp3
-# ペア・ワード/jibni.mp3
-# ペア・ワード/fliba.mp3
+## #EXTINF:-1,jibni
+## ペア・ワード/jibni.mp3
+## #EXTINF:-1,fliba
+## ペア・ワード/fliba.mp3
+#EXTINF:-1,snada
 ペア・ワード/snada.mp3
+#EXTINF:-1,citno
 ペア・ワード/citno.mp3
-# ペア・ワード/laldo.mp3
+## #EXTINF:-1,laldo
+## ペア・ワード/laldo.mp3
+#EXTINF:-1,ckiku
 ペア・ワード/ckiku.mp3
-# ペア・ワード/stela.mp3
-# ペア・ワード/ganlo.mp3
+## #EXTINF:-1,stela
+## ペア・ワード/stela.mp3
+## #EXTINF:-1,ganlo
+## ペア・ワード/ganlo.mp3
+#EXTINF:-1,kalri
 ペア・ワード/kalri.mp3
+#EXTINF:-1,cnino
 ペア・ワード/cnino.mp3
-# ペア・ワード/slabu.mp3
+## #EXTINF:-1,slabu
+## ペア・ワード/slabu.mp3
+#EXTINF:-1,pluja
 ペア・ワード/pluja.mp3
-# ペア・ワード/sampu.mp3
-# ペア・ワード/kunti.mp3
+## #EXTINF:-1,sampu
+## ペア・ワード/sampu.mp3
+## #EXTINF:-1,kunti
+## ペア・ワード/kunti.mp3
+#EXTINF:-1,culno
 ペア・ワード/culno.mp3
+#EXTINF:-1,xendo
 ペア・ワード/xendo.mp3
-# ペア・ワード/kusru.mp3
+## #EXTINF:-1,kusru
+## ペア・ワード/kusru.mp3
+#EXTINF:-1,cacra
 カテゴリ・ワード/時間/cacra.mp3
+#EXTINF:-1,djedi
 カテゴリ・ワード/時間/djedi.mp3
+#EXTINF:-1,jeftu
 カテゴリ・ワード/時間/jeftu.mp3
+#EXTINF:-1,masti
 カテゴリ・ワード/時間/masti.mp3
+#EXTINF:-1,mentu
 カテゴリ・ワード/時間/mentu.mp3
+#EXTINF:-1,nanca
 カテゴリ・ワード/時間/nanca.mp3
+#EXTINF:-1,snidu
 カテゴリ・ワード/時間/snidu.mp3
+#EXTINF:-1,temci
 カテゴリ・ワード/時間/temci.mp3
+#EXTINF:-1,cisma
 カテゴリ・ワード/笑い/cisma.mp3
+#EXTINF:-1,ckasu
 カテゴリ・ワード/笑い/ckasu.mp3
+#EXTINF:-1,cmila
 カテゴリ・ワード/笑い/cmila.mp3
-# カテゴリ・ワード/味/cpina.mp3
+## #EXTINF:-1,cpina
+## カテゴリ・ワード/味/cpina.mp3
+#EXTINF:-1,kurki
 カテゴリ・ワード/味/kurki.mp3
+#EXTINF:-1,slari
 カテゴリ・ワード/味/slari.mp3
+#EXTINF:-1,titla
 カテゴリ・ワード/味/titla.mp3
+#EXTINF:-1,finti
 カテゴリ・ワード/作成/finti.mp3
+#EXTINF:-1,zbasu
 カテゴリ・ワード/作成/zbasu.mp3
+#EXTINF:-1,terpa
 カテゴリ・ワード/恐怖感情/terpa.mp3
+#EXTINF:-1,xanka
 カテゴリ・ワード/恐怖感情/xanka.mp3
+#EXTINF:-1,cinri
 カテゴリ・ワード/興味喚起/cinri.mp3
+#EXTINF:-1,trina
 カテゴリ・ワード/興味喚起/trina.mp3
+#EXTINF:-1,xajmi
 カテゴリ・ワード/興味喚起/xajmi.mp3
+#EXTINF:-1,zdile
 カテゴリ・ワード/興味喚起/zdile.mp3
+#EXTINF:-1,benji
 カテゴリ・ワード/配送/benji.mp3
+#EXTINF:-1,bevri
 カテゴリ・ワード/配送/bevri.mp3
+#EXTINF:-1,mrilu
 カテゴリ・ワード/配送/mrilu.mp3
-# カテゴリ・ワード/集団/cmima.mp3
+## #EXTINF:-1,cmima
+## カテゴリ・ワード/集団/cmima.mp3
+#EXTINF:-1,girzu
 カテゴリ・ワード/集団/girzu.mp3
+#EXTINF:-1,lanzu
 カテゴリ・ワード/集団/lanzu.mp3
+#EXTINF:-1,jorne
 カテゴリ・ワード/結合/jorne.mp3
+#EXTINF:-1,lasna
 カテゴリ・ワード/結合/lasna.mp3
+#EXTINF:-1,cenba
 カテゴリ・ワード/変化/cenba.mp3
+#EXTINF:-1,galfi
 カテゴリ・ワード/変化/galfi.mp3
-# カテゴリ・ワード/単位/grake.mp3
-# カテゴリ・ワード/単位/mitre.mp3
-# カテゴリ・ワード/単位/xampo.mp3
+## #EXTINF:-1,grake
+## カテゴリ・ワード/単位/grake.mp3
+## #EXTINF:-1,mitre
+## カテゴリ・ワード/単位/mitre.mp3
+## #EXTINF:-1,xampo
+## カテゴリ・ワード/単位/xampo.mp3
+#EXTINF:-1,darxi
 カテゴリ・ワード/破壊/darxi.mp3
+#EXTINF:-1,daspo
 カテゴリ・ワード/破壊/daspo.mp3
+#EXTINF:-1,gunta
 カテゴリ・ワード/破壊/gunta.mp3
+#EXTINF:-1,janli
 カテゴリ・ワード/破壊/janli.mp3
+#EXTINF:-1,porpi
 カテゴリ・ワード/破壊/porpi.mp3
+#EXTINF:-1,xrani
 カテゴリ・ワード/破壊/xrani.mp3
+#EXTINF:-1,curmi
 カテゴリ・ワード/許す/curmi.mp3
+#EXTINF:-1,fraxu
 カテゴリ・ワード/許す/fraxu.mp3
+#EXTINF:-1,cpana
 カテゴリ・ワード/表面/cpana.mp3
+#EXTINF:-1,pencu
 カテゴリ・ワード/表面/pencu.mp3
+#EXTINF:-1,punji
 カテゴリ・ワード/表面/punji.mp3
+#EXTINF:-1,sefta
 カテゴリ・ワード/表面/sefta.mp3
+#EXTINF:-1,banro
 etc/banro.mp3
-# etc/cabna.mp3
+## #EXTINF:-1,cabna
+## etc/cabna.mp3
+#EXTINF:-1,cafne
 etc/cafne.mp3
+#EXTINF:-1,canci
 etc/canci.mp3
-# etc/ciblu.mp3
+## #EXTINF:-1,ciblu
+## etc/ciblu.mp3
+#EXTINF:-1,citsi
 etc/citsi.mp3
+#EXTINF:-1,claxu
 etc/claxu.mp3
+#EXTINF:-1,cmana
 etc/cmana.mp3
+#EXTINF:-1,facki
 etc/facki.mp3
+#EXTINF:-1,farna
 etc/farna.mp3
+#EXTINF:-1,finpe
 etc/finpe.mp3
+#EXTINF:-1,grana
 etc/grana.mp3
-# etc/jatna.mp3
+## #EXTINF:-1,jatna
+## etc/jatna.mp3
+#EXTINF:-1,jdini
 etc/jdini.mp3
+#EXTINF:-1,jinsa
 etc/jinsa.mp3
+#EXTINF:-1,junla
 etc/junla.mp3
+#EXTINF:-1,kampu
 etc/kampu.mp3
+#EXTINF:-1,kansa
 etc/kansa.mp3
+#EXTINF:-1,kecti
 etc/kecti.mp3
-# etc/klaku.mp3
+## #EXTINF:-1,klaku
+## etc/klaku.mp3
+#EXTINF:-1,lakne
 etc/lakne.mp3
-# etc/limna.mp3
+## #EXTINF:-1,limna
+## etc/limna.mp3
+#EXTINF:-1,liste
 etc/liste.mp3
+#EXTINF:-1,misno
 etc/misno.mp3
+#EXTINF:-1,nitcu
 etc/nitcu.mp3
+#EXTINF:-1,pacna
 etc/pacna.mp3
+#EXTINF:-1,ponse
 etc/ponse.mp3
-# etc/ranji.mp3
+## #EXTINF:-1,ranji
+## etc/ranji.mp3
+#EXTINF:-1,renro
 etc/renro.mp3
+#EXTINF:-1,renvi
 etc/renvi.mp3
+#EXTINF:-1,senva
 etc/senva.mp3
+#EXTINF:-1,serti
 etc/serti.mp3
+#EXTINF:-1,sidju
 etc/sidju.mp3
-# etc/speni.mp3
-# etc/stapa.mp3
+## #EXTINF:-1,speni
+## etc/speni.mp3
+## #EXTINF:-1,stapa
+## etc/stapa.mp3
+#EXTINF:-1,tcana
 etc/tcana.mp3
+#EXTINF:-1,tcima
 etc/tcima.mp3
+#EXTINF:-1,tunta
 etc/tunta.mp3
+#EXTINF:-1,vorme
 etc/vorme.mp3
+#EXTINF:-1,jimpe
 etc/jimpe.mp3

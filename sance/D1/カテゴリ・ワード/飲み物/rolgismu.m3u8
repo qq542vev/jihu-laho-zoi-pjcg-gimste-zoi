@@ -2,10 +2,17 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::D1::カテゴリ・ワード::飲み物
 
+#EXTINF:-1,birje
 birje.mp3
+#EXTINF:-1,ckafi
 ckafi.mp3
+#EXTINF:-1,jikru
 jikru.mp3
+#EXTINF:-1,jisra
 jisra.mp3
+#EXTINF:-1,ladru
 ladru.mp3
+#EXTINF:-1,tcati
 tcati.mp3
+#EXTINF:-1,vanju
 vanju.mp3

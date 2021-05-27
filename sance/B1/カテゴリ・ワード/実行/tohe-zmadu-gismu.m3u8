@@ -2,5 +2,7 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::B1::カテゴリ・ワード::実行
 
+#EXTINF:-1,gasnu
 gasnu.mp3
+#EXTINF:-1,zukte
 zukte.mp3

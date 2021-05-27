@@ -2,6 +2,9 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::B1::カテゴリ・ワード::ご飯
 
-# cidja.mp3
+## #EXTINF:-1,cidja
+## cidja.mp3
+#EXTINF:-1,nanba
 nanba.mp3
-# sanmi.mp3
+## #EXTINF:-1,sanmi
+## sanmi.mp3

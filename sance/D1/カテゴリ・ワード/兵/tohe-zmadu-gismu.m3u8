@@ -2,6 +2,9 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::D1::カテゴリ・ワード::兵
 
-# jenmi.mp3
-# pulji.mp3
+## #EXTINF:-1,jenmi
+## jenmi.mp3
+## #EXTINF:-1,pulji
+## pulji.mp3
+#EXTINF:-1,sonci
 sonci.mp3

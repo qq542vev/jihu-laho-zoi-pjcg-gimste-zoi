@@ -2,51 +2,99 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::C1::カテゴリ・ワード
 
+#EXTINF:-1,cacra
 時間/cacra.mp3
+#EXTINF:-1,djedi
 時間/djedi.mp3
+#EXTINF:-1,jeftu
 時間/jeftu.mp3
+#EXTINF:-1,masti
 時間/masti.mp3
+#EXTINF:-1,mentu
 時間/mentu.mp3
+#EXTINF:-1,nanca
 時間/nanca.mp3
+#EXTINF:-1,snidu
 時間/snidu.mp3
+#EXTINF:-1,temci
 時間/temci.mp3
+#EXTINF:-1,cisma
 笑い/cisma.mp3
+#EXTINF:-1,ckasu
 笑い/ckasu.mp3
+#EXTINF:-1,cmila
 笑い/cmila.mp3
-# 味/cpina.mp3
+## #EXTINF:-1,cpina
+## 味/cpina.mp3
+#EXTINF:-1,kurki
 味/kurki.mp3
+#EXTINF:-1,slari
 味/slari.mp3
+#EXTINF:-1,titla
 味/titla.mp3
+#EXTINF:-1,finti
 作成/finti.mp3
+#EXTINF:-1,zbasu
 作成/zbasu.mp3
+#EXTINF:-1,terpa
 恐怖感情/terpa.mp3
+#EXTINF:-1,xanka
 恐怖感情/xanka.mp3
+#EXTINF:-1,cinri
 興味喚起/cinri.mp3
+#EXTINF:-1,trina
 興味喚起/trina.mp3
+#EXTINF:-1,xajmi
 興味喚起/xajmi.mp3
+#EXTINF:-1,zdile
 興味喚起/zdile.mp3
+#EXTINF:-1,benji
 配送/benji.mp3
+#EXTINF:-1,bevri
 配送/bevri.mp3
+#EXTINF:-1,mrilu
 配送/mrilu.mp3
-# 集団/cmima.mp3
+## #EXTINF:-1,cmima
+## 集団/cmima.mp3
+#EXTINF:-1,girzu
 集団/girzu.mp3
+#EXTINF:-1,lanzu
 集団/lanzu.mp3
+#EXTINF:-1,jorne
 結合/jorne.mp3
+#EXTINF:-1,lasna
 結合/lasna.mp3
+#EXTINF:-1,cenba
 変化/cenba.mp3
+#EXTINF:-1,galfi
 変化/galfi.mp3
-# 単位/grake.mp3
-# 単位/mitre.mp3
-# 単位/xampo.mp3
+## #EXTINF:-1,grake
+## 単位/grake.mp3
+## #EXTINF:-1,mitre
+## 単位/mitre.mp3
+## #EXTINF:-1,xampo
+## 単位/xampo.mp3
+#EXTINF:-1,darxi
 破壊/darxi.mp3
+#EXTINF:-1,daspo
 破壊/daspo.mp3
+#EXTINF:-1,gunta
 破壊/gunta.mp3
+#EXTINF:-1,janli
 破壊/janli.mp3
+#EXTINF:-1,porpi
 破壊/porpi.mp3
+#EXTINF:-1,xrani
 破壊/xrani.mp3
+#EXTINF:-1,curmi
 許す/curmi.mp3
+#EXTINF:-1,fraxu
 許す/fraxu.mp3
+#EXTINF:-1,cpana
 表面/cpana.mp3
+#EXTINF:-1,pencu
 表面/pencu.mp3
+#EXTINF:-1,punji
 表面/punji.mp3
+#EXTINF:-1,sefta
 表面/sefta.mp3

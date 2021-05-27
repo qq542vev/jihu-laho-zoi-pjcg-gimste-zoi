@@ -2,7 +2,10 @@
 #EXTENC:UTF-8
 #PLAYLIST:PJCG gimste::A1::カテゴリ・ワード::朝昼晩夜
 
-# cerni.mp3
+## #EXTINF:-1,cerni
+## cerni.mp3
+#EXTINF:-1,donri
 donri.mp3
-# nicte.mp3
+## #EXTINF:-1,nicte
+## nicte.mp3
 # # vanci.mp3
