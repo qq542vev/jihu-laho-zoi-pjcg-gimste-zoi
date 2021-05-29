@@ -257,6 +257,8 @@ awkScript=$(
 			</style>
 
 			<script type="text/javascript">/*<![CDATA[*/
+				"use strict";
+
 				function getUrlQueries() {
 					if(location.search.length <= 1) {
 						return {};
