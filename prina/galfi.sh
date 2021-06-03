@@ -9,9 +9,14 @@ awkScript=$(
 		selpaunahu = row * colmun
 	}
 
-	function jarco_ciksi() {
+	function jarco_ciksi(mai) {
+		if(mai == "") {
+			mai = (NR / selpaunahu);
+		}
+
 		printf("</table>")
 		printf("<table lang=\"ja\" xml:lang=\"ja\">")
+		printf("<caption lang=\"ja\" xml:lang=\"ja\">%dページ目の単語表の裏面印刷用</caption>", mai)
 
 		for(i = 0; i < selpaunahu; i = i + 1) {
 			if((i % colmun) == 0) {
@@ -38,6 +43,7 @@ awkScript=$(
 		split("", valsi)
 
 		printf("<table lang=\"jbo\" xml:lang=\"jbo\">")
+		printf("<caption lang=\"ja\" xml:lang=\"ja\">%dページ目の単語表の表面印刷用</caption>", (NR / selpaunahu) + 1)
 	}
 
 	(NR % colmun) == 1 {
@@ -78,7 +84,7 @@ awkScript=$(
 		}
 
 		if((NR % selpaunahu) != 0) {
-			jarco_ciksi()
+			jarco_ciksi(int(NR / selpaunahu) + 1)
 		}
 	}
 	EOF
@@ -90,7 +96,7 @@ awkScript=$(
 		<head>
 			<meta charset="UTF-8" />
 			<meta name="author" property="dc11:creator" content="qq542vev" />
-			<meta name="dcterms.created" property="dcterms:created" datatype="dcterms:W3CDTF" content="2021-05-18" />
+			<meta name="dcterms.created" property="dcterms:created" datatype="dcterms:W3CDTF" content="2021-05-19" />
 			<meta name="dcterms.modified" property="dcterms:modified" datatype="dcterms:W3CDTF" content="$(date '+%Y-%m-%d')" />
 			<meta name="description" property="dcterms:description" content="PJCG gismte Lv.1の単語暗記カードの単語暗記カードの両面印刷用ページを作成します。" />
 			<meta name="keywords" property="schema:keywords" content="Lojban,gismu,gismte" />
@@ -169,6 +175,14 @@ awkScript=$(
 					page-break-after: always;
 				}
 
+				caption {
+					margin-bottom: 1em;
+					border-bottom: 1px solid #A0A0A0;
+					padding: 0.5em;
+					background: #F0F0F0;
+					font-weight: bold;
+				}
+
 				td {
 					position: relative;
 					border: 0.3mm dashed #000000;
@@ -192,11 +206,11 @@ awkScript=$(
 					background: #F0F0F0;
 				}
 
-				tr:first-child td {
+				tr:first-of-type td {
 					border-top: none;
 				}
 
-				tr:last-child td {
+				tr:last-of-type td {
 					border-bottom: none;
 				}
 
@@ -248,6 +262,10 @@ awkScript=$(
 
 					table {
 						margin: 0 auto;
+					}
+
+					caption {
+						display: none;
 					}
 
 					td:target {
@@ -328,6 +346,11 @@ awkScript=$(
 
 								ralju.lastChild.setAttribute("lang", "jbo");
 								ralju.lastChild.setAttribute("xml:lang", "jbo");
+
+								ralju.lastChild.appendChild(document.createElement("caption"));
+								ralju.lastChild.lastChild.appendChild(document.createTextNode((Math.floor(i / selpaunahu) + 1) + "ページ目の単語表の表面印刷用"));
+								ralju.lastChild.lastChild.setAttribute("lang", "ja");
+								ralju.lastChild.lastChild.setAttribute("xml:lang", "ja");
 							}
 
 							ralju.lastChild.appendChild(document.createElement("tr"));
@@ -341,6 +364,12 @@ awkScript=$(
 
 							ralju.lastChild.setAttribute("lang", "ja");
 							ralju.lastChild.setAttribute("xml:lang", "ja");
+
+							ralju.lastChild.appendChild(document.createElement("caption"));
+
+							ralju.lastChild.lastChild.appendChild(document.createTextNode((Math.floor(i / selpaunahu) + 1) + "ページ目の単語表の裏面印刷用"));
+							ralju.lastChild.lastChild.setAttribute("lang", "ja");
+							ralju.lastChild.lastChild.setAttribute("xml:lang", "ja");
 
 							for(var j = i - selpaunahu + 1; j <= i; j = j + 1) {
 								if((j % form.rajypau.value) === 0) {
@@ -387,7 +416,7 @@ awkScript=$(
 						<p>単語暗記カードの表の変更を行う場合は、WebブラウザーのJavaScriptを有効にしてください。</p>
 					</noscript>
 
-					<p><a rel="dcterms:references" title="lela.iúk.tánxe - PJCG gimste" href="https://cogas.github.io/pages/lojbo/pjcg_gimste/">PJCG gismte Lv.1</a>の単語暗記カードの両面印刷用ページを作成します。このメッセージは印刷時非表示になります。<a rel="alternate" type="application/pdf" href="a3.pdf">A3</a>, <a rel="alternate" type="application/pdf" href="a4.pdf">A4</a>, <a rel="alternate" type="application/pdf" href="a5.pdf">A5</a>PDFファイルも存在します。このページをダウンロードしてオフラインで利用することも可能です。</p>
+					<p><a rel="dcterms:references" title="lela.iúk.tánxe - PJCG gimste" href="https://cogas.github.io/pages/lojbo/pjcg_gimste/">PJCG gismte Lv.1</a>の単語暗記カードの両面印刷用ページを作成します。このメッセージは印刷時非表示になります。<a rel="alternate" type="application/pdf" href="a3.pdf">A3</a>, <a rel="alternate" type="application/pdf" href="a4.pdf">A4</a>, <a rel="alternate" type="application/pdf" href="a5.pdf">A5</a>PDFファイルも存在します。このページをダウンロードしたならば、オフラインでも利用可能です。</p>
 
 					<p>
 						<label><select size="1" name="pinpau">
