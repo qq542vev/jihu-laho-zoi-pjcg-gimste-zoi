@@ -98,7 +98,7 @@ awkScript=$(
 			<meta name="author" property="dc11:creator" content="qq542vev" />
 			<meta name="dcterms.created" property="dcterms:created" datatype="dcterms:W3CDTF" content="2021-05-19" />
 			<meta name="dcterms.modified" property="dcterms:modified" datatype="dcterms:W3CDTF" content="$(date '+%Y-%m-%d')" />
-			<meta name="description" property="dcterms:description" content="PJCG gismte Lv.1の単語暗記カードの単語暗記カードの両面印刷用ページを作成します。" />
+			<meta name="description" property="dcterms:description" content="PJCG gismte Lv.1の単語暗記カードの両面印刷用ページを作成します。" />
 			<meta name="keywords" property="schema:keywords" content="Lojban,gismu,gismte" />
 			<meta name="msapplication-starturl" content="?" />
 			<meta name="robots" content="index,follow" />
