@@ -16,7 +16,7 @@ awkScript=$(
 
 		printf("</table>")
 		printf("<table lang=\"ja\" xml:lang=\"ja\">")
-		printf("<caption lang=\"ja\" xml:lang=\"ja\">%dページ目の単語表の裏面印刷用</caption>", mai)
+		printf("<caption>%dページ目の単語表の裏面印刷用</caption>", mai)
 
 		for(i = 0; i < selpaunahu; i = i + 1) {
 			if((i % colmun) == 0) {
@@ -26,6 +26,9 @@ awkScript=$(
 			namcu = (int((i + colmun) / colmun) * colmun) - (i % colmun) - 1
 
 			if((namcu, "preti") in valsi) {
+				gsub(/lang=""/, "lang=\"\" xml:lang=\"\"", valsi[namcu, "ve_ciksi"])
+				gsub(/lang="jbo"/, "lang=\"jbo\" xml:lang=\"\"jbo\"\"", valsi[namcu, "ve_ciksi"])
+
 				printf("<td id=\"ve-ciksi-%s\" class=\"culno\" title=\"%s\" about=\"[_:%s]\" property=\"dcterms:description\"><a href=\"#preti-%s\">%s</a></td>", valsi[namcu, "preti"], valsi[namcu, "preti"], valsi[namcu, "preti"], valsi[namcu, "preti"], valsi[namcu, "ve_ciksi"])
 			} else {
 				printf("<td class=\"kunti\"></td>")

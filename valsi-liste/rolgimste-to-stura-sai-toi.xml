@@ -7,8 +7,8 @@
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.0
-##   date - 2021-04-20
+##   version - 0.1.1
+##   date - 2021-06-15
 ##   since - 2021-04-09
 ##   package - jihu-laho-zoi-pjcg-gimste-zoi
 ##   source - gimste bau la'o by 日本語 by ji'u la jbovlaste de'i li 2016-01-10 <https://guskant.github.io/lojbo/gismu-cmavo/jpn-gimste.html>
@@ -5086,7 +5086,7 @@
 		<rafsi klesi="cimei-lerfu">du'i</rafsi>
 		<rafsi klesi="vomei-lerfu">dunl</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> と <sumti>x3</sumti> (性質)に関して同等</ve_ciksi>
-		<notci>特に性質 / 数量における等しさを表し、アイデンティティの同一は含意されない。同一性は「du」。</notci>
+		<notci>特に性質 / 数量における等しさを表し、アイデンティティの同一は含意されない。同一性は「<jbovla klesi="cmavo">du</jbovla>」。</notci>
 		<smuni>同等</smuni>
 		<lerfu xml:lang="ja">ドゥンルィ</lerfu>
 		<srana><jbovla klesi="cmavo">du'i</jbovla></srana>
@@ -8315,7 +8315,7 @@
 		<rafsi klesi="cimei-lerfu">jup</rafsi>
 		<rafsi klesi="vomei-lerfu">jukp</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (完成品)に <sumti>x3</sumti> (方法)で料理する</ve_ciksi>
-		<notci><sumti>x3</sumti> はレシピなど。素材・原材料は <jbovla klesi="cmavo-compound">sepu'e</jbovla> で付け加えるか、 <sumti>x3</sumti> 内で説明する。</notci>
+		<notci><sumti>x3</sumti> はレシピなど。素材・原材料は「<jbovla klesi="cmavo-compound">sepu'e</jbovla>」で付け加えるか、 <sumti>x3</sumti> 内で説明する。</notci>
 		<smuni>料理する</smuni>
 		<lerfu xml:lang="ja">ジュクパ</lerfu>
 		<srana><jbovla klesi="gismu">cupra</jbovla></srana>
@@ -10248,7 +10248,7 @@
 		<rafsi klesi="cimei-lerfu">le'u</rafsi>
 		<rafsi klesi="vomei-lerfu">lerf</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (文字体系)において <sumti>x3</sumti> を表す字(文字 / 数字)</ve_ciksi>
-		<notci><sumti>x1</sumti> は「<jbovla klesi="cmavo">la'e</jbovla> <jbovla klesi="cmavo">zo</jbovla> ...」「... <jbovla klesi="cmavo">bu</jbovla>」。</notci>
+		<notci><sumti>x1</sumti> は「<jbovla klesi="cmavo">la'e</jbovla> <jbovla klesi="cmavo">zo</jbovla> …」「… <jbovla klesi="cmavo">bu</jbovla>」。</notci>
 		<smuni>文字</smuni>
 		<lerfu xml:lang="ja">ルェルフゥ</lerfu>
 		<srana><jbovla klesi="gismu">mifra</jbovla></srana>
@@ -11552,7 +11552,7 @@
 		<rafsi klesi="cimei-lerfu">mi'u</rafsi>
 		<rafsi klesi="vomei-lerfu">mint</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> と、 <sumti>x3</sumti> (基準)において同種</ve_ciksi>
-		<notci>「du」と違い、 <sumti>x1</sumti> と <sumti>x2</sumti> は実体が別個。「この花は( <sumti>x1</sumti> )ウチで飾っているもの( <sumti>x2</sumti> )と同じです」。</notci>
+		<notci>「<jbovla klesi="cmavo">du</jbovla>」と違い、 <sumti>x1</sumti> と <sumti>x2</sumti> は実体が別個。「この花は( <sumti>x1</sumti> )ウチで飾っているもの( <sumti>x2</sumti> )と同じです」。</notci>
 		<smuni>同種</smuni>
 		<lerfu xml:lang="ja">ミントゥ</lerfu>
 		<goro>&lt;みんなツール&gt;</goro>
@@ -20187,7 +20187,7 @@
 		<rafsi klesi="cimei-lerfu">xru</rafsi>
 		<rafsi klesi="vomei-lerfu">xrut</rafsi>
 		<ve_ciksi><sumti>x1</sumti> (者)は <sumti>x2</sumti> (対象)を <sumti>x3</sumti> に <sumti>x4</sumti> から戻す / 返す; <sumti>x2</sumti> は <sumti>x3</sumti> に戻る / 帰る</ve_ciksi>
-		<notci>「私は家に帰る」の場合、 <sumti>x1</sumti> も <sumti>x2</sumti> も「mi」となる。 <sumti>x1</sumti> は略して「xruti mi lo zdani」とできる。</notci>
+		<notci>「私は家に帰る」の場合、 <sumti>x1</sumti> も <sumti>x2</sumti> も「<jbovla klesi="cmavo">mi</jbovla>」となる。 <sumti>x1</sumti> は略して「<jbovla klesi="gismu">xruti</jbovla> <jbovla klesi="cmavo">mi</jbovla> <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="gismu">zdani</jbovla>」とできる。</notci>
 		<smuni>戻す</smuni>
 		<lerfu xml:lang="ja">クゥルティ</lerfu>
 		<srana><jbovla klesi="gismu">benji</jbovla></srana>

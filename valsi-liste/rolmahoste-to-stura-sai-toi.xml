@@ -7,8 +7,8 @@
 ## Metadata:
 ##
 ##   author - qq542vev<https://purl.org/meta/me/>
-##   version - 0.1.0
-##   date - 2021-04-20
+##   version - 0.1.1
+##   date - 2021-06-13
 ##   since - 2021-04-11
 ##   package - jihu-laho-zoi-pjcg-gimste-zoi
 ##   source - ma'oste bau la'o by 日本語 by ji'u la jbovlaste de'i li 2016-01-10 <https://guskant.github.io/lojbo/gismu-cmavo/jpn-mahoste.html>
@@ -1907,7 +1907,7 @@
 		<lerfu xml:lang="jbo">fe'i</lerfu>
 		<lerfu xml:lang="jbo-fonipa">fɛhi</lerfu>
 		<cmavo_klesi>VUhU1</cmavo_klesi>
-		<ve_ciksi>割り算 : 数理演算子(n変数); [(((a / b) / c) / ...)]</ve_ciksi>
+		<ve_ciksi>割り算 : 数理演算子(n変数); [(((a / b) / c) / …)]</ve_ciksi>
 		<lerfu xml:lang="ja">フェヒ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_be110ae6-77d9-46a5-b834-cb8700185cfb">
@@ -3925,7 +3925,7 @@
 		<lerfu xml:lang="jbo">lau</lerfu>
 		<lerfu xml:lang="jbo-fonipa">law</lerfu>
 		<cmavo_klesi>LAU</cmavo_klesi>
-		<ve_ciksi>句読点標識 : 「... <jbovla klesi="cmavo">bu</jbovla>」の左に付いてそれが句読点であることを表す</ve_ciksi>
+		<ve_ciksi>句読点標識 : 「… <jbovla klesi="cmavo">bu</jbovla>」の左に付いてそれが句読点であることを表す</ve_ciksi>
 		<lerfu xml:lang="ja">ルァウ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_46b9bf5a-e79a-4b9a-b839-68933525e64e">
@@ -3970,7 +3970,7 @@
 		<lerfu xml:lang="jbo-fonipa">lɛhaj</lerfu>
 		<cmavo_klesi>LEhAI</cmavo_klesi>
 		<ve_ciksi>境界詞; 誤り訂正引用構造の末端を示す。</ve_ciksi>
-		<notci>「<jbovla klesi="experimental-cmavo">lo'ai</jbovla> ... <jbovla klesi="experimental-cmavo">sa'ai</jbovla> ... <jbovla klesi="experimental-cmavo">le'ai</jbovla>」の置換構造を使うことで、聴き手に「<jbovla klesi="experimental-cmavo">lo'ai</jbovla>の後の語句を<jbovla klesi="experimental-cmavo">sa'ai</jbovla>」の後の語句で置き換えるよう要請することができる。「<jbovla klesi="experimental-cmavo">sa'ai</jbovla> ... <jbovla klesi="experimental-cmavo">lo'ai</jbovla> ... <jbovla klesi="experimental-cmavo">le'ai</jbovla>」という順序も許容されるほか、片方(もしくは両方とも)を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、「<jbovla klesi="experimental-cmavo">le'ai</jbovla>」は、その詳細は文脈に任せるが、誤りがあったということを明示する。「<jbovla klesi="experimental-cmavo">le'ai</jbovla>」の構造にSAI類をつけることも可能である: 「<jbovla klesi="experimental-cmavo">le'ai</jbovla> <jbovla klesi="cmavo">dai</jbovla> (= <jbovla klesi="experimental-cmavo">le'ai</jbovla> <jbovla klesi="experimental-cmavo">da'oi</jbovla> <jbovla klesi="cmavo">ko'a</jbovla>)」は他の誰かが誤ったということを示す。また、「<jbovla klesi="experimental-cmavo">le'ai</jbovla> <jbovla klesi="cmavo">pei</jbovla>」は、他の誰かが誤ったかどうかを尋ねる。そして、「<jbovla klesi="cmavo">sai</jbovla>」、「<jbovla klesi="cmavo">ru'e</jbovla>」、「<jbovla klesi="cmavo">cu'i</jbovla>」はその誤りの訂正の重要性を示す。さらに、「<jbovla klesi="experimental-cmavo">le'ai</jbovla> <jbovla klesi="cmavo">nai</jbovla>」はその訂正を認めずに、誤りを明確に否定するのに使われる。</notci>
+		<notci>「<jbovla klesi="experimental-cmavo">lo'ai</jbovla> … <jbovla klesi="experimental-cmavo">sa'ai</jbovla> … <jbovla klesi="experimental-cmavo">le'ai</jbovla>」の置換構造を使うことで、聴き手に「<jbovla klesi="experimental-cmavo">lo'ai</jbovla>の後の語句を<jbovla klesi="experimental-cmavo">sa'ai</jbovla>」の後の語句で置き換えるよう要請することができる。「<jbovla klesi="experimental-cmavo">sa'ai</jbovla> … <jbovla klesi="experimental-cmavo">lo'ai</jbovla> … <jbovla klesi="experimental-cmavo">le'ai</jbovla>」という順序も許容されるほか、片方(もしくは両方とも)を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、「<jbovla klesi="experimental-cmavo">le'ai</jbovla>」は、その詳細は文脈に任せるが、誤りがあったということを明示する。「<jbovla klesi="experimental-cmavo">le'ai</jbovla>」の構造にSAI類をつけることも可能である: 「<jbovla klesi="experimental-cmavo">le'ai</jbovla> <jbovla klesi="cmavo">dai</jbovla> (= <jbovla klesi="experimental-cmavo">le'ai</jbovla> <jbovla klesi="experimental-cmavo">da'oi</jbovla> <jbovla klesi="cmavo">ko'a</jbovla>)」は他の誰かが誤ったということを示す。また、「<jbovla klesi="experimental-cmavo">le'ai</jbovla> <jbovla klesi="cmavo">pei</jbovla>」は、他の誰かが誤ったかどうかを尋ねる。そして、「<jbovla klesi="cmavo">sai</jbovla>」、「<jbovla klesi="cmavo">ru'e</jbovla>」、「<jbovla klesi="cmavo">cu'i</jbovla>」はその誤りの訂正の重要性を示す。さらに、「<jbovla klesi="experimental-cmavo">le'ai</jbovla> <jbovla klesi="cmavo">nai</jbovla>」はその訂正を認めずに、誤りを明確に否定するのに使われる。</notci>
 		<srana><jbovla klesi="experimental-cmavo">lo'ai</jbovla></srana>
 		<srana><jbovla klesi="experimental-cmavo">sa'ai</jbovla></srana>
 	</valsi>
@@ -4142,7 +4142,7 @@
 		<lerfu xml:lang="jbo-fonipa">lohaj</lerfu>
 		<cmavo_klesi>LOhAI</cmavo_klesi>
 		<ve_ciksi>直近の文についての誤り訂正引用構造の誤り部を開始する。</ve_ciksi>
-		<notci>「<jbovla klesi="experimental-cmavo">lo'ai</jbovla> ... <jbovla klesi="experimental-cmavo">sa'ai</jbovla> ... <jbovla klesi="experimental-cmavo">le'ai</jbovla>」の置換構造を使うことで、聴き手に「<jbovla klesi="experimental-cmavo">lo'ai</jbovla>の後の語句を「<jbovla klesi="experimental-cmavo">sa'ai</jbovla>」の後の語句で置き換えるよう要請することができる。「<jbovla klesi="experimental-cmavo">sa'ai</jbovla> ... <jbovla klesi="experimental-cmavo">lo'ai</jbovla> ... <jbovla klesi="experimental-cmavo">le'ai</jbovla>」という順序も許容されるほか、片方(もしくは両方とも)を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、「<jbovla klesi="experimental-cmavo">le'ai</jbovla>」は、その詳細は文脈に任せるが、誤りがあったということを明示する。</notci>
+		<notci>「<jbovla klesi="experimental-cmavo">lo'ai</jbovla> … <jbovla klesi="experimental-cmavo">sa'ai</jbovla> … <jbovla klesi="experimental-cmavo">le'ai</jbovla>」の置換構造を使うことで、聴き手に「<jbovla klesi="experimental-cmavo">lo'ai</jbovla>の後の語句を「<jbovla klesi="experimental-cmavo">sa'ai</jbovla>」の後の語句で置き換えるよう要請することができる。「<jbovla klesi="experimental-cmavo">sa'ai</jbovla> … <jbovla klesi="experimental-cmavo">lo'ai</jbovla> … <jbovla klesi="experimental-cmavo">le'ai</jbovla>」という順序も許容されるほか、片方(もしくは両方とも)を省略することもでき、その場合は文脈によって判断する。両方が省略されているとき、「<jbovla klesi="experimental-cmavo">le'ai</jbovla>」は、その詳細は文脈に任せるが、誤りがあったということを明示する。</notci>
 		<srana><jbovla klesi="experimental-cmavo">sa'ai</jbovla></srana>
 		<srana><jbovla klesi="experimental-cmavo">le'ai</jbovla></srana>
 	</valsi>
@@ -5506,7 +5506,7 @@
 		<lerfu xml:lang="jbo">pi'i</lerfu>
 		<lerfu xml:lang="jbo-fonipa">pihi</lerfu>
 		<cmavo_klesi>VUhU1</cmavo_klesi>
-		<ve_ciksi>掛け算 : 数理演算子(n変数); [(((a * b) * c) * ...)]</ve_ciksi>
+		<ve_ciksi>掛け算 : 数理演算子(n変数); [(((a * b) * c) * …)]</ve_ciksi>
 		<lerfu xml:lang="ja">ピヒ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_f3ab65c0-cebd-4231-9085-623b4a13ff83">
@@ -5671,7 +5671,7 @@
 		<ve_ciksi>小数反復 : 数量詞; 右の小数数量詞のまとまりが以降ずっと反復するのを表す</ve_ciksi>
 		<mupli>
 			<jufra xml:lang="jbo"><jbovla klesi="cmavo">pi</jbovla> 35 <jbovla klesi="cmavo">ra'e</jbovla> 142857</jufra>
-			<jufra xml:lang="ja">.35142857142857...</jufra>
+			<jufra xml:lang="ja">.35142857142857…</jufra>
 		</mupli>
 		<lerfu xml:lang="ja">ラヘ</lerfu>
 	</valsi>
@@ -6163,7 +6163,7 @@
 		<lerfu xml:lang="jbo-fonipa">sahaj</lerfu>
 		<cmavo_klesi>LOhAI</cmavo_klesi>
 		<ve_ciksi>直近の文についての誤り訂正引用構造の訂正部を開始する。</ve_ciksi>
-		<notci>「<jbovla klesi="experimental-cmavo">lo'ai</jbovla> ... <jbovla klesi="experimental-cmavo">sa'ai</jbovla> ... <jbovla klesi="experimental-cmavo">le'ai</jbovla>」の置換構造を使うことで、聴き手に <jbovla klesi="experimental-cmavo">lo'ai</jbovla>」の後の語句を「<jbovla klesi="experimental-cmavo">sa'ai</jbovla>」の後の語句で置き換えるよう要請することができる。「<jbovla klesi="experimental-cmavo">sa'ai</jbovla> ... <jbovla klesi="experimental-cmavo">lo'ai</jbovla> ... <jbovla klesi="experimental-cmavo">le'ai</jbovla>」という順序も許容されるほか、片方(もしくは両方とも)を省略することもでき、その場合は文脈によって判断する。両方が省略されているときは、「<jbovla klesi="experimental-cmavo">le'ai</jbovla>」はその詳細は文脈に任せるが、誤りがあったということを明示する。</notci>
+		<notci>「<jbovla klesi="experimental-cmavo">lo'ai</jbovla> … <jbovla klesi="experimental-cmavo">sa'ai</jbovla> … <jbovla klesi="experimental-cmavo">le'ai</jbovla>」の置換構造を使うことで、聴き手に <jbovla klesi="experimental-cmavo">lo'ai</jbovla>」の後の語句を「<jbovla klesi="experimental-cmavo">sa'ai</jbovla>」の後の語句で置き換えるよう要請することができる。「<jbovla klesi="experimental-cmavo">sa'ai</jbovla> … <jbovla klesi="experimental-cmavo">lo'ai</jbovla> … <jbovla klesi="experimental-cmavo">le'ai</jbovla>」という順序も許容されるほか、片方(もしくは両方とも)を省略することもでき、その場合は文脈によって判断する。両方が省略されているときは、「<jbovla klesi="experimental-cmavo">le'ai</jbovla>」はその詳細は文脈に任せるが、誤りがあったということを明示する。</notci>
 		<srana><jbovla klesi="experimental-cmavo">lo'ai</jbovla></srana>
 		<srana><jbovla klesi="experimental-cmavo">le'ai</jbovla></srana>
 	</valsi>
@@ -6978,7 +6978,7 @@
 		<lerfu xml:lang="jbo">su'i</lerfu>
 		<lerfu xml:lang="jbo-fonipa">suhi</lerfu>
 		<cmavo_klesi>VUhU1</cmavo_klesi>
-		<ve_ciksi>足し算 : 数理演算子(n変数); [(((a + b) + c) + ...)]</ve_ciksi>
+		<ve_ciksi>足し算 : 数理演算子(n変数); [(((a + b) + c) + …)]</ve_ciksi>
 		<lerfu xml:lang="ja">スヒ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_feceb8ee-c912-4168-a5f1-ff05e00aedbf">
@@ -7664,7 +7664,7 @@
 		<lerfu xml:lang="jbo">tu'a</lerfu>
 		<lerfu xml:lang="jbo-fonipa">tuha</lerfu>
 		<cmavo_klesi>LAhE</cmavo_klesi>
-		<ve_ciksi>抽出 sumti : sumti の左に付いて、それが不特定の bridi から抽出したものであることを示す; <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="cmavo">nu</jbovla>/<jbovla klesi="cmavo">su'u</jbovla> [sumti] <jbovla klesi="cmavo">co'e</jbovla> に相当; 抽象的な sumti を要する terbri があるとき、 <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="cmavo">nu</jbovla>/<jbovla klesi="cmavo">su'u</jbovla> ... の代わりに使える(<jbovla klesi="cmavo">mi</jbovla> <jbovla klesi="gismu">troci</jbovla> <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="cmavo">nu</jbovla> <jbovla klesi="gismu">kalri</jbovla> <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="gismu">vorme</jbovla> → <jbovla klesi="cmavo">mi</jbovla> <jbovla klesi="gismu">troci</jbovla> <jbovla klesi="cmavo">tu'a</jbovla> <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="gismu">vorme</jbovla>)</ve_ciksi>
+		<ve_ciksi>抽出 sumti : sumti の左に付いて、それが不特定の bridi から抽出したものであることを示す; <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="cmavo">nu</jbovla>/<jbovla klesi="cmavo">su'u</jbovla> [sumti] <jbovla klesi="cmavo">co'e</jbovla> に相当; 抽象的な sumti を要する terbri があるとき、 <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="cmavo">nu</jbovla>/<jbovla klesi="cmavo">su'u</jbovla> … の代わりに使える(<jbovla klesi="cmavo">mi</jbovla> <jbovla klesi="gismu">troci</jbovla> <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="cmavo">nu</jbovla> <jbovla klesi="gismu">kalri</jbovla> <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="gismu">vorme</jbovla> → <jbovla klesi="cmavo">mi</jbovla> <jbovla klesi="gismu">troci</jbovla> <jbovla klesi="cmavo">tu'a</jbovla> <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="gismu">vorme</jbovla>)</ve_ciksi>
 		<lerfu xml:lang="ja">トゥハ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_46c5f107-479c-4a3f-85e8-7c20a91f2d1c">
@@ -8457,7 +8457,7 @@
 		<lerfu xml:lang="jbo">vu'u</lerfu>
 		<lerfu xml:lang="jbo-fonipa">vuhu</lerfu>
 		<cmavo_klesi>VUhU1</cmavo_klesi>
-		<ve_ciksi>引き算 : 数理演算子(n変数); [(((a - b) - c) - ...)]</ve_ciksi>
+		<ve_ciksi>引き算 : 数理演算子(n変数); [(((a - b) - c) - …)]</ve_ciksi>
 		<lerfu xml:lang="ja">ヴフ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_8a24ac20-01f9-4eff-9056-df324905e408">
