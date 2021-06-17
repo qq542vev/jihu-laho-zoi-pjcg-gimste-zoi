@@ -71,7 +71,7 @@ awkScript=$(
 		suho_namcu["D1::カテゴリ・ワード::類似"] = "3"
 		suho_namcu["D1::カテゴリ・ワード::兵"] = "3"
 		suho_namcu["D1::カテゴリ・ワード::寝具"] = "3"
-		suho_namcu["D1::カテゴリ・ワード::性"] = "2"
+		suho_namcu["D1::カテゴリ・ワード::性愛"] = "2"
 		suho_namcu["D1::カテゴリ・ワード::broda"] = "5"
 		suho_namcu["D1::カテゴリ・ワード::服飾"] = "12"
 		suho_namcu["D1::etc"] = "73"
@@ -104,7 +104,7 @@ awkScript=$(
 
 			if(klesixipa[xi] != klesixire[xi]) {
 				printf("<section id=\"%s\" about=\"#%s\" typeof=\"schema:ItemList\">", substr(id, 3), substr(id, 3))
-				printf("<h%d title=\"%s\" property=\"dcterms:title\" content=\"%s\">%s <span property=\" schema:numberOfItems\" datatype=\"xsd:nonNegativeInteger\" content=\"%s\">(%d語)</span></h%d>", xi, substr(id, 3), substr(id, 3), klesixire[xi], suho_namcu[substr(id, 3)], suho_namcu[substr(id, 3)], xi)
+				printf("<h%d title=\"%s\" property=\"dcterms:title\" content=\"%s\">%s <span property=\"schema:numberOfItems\" datatype=\"xsd:nonNegativeInteger\" content=\"%s\">(%d語)</span></h%d>", xi, substr(id, 3), substr(id, 3), klesixire[xi], suho_namcu[substr(id, 3)], suho_namcu[substr(id, 3)], xi)
 
 				if(xi == meixire) {
 					printf("<dl rel=\"schema:itemListElement\">")
