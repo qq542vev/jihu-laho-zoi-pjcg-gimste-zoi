@@ -104,7 +104,7 @@ awkScript=$(
 
 			if(klesixipa[xi] != klesixire[xi]) {
 				printf("<section id=\"%s\" about=\"#%s\" typeof=\"schema:ItemList\">", substr(id, 3), substr(id, 3))
-				printf("<h%d title=\"%s\" property=\"dcterms:title\" content=\"%s\">%s <span property=\"schema:numberOfItems\" datatype=\"xsd:nonNegativeInteger\" content=\"%s\">(%d語)</span></h%d>", xi, substr(id, 3), substr(id, 3), klesixire[xi], suho_namcu[substr(id, 3)], suho_namcu[substr(id, 3)], xi)
+				printf("<h%d title=\"%s\" property=\"dcterms:title\" content=\"%s\"><a class=\"pagbu_judri\" title=\"「%s」へのリンク\" href=\"#%s\">§</a> %s <span property=\"schema:numberOfItems\" datatype=\"xsd:nonNegativeInteger\" content=\"%s\">(%d語)</span></h%d>", xi + 1, substr(id, 3), substr(id, 3), substr(id, 3), substr(id, 3), klesixire[xi], suho_namcu[substr(id, 3)], suho_namcu[substr(id, 3)], xi + 1)
 
 				if(xi == meixire) {
 					printf("<dl rel=\"schema:itemListElement\">")
@@ -124,7 +124,7 @@ awkScript=$(
 		gsub("</li>", "</span>", $9)
 		gsub("\">", "\" property=\"rdfs:label\">", $9)
 
-		printf("<dt id=\"ciksi-zo-%s\" lang=\"jbo\" xml:lang=\"jbo\" about=\"[_:%s]\"><a title=\"「%s」へのリンク\" rel=\"foaf:page\" href=\"#ciksi-zo-%s\">#</a> <span class=\"lerfu\" title=\"%s\" ondblclick=\"movdu(this);\" property=\"foaf:name\">%s</span> - <span class=\"rafsi\" title=\"rafsi\">(%s)</span></dt>", $2, $2, $2, $2, $4, $5, $9)
+		printf("<dt id=\"ciksi-zo-%s\" lang=\"jbo\" xml:lang=\"jbo\" about=\"[_:%s]\"><a class=\"pagbu_judri\" title=\"「%s」へのリンク\" rel=\"foaf:page\" href=\"#ciksi-zo-%s\">#</a> <span class=\"lerfu\" title=\"%s\" ondblclick=\"movdu(this);\" property=\"foaf:name\">%s</span> - <span class=\"rafsi\" title=\"rafsi\">(%s)</span></dt>", $2, $2, $2, $2, $4, $5, $9)
 		printf("<dd class=\"ve_ciksi\" about=\"[_:%s]\" property=\"dcterms:description\">%s</dd>", $2, $6)
 
 		if($7 != "") {
@@ -178,20 +178,20 @@ awkScript=$(
 					letter-spacing: 0.04em;
 				}
 
-				h1 {
+				h1, h2 {
 					border-left: 6px solid #000000;
 					border-bottom: 3px double #000000;
 					padding-left: 10px;
 					font-size: 125%;
 				}
 
-				h2 {
+				h3 {
 					border-bottom: 3px double #808080;
 					padding-left: 16px;
 					font-size: 112.5%;
 				}
 
-				h3 {
+				h4 {
 					border-bottom: 1px solid #808080;
 					padding-left: 16px;
 					font-size: 100%;
@@ -200,16 +200,6 @@ awkScript=$(
 				dt {
 					padding-bottom: 0.2em;
 					letter-spacing: 0.08em;
-				}
-
-				dt a:link, dt a:visited {
-					text-decoration: none;
-					color: #606060;
-				}
-
-				dt a:hover, dt a:active {
-					text-decoration: underline;
-					color: #FF0000;
 				}
 
 				dt:target, dt:target + dd, dt:target + dd + dd {
@@ -261,6 +251,16 @@ awkScript=$(
 				var.x5 {
 					background: #FFFFDA;
 				}
+
+				a.pagbu_judri:link, a.pagbu_judri:visited {
+					text-decoration: none;
+					color: #606060;
+				}
+
+				a.pagbu_judri:hover, a.pagbu_judri:active {
+					text-decoration: underline;
+					color: #FF0000;
+				}
 			</style>
 
 			<script type="text/javascript">/*<![CDATA[*/
@@ -277,11 +277,14 @@ awkScript=$(
 				<section>
 					<h1>PJCG gismte Lv.1のgismu一覧</h1>
 
-					<p><a href="https://cogas.github.io/pages/lojbo/pjcg_gimste/">PJCG gismte Lv.1</a>のgismu一覧です。</p>
+					<p><a href="https://cogas.github.io/pages/lojbo/pjcg_gimste/">PJCG gismte Lv.1</a>のgismu一覧です。ロジバンの単語をダブルクリックすると<a href="https://jbovlaste.lojban.org/">jbovlaste</a>の単語ページに遷移します。</p>
 
 					$(awk "${awkScript}" ${@+"${@}"} | sed -e 's/""/"/g')
 				</section>
 			</main>
+			<footer>
+				<p><a href="#top">ページの一番上に移動</a></p>
+			</footer>
 		</body>
 	</html>
 	EOF
