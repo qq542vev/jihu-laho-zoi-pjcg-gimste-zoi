@@ -133,7 +133,7 @@ awkScript=$(
 					display: inline-block;
 				}
 
-				input[type=number] {
+				input[type="number"] {
 					width: 4em;
 				}
 
