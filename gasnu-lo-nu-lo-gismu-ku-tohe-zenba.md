@@ -51,7 +51,7 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | tordu | x<sub>1</sub> は x<sub>2</sub> (方向)・ x<sub>3</sub> (尺度)に関して短い | to'e clani | A1::ペア・ワード |
 | lunra | x<sub>1</sub> は地球の月; x<sub>1</sub> は x<sub>2</sub> の主要衛星 | to'e solri | A1::ペア・ワード |
 | jarki | x<sub>1</sub> は x<sub>2</sub> (次元)・ x<sub>3</sub> (基準)において狭い | to'e ganra | A1::ペア・ワード |
-| dunli | x<sub>1</sub> は x<sub>2</sub> と x<sub>3</sub> (性質)に関して同等 | to'e flica | A1::ペア・ワード |
+| dunli | x<sub>1</sub> は x<sub>2</sub> と x<sub>3</sub> (性質)に関して同等 | to'e frica | A1::ペア・ワード |
 | jmive | x<sub>1</sub> は x<sub>2</sub> (観点 / 基準)において生きている; x<sub>1</sub> は生物 / 生体 / 有機体 | to'e morsi | A1::ペア・ワード |
 | xlali | x<sub>1</sub> は x<sub>2</sub> にとって、 x<sub>3</sub> (基準)で悪い / 粗末 | to'e xamgu | A1::ペア・ワード |
 | xadni | x<sub>1</sub> は x<sub>2</sub> の肉体; x<sub>1</sub> は身体的 | to'e menli | A1::ペア・ワード |
