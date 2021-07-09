@@ -1,4 +1,4 @@
-daski<!--
+<!--
 ## File: gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md
 ##
 ## PJCG gimsteのgismuを更に減らす実験的試み
