@@ -87,6 +87,11 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | mleca | x<sub>1</sub> は x<sub>2</sub> よりも、 x<sub>3</sub> (性質)に関して x<sub>4</sub> (数量)ほど劣る / 少ない | to'e zmadu | B1::ペア・ワード |
 | gapci | x<sub>1</sub> は x<sub>2</sub> (成分)・ x<sub>3</sub> (条件)の気体 / ガス | to'e sligu | B1::カテゴリ・ワード::物質の三態 |
 | litki | x<sub>1</sub> は x<sub>2</sub> (成分 / 物質)の、 x<sub>3</sub> (条件)における液体 / 流動体 | no'e sligu | B1::カテゴリ・ワード::物質の三態 |
+| baktu | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)のバケツ / 桶 / 槽 | x<sub>1</sub> vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu lo no'e sligu ku stali kei ku | B1::カテゴリ・ワード::容器 |
+| botpi | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)・ x<sub>4</sub> (栓 / 蓋)の瓶 / ボトル / 水筒 | x<sub>1</sub> noi x<sub>4</sub> to'e loldi ke'a ku'o vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu bevri kei ku | B1::カテゴリ・ワード::容器 |
+| kabri | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)のコップ / カップ / タンブラー / マグ / 茶碗 / 杯 | x<sub>1</sub> noi pinxe sepi'o ke'a ku'o vasru x<sub>2</sub> ma'e x<sub>3</sub> | B1::カテゴリ・ワード::容器 |
+| palta | x<sub>1</sub> は x<sub>2</sub> (素材)の皿 | x<sub>1</sub> noi citka sepi'o ke'a ku'o vasru ma'e x<sub>2</sub> | B1::カテゴリ・ワード::容器 |
+| patxu | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)の壷 / 鉢 / かめ / やかん / ポット | x<sub>1</sub> vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu lo no'e sligu ku stali kei ku | B1::カテゴリ・ワード::容器 |
 | spati | x<sub>1</sub> は x<sub>2</sub> (種類)の植物(草木 / 葉 / 花); x1 は植物性 | to'e danlu | B1::etc |
 | kanro | x<sub>1</sub> は x<sub>2</sub> (基準)において健康 / すこやか | to'e bilma | C1::ペア・ワード |
 | sudga | x<sub>1</sub> は x<sub>2</sub> (液体)を欠いて乾燥している / 乾いている | to'e cilmo | C1::ペア・ワード |
@@ -99,7 +104,7 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | sampu | x<sub>1</sub> は x<sub>2</sub> (性質)に関して簡単 / 単純 | to'e pluja | C1::ペア・ワード |
 | kunti | x<sub>1</sub> は x<sub>2</sub> (内容)が無い; x<sub>1</sub> は空っぽ | to'e culno | C1::ペア・ワード |
 | kusru | x<sub>1</sub> (者)は x<sub>2</sub> にたいして酷い / 意地悪 / 不親切 | to'e xendo | C1::ペア・ワード |
-| kecti | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> (事)について哀れむ / 慈しむ / かわいそうだと思う; x1 は慈悲的 | to'e kecti | C1::etc |
+| ckasu | x<sub>1</sub> は x<sub>2</sub> (者)を x<sub>3</sub> (事 / 性質)について x<sub>4</sub> (行為)で嘲る / 笑いものにする / ばかにする / ひやかす | to'e kecti | C1::etc |
 | daspo | x<sub>1</sub> (事)は x<sub>2</sub> を破壊する / 破滅させる / 倒す; x<sub>1</sub> は破壊的 | to'e cikre | C1::カテゴリ・ワード::破壊 |
 | cabna | x<sub>1</sub> は x<sub>2</sub> と同時; x<sub>1</sub> は現在 / 今 | no'e purci | C1::etc |
 | vorme | x<sub>1</sub> は x<sub>2</sub> ・ x<sub>3</sub> 間の、 x<sub>4</sub> (構造体)の扉 / 戸口 / 出入口 / 門戸 / ドア | to'e bitmu | C1::etc |
@@ -115,6 +120,7 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | rutni | x<sub>1</sub> は人工物; x<sub>1</sub> は人為的 | to'e rarna | D1::ペア・ワード |
 | korcu | x<sub>1</sub> は曲がっている / 歪んでいる / ねじれている | to'e sirji | D1::ペア・ワード |
 | senpi | x<sub>1</sub> は x<sub>2</sub> (命題)の真実性を疑う; x<sub>2</sub> は信憑性に欠ける | no'e krici | D1::カテゴリ・ワード::命題感情 |
+| fanza | x<sub>1</sub> (事)は x<sub>2</sub> の気に障る / をいらいらさせる; x<sub>2</sub> は x<sub>1</sub> で苛つく; x<sub>1</sub> は邪魔 | to'e trina | D1::etc |
 | fendi | x<sub>1</sub> (者)は x<sub>2</sub> を x<sub>3</sub> (部分 / 個)に x<sub>4</sub> (方法 / 区分)によって分ける | to'e lasna | D1::etc |
 | fengu | x<sub>1</sub> は x<sub>2</sub> (者)にたいして x<sub>3</sub> (事 / 性質)について憤慨している / 怒っている | to'e fraxu | D1::etc |
 | lazni | x<sub>1</sub> (者)は x<sub>2</sub> (動作 / 仕事 / 努力 / 事)に関して怠惰 / 怠ける; x<sub>1</sub> は x<sub>2</sub> を怠る | to'e lazni | D1::etc |
@@ -144,13 +150,13 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | kelci | x<sub>1</sub> は x<sub>2</sub> (道具 / 方法)で遊ぶ | x<sub>1</sub> gasnu [sepi'o / ta'i] x<sub>2</sub> da noi ke'a zdile x<sub>1</sub> ku'o | A1::etc |
 | manku | x<sub>1</sub> は暗い / 闇 | x<sub>1</sub> to'e culno lo gusni ku | A1::etc |
 | tixnu | x<sub>1</sub> は x<sub>2</sub> (親)の娘 | x<sub>1</sub> noi ke'a ninmu ku'o se rirni x<sub>2</sub> | B1::ペア・ワード |
-| remna | x<sub>1</sub> は生物学的ヒト / ホモサピエンス | x<sub>1</sub> danlu la .fomosapiens. | A1::etc |
+| remna | x<sub>1</sub> は生物学的ヒト / ホモサピエンス | x<sub>1</sub> danlu la .fomosapi'ens. | A1::etc |
 | sisti | x<sub>1</sub> (者)は x<sub>2</sub> (動作 / 過程 / 状態)をやめる / 中止 / 終了する | x<sub>1</sub> to'e [co'a / ca'o] gasnu x<sub>2</sub> | A1::etc |
 | bloti | x<sub>1</sub> は x<sub>2</sub> (客 / 荷)・ x<sub>3</sub> (原動力)の船 / ボート | x<sub>1</sub> marce x<sub>2</sub> fo x<sub>3</sub> ga'u lo djacu ku | B1::カテゴリ・ワード::乗り物 |
 | vinji | x<sub>1</sub> は x<sub>2</sub> (荷 / 乗客)・ x<sub>3</sub> (原動力)の飛行機 / 航空機 / 飛行船 | x<sub>1</sub> marce x<sub>2</sub> fo x<sub>3</sub> ne'i lo tsani ku | B1::カテゴリ・ワード::乗り物 |
-| briju | x<sub>1</sub> は x<sub>2</sub> (従業員)・ x<sub>3</sub> (所)の職場 / 事務所 / 営業所 / 局 | x<sub>1</sub> (dinju / stuzi) lo nu gasnu lo se bilga be x<sub>2</sub> ku kei ku bu'u x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
+| briju | x<sub>1</sub> は x<sub>2</sub> (従業員)・ x<sub>3</sub> (所)の職場 / 事務所 / 営業所 / 局 | x<sub>1</sub> (dinju / stuzi) lo nu x<sub>2</sub> gasnu lo se bilga be x<sub>2</sub> ku kei ku bu'u x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
 | ckule | x<sub>1</sub> は x<sub>2</sub> (所)で x<sub>3</sub> (科目)を x<sub>4</sub> (聴衆)に教える、 x<sub>5</sub> (者)によって営まれている教育機関 / 学習施設 | x<sub>1</sub> (dinju / stuzi) bu'u x<sub>2</sub> lo nu cilre fi x<sub>3</sub> fa x<sub>4</sub> kei ku ca'i x<sub>5</sub> | B1::カテゴリ・ワード::店・建物・場所 |
-| gusta | x<sub>1</sub> は x<sub>2</sub> (飲み物 / 食べ物)を x<sub>3</sub> (客)に提供する飲食店 / レストラン / カフェテリア | x<sub>1</sub> (dinju / stuzi) lo nu vecnu se citka x<sub>2</sub> x<sub>3</sub> pu lo nu x<sub>3</sub> ctika x<sub>2</sub> kei ku kei ku | B1::カテゴリ・ワード::店・建物・場所 |
+| gusta | x<sub>1</sub> は x<sub>2</sub> (飲み物 / 食べ物)を x<sub>3</sub> (客)に提供する飲食店 / レストラン / カフェテリア | x<sub>1</sub> (dinju / stuzi) lo nu x<sub>2</sub> noi to'e co'a vecnu ke'a x<sub>3</sub> ku'o se ctika x<sub>3</sub> kei ku | B1::カテゴリ・ワード::店・建物・場所 |
 | zarci | x<sub>1</sub> は x<sub>2</sub> (取引品)・ x<sub>3</sub> (営者)の店 / 市場 | x<sub>1</sub> (dinju / stuzi) lo nu vecnu x<sub>2</sub> fa x<sub>3</sub> kei ku | B1::カテゴリ・ワード::店・建物・場所 |
 | zdani | x<sub>1</sub> は x<sub>2</sub> の(ための)巣 / 家 / ねぐら / アジト | x<sub>1</sub> dinju lo nu x<sub>2</sub> xabju kei ku | B1::カテゴリ・ワード::店・建物・場所 |
 | lalxu | x<sub>1</sub> は x<sub>2</sub> (所)の湖 / 池 / 水たまり | x<sub>1</sub> se stali tu'i x<sub>2</sub> lo djacu ku | B1::カテゴリ・ワード::水辺 |
@@ -158,18 +164,21 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | cidja | x<sub>1</sub> は x<sub>2</sub> (摂食者)のための食べ物 / 食糧 / 餌; x<sub>1</sub> は x<sub>2</sub> に栄養価を与える; x<sub>1</sub> は食用 | x<sub>1</sub> ka'e se citka x<sub>2</sub> | B1::カテゴリ・ワード::ご飯 |
 | sanmi | x<sub>1</sub> (群)は x<sub>2</sub> (品 / コース)の食事 / ごはん | x<sub>1</sub> gunma x<sub>2</sub> noi ka'e citka ke'a ku'o | B1::カテゴリ・ワード::ご飯 |
 | lojbo | x<sub>1</sub> は x<sub>2</sub> (性質面)に関してロジバン系 | la .lojban. | B1::etc |
-| vitke | x<sub>1</sub> は x<sub>2</sub> (者)・ x<sub>3</sub> (所 / 事)の客; x<sub>1</sub> は x<sub>2</sub> ・ x<sub>3</sub> を訪れる | x<sub>1</sub> klama tezu'e lo nu x<sub>2</sub> vecnu kei ku x<sub>3</sub> | B1::etc |
-| cpina | x<sub>1</sub> は x<sub>2</sub> (味覚者)にとってからい / スパイシー | x<sub>1</sub> ka'e se citka seri'a lo nu ne'i lo nu x<sub>2</sub> cortu lo moklu ku kei ku | C1::カテゴリ・ワード::味 |
-| cmima | x<sub>1</sub> は x<sub>2</sub> (集合)の成員 / メンバー; x<sub>1</sub> は x<sub>2</sub> に属する | x<sub>1</sub> me lo se gunma be lu'o x<sub>2</sub> | C1::カテゴリ・ワード::集団 |
-| grake | x<sub>1</sub> は x<sub>2</sub> (数)・ x<sub>3</sub> (基準)のグラム | x<sub>1</sub> co'e la .gram. x<sub>2</sub> | C1::カテゴリ・ワード::単位 |
-| mitre | x<sub>1</sub> は x<sub>2</sub> (数量)・ x<sub>3</sub> (方向)・ x<sub>4</sub> (基準)のメートル; x<sub>1</sub> は x<sub>2</sub> メートル | x<sub>1</sub> co'e la .meter. x<sub>2</sub> | C1::カテゴリ・ワード::単位 |
-| xampo | x<sub>1</sub> は x<sub>2</sub> (数)・ x<sub>3</sub> (基準)のアンペア | x<sub>1</sub> co'e la .amper. x<sub>2</sub> | C1::カテゴリ・ワード::単位 |
+| vitke | x<sub>1</sub> は x<sub>2</sub> (者)・ x<sub>3</sub> (所 / 事)の客; x<sub>1</sub> は x<sub>2</sub> ・ x<sub>3</sub> を訪れる | x<sub>1</sub> klama tezu'e lo nu x<sub>2</sub> vecnu fi x<sub>1</sub> kei ku x<sub>3</sub> | B1::etc |
+| cpina | x<sub>1</sub> は x<sub>2</sub> (味覚者)にとってからい / スパイシー | x<sub>1</sub> ka'e se citka seri'a lo nu x<sub>2</sub> cortu lo moklu ku kei ku | C1::カテゴリ・ワード::味 |
+| mrilu | x<sub>1</sub> は x<sub>2</sub> (郵便物 / 手紙 / Eメール)を x<sub>3</sub> (終点)に x<sub>4</sub> (始点)から x<sub>5</sub> (ネットワーク / システム)によって送達する | x<sub>1</sub> benji x<sub>2</sub> x<sub>3</sub> x<sub>4</sub> x<sub>5</sub> noi ke'a bevri x<sub>2</sub> x<sub>3</sub> x<sub>4</sub>
+| cmima | x<sub>1</sub> は x<sub>2</sub> (集合)の成員 / メンバー; x<sub>1</sub> は x<sub>2</sub> に属する | x<sub>1</sub> me lo se  be lu'o x<sub>2</sub> | C1::カテゴリ・ワード::集団 |
+| girzu | x<sub>1</sub> は x<sub>2</sub> (共通性質)・ x<sub>3</sub> (集合)・ x<sub>4</sub> (関係)の組 / チーム | x<sub>1</sub> noi lu'i ke'a simxu x<sub>2</sub> ku'o gunma lu'a x<sub>3</sub> | C1::カテゴリ・ワード::集団 |
+| grake | x<sub>1</sub> は x<sub>2</sub> (数)・ x<sub>3</sub> (基準)のグラム | x<sub>1</sub> klani x<sub>2</sub> x<sub>3</sub> noi ke'a me la .gram. ku'o | C1::カテゴリ・ワード::単位 |
+| mitre | x<sub>1</sub> は x<sub>2</sub> (数量)・ x<sub>3</sub> (方向)・ x<sub>4</sub> (基準)のメートル; x<sub>1</sub> は x<sub>2</sub> メートル | x<sub>1</sub> klani x<sub>2</sub> fa'a x<sub>3</sub> x<sub>4</sub> noi ke'a me la .meter. ku'o | C1::カテゴリ・ワード::単位 |
+| xampo | x<sub>1</sub> は x<sub>2</sub> (数)・ x<sub>3</sub> (基準)のアンペア | x<sub>1</sub> klani x<sub>2</sub> x<sub>3</sub> noi ke'a me la .amper. ku'o | C1::カテゴリ・ワード::単位 |
+| cpana | x<sub>1</sub> は x<sub>2</sub> (表面)の上に(置いて / 立って)在る、 x<sub>3</sub> (観点)で | x<sub>1</sub> zvati lo sefta be x<sub>2</sub> ku vega'a x<sub>3</sub> | C1::カテゴリ・ワード::表面 |
 | ciblu | x<sub>1</sub> は x<sub>2</sub> (生体)の血 / 血液 | x<sub>1</sub> xunre no'e sligu ne'i lo xadni be x<sub>2</sub> ku | C1::etc |
-| speni | x<sub>1</sub> は x<sub>2</sub> と結婚している / の配偶者、 x<sub>3</sub> (法律 / 規則 / 慣習)のもと | x<sub>1</sub> bilga lo nu x<sub>1</sub> kansa x<sub>2</sub> kei ku ja'i x<sub>3</sub> mu'i lo nu x<sub>1</sub> prami x<sub>2</sub> kei ku | C1::etc |
-| jatna | x<sub>1</sub> は x<sub>2</sub> (活動領域 / 権限範疇)における指揮者 / 指導者 / 首領 / 長 / リーダー / キャプテン | x<sub>1</sub> catni lo ka jitro ja minde x<sub>2</sub> | C1::etc |
-| klaku | x<sub>1</sub> は x<sub>2</sub> (涙)・ x<sub>3</sub> (理由)で泣く | x<sub>1</sub> jai ci'o movdu fa x<sub>2</sub> noi ke'a djacu ku'o mu'i x<sub>3</sub> lo kanla to'e nenri ku lo kanla nenri ku | C1::etc |
+| finpe | x<sub>1</sub> は x<sub>2</sub> (種類)の魚 | x<sub>1</sub> noi ke'a me la .ficu. ku'o danlu x<sub>2</sub> | C1::etc |
 | limna | x<sub>1</sub> は x<sub>2</sub> (液体)中を泳ぐ / 水泳する | x<sub>1</sub> noi ke'a danlu ku'o movdu ne'i x<sub>2</sub> noi ke'a sligu ku'o | C1::etc |
+| speni | x<sub>1</sub> は x<sub>2</sub> と結婚している / の配偶者、 x<sub>3</sub> (法律 / 規則 / 慣習)のもと | x<sub>1</sub> bilga lo nu x<sub>1</sub> kansa x<sub>2</sub> kei ku ja'i x<sub>3</sub> mu'i lo nu x<sub>1</sub> prami x<sub>2</sub> kei ku | C1::etc |
 | stapa | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> で踏む | x<sub>1</sub> punji fi x<sub>2</sub> fe x<sub>3</sub> noi ke'a to'e xance ku'o | C1::etc |
+| mensi | x<sub>1</sub> は x<sub>2</sub> と、 x<sub>3</sub> (血縁)によって姉妹関係にある; x<sub>1</sub> は x<sub>2</sub> の姉 / 妹 | x<sub>1</sub> noi ke'a ninmu ku'o ckini x<sub>2</sub> x<sub>3</sub> | D1:カテゴリ・ワード::ペア・ワード |
 | bakni | x<sub>1</sub> は x<sub>2</sub> (種類)のウシ属動物 | x<sub>1</sub> noi ke'a me la .bos. ku'o danlu x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | banfi | x<sub>1</sub> は x<sub>2</sub> (種類)の両生綱 / 両生類動物 | x<sub>1</sub> noi ke'a me la .amfibian. ku'o danlu x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | cinki | x<sub>1</sub> は x<sub>2</sub> (種類)の昆虫綱(甲虫 / チョウ / ハエ / ハチ / カメムシ / バッタ / トンボ…目) | x<sub>1</sub> noi ke'a me la .insekt. ku'o danlu x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
@@ -198,9 +207,9 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | brodo | 代ブリディその4[x<sub>1</sub> を始めとするPS全体が文脈次第] | | D1::カテゴリ・ワード::broda |
 | brodu | 代ブリディその5[x<sub>1</sub> を始めとするPS全体が文脈次第] | | D1::カテゴリ・ワード::broda |
 | creka | x<sub>1</sub> は x<sub>2</sub> (素材)の上着 / トップス | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo cutne ku .e lo betfu ku | D1::カテゴリ・ワード::服飾 |
+| cutci | x<sub>1</sub> は x<sub>2</sub> (足 / ひづめ)を覆う / 守るための x<sub>3</sub> (素材)の靴 | x<sub>1</sub> taxfu x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu na xrani x<sub>2</sub> ku | D1::カテゴリ・ワード::服飾 |
 | dakli | x<sub>1</sub> は x<sub>2</sub> (内容)・ x3 (素材)の鞄 / バッグ / リュックサック | x<sub>1</sub> noi ka'e dasni ke'a ku'o cmalu vasru x<sub>2</sub> ma'e x<sub>3</sub> | D1::カテゴリ・ワード::服飾 |
 | daski | x<sub>1</sub> は x<sub>2</sub> (物)のためのポケット / ポーチ / 小物入れ | x<sub>1</sub> cmalu vasru x<sub>2</sub> | D1::カテゴリ・ワード::服飾 |
-| cutci | x<sub>1</sub> は x<sub>2</sub> (足 / ひづめ)を覆う / 守るための x<sub>3</sub> (素材)の靴 | x<sub>1</sub> taxfu x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu na xrani x<sub>2</sub> ku | D1::カテゴリ・ワード::服飾 |
 | gluta | x<sub>1</sub> は手袋 / グローブ / ミトン | x<sub>1</sub> taxfu lo xance ku | D1::カテゴリ・ワード::服飾 |
 | kosta | x<sub>1</sub> は x<sub>2</sub> (素材)のコート / ジャケット / マント | x<sub>1</sub> to'e nenri taxfu ma'e x<sub>2</sub> tezu'e lo nu na binxo lo ka to'e glare | D1::カテゴリ・ワード::服飾 |
 | mapku | x<sub>1</sub> は x<sub>2</sub> (素材)の帽子 / 冠 / 兜 / ヘルメット | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo stedu ku | D1::カテゴリ・ワード::服飾 |
@@ -211,11 +220,12 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | canko | x<sub>1</sub> は x<sub>2</sub> (壁 / 建物 / 構造)の窓 / 門 / 入口 / 出口 / 玄関 | x<sub>1</sub> dinju kevna x<sub>2</sub> tezu'e lo nu muvdu kei ku | D1::etc |
 | catra | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> (動作 / 方法)で殺す | x<sub>1</sub> lebna lo ka x<sub>2</sub> jmive kei ku ta'i x<sub>3</sub> | D1::etc |
 | cifnu | x<sub>1</sub> は x<sub>2</sub> (生物種)の幼児 / 赤ちゃん | x<sub>1</sub> noi ke'a citno verba ku'o danlu x<sub>2</sub> | D1::etc |
+| gacri | x<sub>1</sub> は x<sub>2</sub> の覆い / 蓋 / カバー; x<sub>1</sub> は x<sub>2</sub> に被さっている | x<sub>1</sub> sruri lo sefta be x<sub>2</sub> ku | D1::etc |
 | jukpa | x<sub>1</sub> は x<sub>2</sub> (完成品)に x<sub>3</sub> (方法)で料理する | x<sub>1</sub> zbasu x<sub>2</sub> ta'i x<sub>3</sub> | D1::etc |
 | kagni | x<sub>1</sub> は x<sub>2</sub> (権限)・ x<sub>3</sub> (目的)の会社 / 企業 | x<sub>1</sub> bende ca'i x<sub>2</sub> fo x<sub>3</sub> .e lo nu x<sub>1</sub> to'e cirko lo jdini kei ku | D1::etc |
 | livla | x<sub>1</sub> は x<sub>2</sub> のための燃料 | x<sub>1</sub> noi ke'a se fagri ku'o (no'e / to'e) sligu tezu'e x<sub>2</sub> | D1::etc |
 | sanga | x<sub>1</sub> は x<sub>2</sub> (音楽)を x<sub>3</sub> (聴衆)に歌う / 詠唱する | x<sub>1</sub> bacru x<sub>2</sub> noi ke'a zgike ku'o seva'u x<sub>3</sub> | D1::etc |
-| vacri | x<sub>1</sub> は x<sub>2</sub> (領域 / 惑星)・ x<sub>3</sub> (成分)の空気 / 大気 | x<sub>1</sub> nei ke'a fadni ku'o to'e sligu ru'u x<sub>2</sub> x<sub>3</sub> | D1::etc |
+| vacri | x<sub>1</sub> は x<sub>2</sub> (領域 / 惑星)・ x<sub>3</sub> (成分)の空気 / 大気 | x<sub>1</sub> noi ke'a fadni ku'o to'e sligu ru'u x<sub>2</sub> x<sub>3</sub> | D1::etc |
 | vindu | x<sub>1</sub> は x<sub>2</sub> にとって毒 / 中毒性がある | x<sub>1</sub> (no'e / to'e) sligu seri'a lo nu x<sub>2</sub> bilma kei ku | D1::etc |
 | xagji | x<sub>1</sub> は x<sub>2</sub> に飢える; x<sub>1</sub> は腹をすかしている / おなかがへっている; x<sub>1</sub> は x<sub>2</sub> (燃料 / 栄養)の補充を必要としている | x<sub>1</sub> djica lo nu citka x<sub>2</sub> kei ku | D1::etc |
 
