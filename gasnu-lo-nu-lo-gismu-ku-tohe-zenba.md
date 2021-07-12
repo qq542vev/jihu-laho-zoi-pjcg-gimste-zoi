@@ -224,7 +224,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | cifnu | x<sub>1</sub> は x<sub>2</sub> (生物種)の幼児 / 赤ちゃん | x<sub>1</sub> noi ke'a citno verba ku'o danlu x<sub>2</sub> | D1::etc |
 | gacri | x<sub>1</sub> は x<sub>2</sub> の覆い / 蓋 / カバー; x<sub>1</sub> は x<sub>2</sub> に被さっている | x<sub>1</sub> sruri lo sefta be x<sub>2</sub> ku | D1::etc |
 | jukpa | x<sub>1</sub> は x<sub>2</sub> (完成品)に x<sub>3</sub> (方法)で料理する | x<sub>1</sub> zbasu x<sub>2</sub> noi citka ke'a ku'o ta'i x<sub>3</sub> | D1::etc |
-| kagni | x<sub>1</sub> は x<sub>2</sub> (権限)・ x<sub>3</sub> (目的)の会社 / 企業 | x<sub>1</sub> gunma ca'i x<sub>2</sub> tezu'e x<sub>3</sub> .e lo nu x<sub>1</sub> to'e cirko lo jdini kei ku | D1::etc |
+| kagni | x<sub>1</sub> は x<sub>2</sub> (権限)・ x<sub>3</sub> (目的)の会社 / 企業 | x<sub>1</sub> gunma ca'i x<sub>2</sub> tezu'e x<sub>3</sub> .e lo nu x<sub>1</sub> to'e cirko lo jdini ku kei ku | D1::etc |
 | livla | x<sub>1</sub> は x<sub>2</sub> のための燃料 | x<sub>1</sub> noi ke'a se fagri ku'o (no'e / to'e) sligu tezu'e x<sub>2</sub> | D1::etc |
 | sanga | x<sub>1</sub> は x<sub>2</sub> (音楽)を x<sub>3</sub> (聴衆)に歌う / 詠唱する | x<sub>1</sub> bacru x<sub>2</sub> noi ke'a zgike ku'o seva'u x<sub>3</sub> | D1::etc |
 | vacri | x<sub>1</sub> は x<sub>2</sub> (領域 / 惑星)・ x<sub>3</sub> (成分)の空気 / 大気 | x<sub>1</sub> noi ke'a fadni ku'o to'e sligu ru'u x<sub>2</sub> x<sub>3</sub> | D1::etc |
