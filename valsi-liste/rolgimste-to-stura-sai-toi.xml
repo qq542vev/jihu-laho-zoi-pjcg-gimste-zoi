@@ -3636,7 +3636,7 @@
 		<lerfu xml:lang="jbo-fonipa">ʃˈrisa</lerfu>
 		<rafsi klesi="cimei-lerfu">cis</rafsi>
 		<rafsi klesi="vomei-lerfu">cris</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (年)・(所)の夏季</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (年)・ <sumti>x3</sumti> (所)の夏季</ve_ciksi>
 		<smuni>夏</smuni>
 		<lerfu xml:lang="ja">シリサ</lerfu>
 		<goro>知り去る夏</goro>
@@ -13036,7 +13036,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈpastu</lerfu>
 		<rafsi klesi="cimei-lerfu">pas</rafsi>
 		<rafsi klesi="vomei-lerfu">past</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は(素材)のローブ / チュニック / ガウン / ドレス</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (素材)のローブ / チュニック / ガウン / ドレス</ve_ciksi>
 		<notci>長い、もしくは全身を覆う衣服。</notci>
 		<smuni>ローブ</smuni>
 		<lerfu xml:lang="ja">パストゥ</lerfu>
