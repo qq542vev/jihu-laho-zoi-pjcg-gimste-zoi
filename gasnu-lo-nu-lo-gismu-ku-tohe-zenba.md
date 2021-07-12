@@ -88,11 +88,6 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | mleca | x<sub>1</sub> は x<sub>2</sub> よりも、 x<sub>3</sub> (性質)に関して x<sub>4</sub> (数量)ほど劣る / 少ない | to'e zmadu | B1::ペア・ワード |
 | gapci | x<sub>1</sub> は x<sub>2</sub> (成分)・ x<sub>3</sub> (条件)の気体 / ガス | to'e sligu | B1::カテゴリ・ワード::物質の三態 |
 | litki | x<sub>1</sub> は x<sub>2</sub> (成分 / 物質)の、 x<sub>3</sub> (条件)における液体 / 流動体 | no'e sligu | B1::カテゴリ・ワード::物質の三態 |
-| baktu | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)のバケツ / 桶 / 槽 | x<sub>1</sub> vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu lo no'e sligu ku stali kei ku | B1::カテゴリ・ワード::容器 |
-| botpi | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)・ x<sub>4</sub> (栓 / 蓋)の瓶 / ボトル / 水筒 | x<sub>1</sub> noi x<sub>4</sub> to'e loldi ke'a ku'o vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu bevri kei ku | B1::カテゴリ・ワード::容器 |
-| kabri | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)のコップ / カップ / タンブラー / マグ / 茶碗 / 杯 | x<sub>1</sub> noi pinxe sepi'o ke'a ku'o vasru x<sub>2</sub> ma'e x<sub>3</sub> | B1::カテゴリ・ワード::容器 |
-| palta | x<sub>1</sub> は x<sub>2</sub> (素材)の皿 | x<sub>1</sub> noi citka sepi'o ke'a ku'o vasru ma'e x<sub>2</sub> | B1::カテゴリ・ワード::容器 |
-| patxu | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)の壷 / 鉢 / かめ / やかん / ポット | x<sub>1</sub> vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu lo no'e sligu ku stali kei ku | B1::カテゴリ・ワード::容器 |
 | kanro | x<sub>1</sub> は x<sub>2</sub> (基準)において健康 / すこやか | to'e bilma | C1::ペア・ワード |
 | sudga | x<sub>1</sub> は x<sub>2</sub> (液体)を欠いて乾燥している / 乾いている | to'e cilmo | C1::ペア・ワード |
 | jibni | x<sub>1</sub> は x<sub>2</sub> に、 x<sub>3</sub> (性質)に関して近い / 近似 | to'e darno | C1::ペア・ワード |
@@ -150,9 +145,15 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | jbena | x<sub>1</sub> は x<sub>2</sub> (産主)による x<sub>3</sub> (日時)・ x<sub>4</sub> (所)の生まれである; x2 は x1 の産みの親 | x<sub>1</sub> noi ke'a jmive ku'o cliva lo xadni be x<sub>2</sub> ku de'i x<sub>3</sub> bu'u x<sub>4</sub> | A1::etc |
 | kelci | x<sub>1</sub> は x<sub>2</sub> (道具 / 方法)で遊ぶ | x<sub>1</sub> gasnu [sepi'o / ta'i] x<sub>2</sub> da noi ke'a zdile x<sub>1</sub> ku'o | A1::etc |
 | manku | x<sub>1</sub> は暗い / 闇 | x<sub>1</sub> to'e culno lo gusni ku | A1::etc |
-| tixnu | x<sub>1</sub> は x<sub>2</sub> (親)の娘 | x<sub>1</sub> noi ke'a ninmu ku'o se rirni x<sub>2</sub> | B1::ペア・ワード |
 | remna | x<sub>1</sub> は生物学的ヒト / ホモサピエンス | x<sub>1</sub> danlu la .fomosapi'ens. | A1::etc |
 | sisti | x<sub>1</sub> (者)は x<sub>2</sub> (動作 / 過程 / 状態)をやめる / 中止 / 終了する | x<sub>1</sub> to'e [co'a / ca'o] gasnu x<sub>2</sub> | A1::etc |
+| tixnu | x<sub>1</sub> は x<sub>2</sub> (親)の娘 | x<sub>1</sub> noi ke'a ninmu ku'o se rirni x<sub>2</sub> | B1::ペア・ワード |
+| cfari | x<sub>1</sub> (事 / 状態)は始まる / 開始する | x<sub>1</sub> co'a se gasnu zi'o | B1::ペア・ワード  |
+| baktu | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)のバケツ / 桶 / 槽 | x<sub>1</sub> vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu lo no'e sligu ku stali kei ku | B1::カテゴリ・ワード::容器 |
+| botpi | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)・ x<sub>4</sub> (栓 / 蓋)の瓶 / ボトル / 水筒 | x<sub>1</sub> noi x<sub>4</sub> to'e loldi ke'a ku'o vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu bevri kei ku | B1::カテゴリ・ワード::容器 |
+| kabri | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)のコップ / カップ / タンブラー / マグ / 茶碗 / 杯 | x<sub>1</sub> noi pinxe sepi'o ke'a ku'o vasru x<sub>2</sub> ma'e x<sub>3</sub> | B1::カテゴリ・ワード::容器 |
+| palta | x<sub>1</sub> は x<sub>2</sub> (素材)の皿 | x<sub>1</sub> noi citka sepi'o ke'a ku'o vasru ma'e x<sub>2</sub> | B1::カテゴリ・ワード::容器 |
+| patxu | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)の壷 / 鉢 / かめ / やかん / ポット | x<sub>1</sub> vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu lo no'e sligu ku stali kei ku | B1::カテゴリ・ワード::容器 |
 | bloti | x<sub>1</sub> は x<sub>2</sub> (客 / 荷)・ x<sub>3</sub> (原動力)の船 / ボート | x<sub>1</sub> marce x<sub>2</sub> fo x<sub>3</sub> ga'u lo djacu ku | B1::カテゴリ・ワード::乗り物 |
 | vinji | x<sub>1</sub> は x<sub>2</sub> (荷 / 乗客)・ x<sub>3</sub> (原動力)の飛行機 / 航空機 / 飛行船 | x<sub>1</sub> marce x<sub>2</sub> fo x<sub>3</sub> ne'i lo tsani ku | B1::カテゴリ・ワード::乗り物 |
 | briju | x<sub>1</sub> は x<sub>2</sub> (従業員)・ x<sub>3</sub> (所)の職場 / 事務所 / 営業所 / 局 | x<sub>1</sub> (dinju / stuzi) lo nu x<sub>2</sub> gasnu lo se bilga be x<sub>2</sub> ku kei ku bu'u x<sub>3</sub> | B1::カテゴリ・ワード::店・建物・場所 |
