@@ -61,6 +61,7 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | blabi | x<sub>1</sub> は白色 | to'e xekri | A1::カテゴリ・ワード::色 |
 | grusi | x<sub>1</sub> は灰色 / グレー | no'e blabi | A1::カテゴリ・ワード::色 |
 | pelxu | x<sub>1</sub> は黄色 | to'e blanu | A1::カテゴリ・ワード::色 |
+| spati | x<sub>1</sub> は x<sub>2</sub> (種類)の植物(草木 / 葉 / 花); x1 は植物性 | to'e danlu | A1::カテゴリ・ワード::植物 |
 | srasu | x<sub>1</sub> は x<sub>2</sub> (種類)の草 / 草原 / 原っぱ | to'e tricu | A1::カテゴリ・ワード::植物 |
 | drudi | x<sub>1</sub> は x<sub>2</sub> (本体)の屋根 / 天井 / 屋上 / 蓋 | to'e loldi | A1::カテゴリ・ワード::床 |
 | tumla | x<sub>1</sub> は x<sub>2</sub> (位置)における陸 / 大地の広がり | to'e xamsi | A1::カテゴリ・ワード::空 |
@@ -92,7 +93,6 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | kabri | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)のコップ / カップ / タンブラー / マグ / 茶碗 / 杯 | x<sub>1</sub> noi pinxe sepi'o ke'a ku'o vasru x<sub>2</sub> ma'e x<sub>3</sub> | B1::カテゴリ・ワード::容器 |
 | palta | x<sub>1</sub> は x<sub>2</sub> (素材)の皿 | x<sub>1</sub> noi citka sepi'o ke'a ku'o vasru ma'e x<sub>2</sub> | B1::カテゴリ・ワード::容器 |
 | patxu | x<sub>1</sub> は x<sub>2</sub> (内容)・ x<sub>3</sub> (素材)の壷 / 鉢 / かめ / やかん / ポット | x<sub>1</sub> vasru x<sub>2</sub> ma'e x<sub>3</sub> tezu'e lo nu lo no'e sligu ku stali kei ku | B1::カテゴリ・ワード::容器 |
-| spati | x<sub>1</sub> は x<sub>2</sub> (種類)の植物(草木 / 葉 / 花); x1 は植物性 | to'e danlu | B1::etc |
 | kanro | x<sub>1</sub> は x<sub>2</sub> (基準)において健康 / すこやか | to'e bilma | C1::ペア・ワード |
 | sudga | x<sub>1</sub> は x<sub>2</sub> (液体)を欠いて乾燥している / 乾いている | to'e cilmo | C1::ペア・ワード |
 | jibni | x<sub>1</sub> は x<sub>2</sub> に、 x<sub>3</sub> (性質)に関して近い / 近似 | to'e darno | C1::ペア・ワード |
@@ -107,6 +107,7 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | ckasu | x<sub>1</sub> は x<sub>2</sub> (者)を x<sub>3</sub> (事 / 性質)について x<sub>4</sub> (行為)で嘲る / 笑いものにする / ばかにする / ひやかす | to'e kecti | C1::etc |
 | daspo | x<sub>1</sub> (事)は x<sub>2</sub> を破壊する / 破滅させる / 倒す; x<sub>1</sub> は破壊的 | to'e cikre | C1::カテゴリ・ワード::破壊 |
 | cabna | x<sub>1</sub> は x<sub>2</sub> と同時; x<sub>1</sub> は現在 / 今 | no'e purci | C1::etc |
+| klaku | x<sub>1</sub> は x<sub>2</sub> (涙)・ x<sub>3</sub> (理由)で泣く | to'e cmila | C1::etc |
 | vorme | x<sub>1</sub> は x<sub>2</sub> ・ x<sub>3</sub> 間の、 x<sub>4</sub> (構造体)の扉 / 戸口 / 出入口 / 門戸 / ドア | to'e bitmu | C1::etc |
 | masno | x<sub>1</sub> は x<sub>2</sub> (事)に関して速度的に遅い / のろい / もたもたする | to'e sutra | D1::ペア・ワード |
 | frili | x<sub>1</sub> (事)は x<sub>2</sub> (者)にとって x<sub>3</sub> (条件)において簡単 / 容易; x<sub>2</sub> は x<sub>1</sub> をた易くこなす | to'e nandu | D1::ペア・ワード |
@@ -123,7 +124,7 @@ PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それ�
 | fanza | x<sub>1</sub> (事)は x<sub>2</sub> の気に障る / をいらいらさせる; x<sub>2</sub> は x<sub>1</sub> で苛つく; x<sub>1</sub> は邪魔 | to'e trina | D1::etc |
 | fendi | x<sub>1</sub> (者)は x<sub>2</sub> を x<sub>3</sub> (部分 / 個)に x<sub>4</sub> (方法 / 区分)によって分ける | to'e lasna | D1::etc |
 | fengu | x<sub>1</sub> は x<sub>2</sub> (者)にたいして x<sub>3</sub> (事 / 性質)について憤慨している / 怒っている | to'e fraxu | D1::etc |
-| lazni | x<sub>1</sub> (者)は x<sub>2</sub> (動作 / 仕事 / 努力 / 事)に関して怠惰 / 怠ける; x<sub>1</sub> は x<sub>2</sub> を怠る | to'e lazni | D1::etc |
+| lazni | x<sub>1</sub> (者)は x<sub>2</sub> (動作 / 仕事 / 努力 / 事)に関して怠惰 / 怠ける; x<sub>1</sub> は x<sub>2</sub> を怠る | to'e troci | D1::etc |
 
 Ankiで以上のカードを全て選択する場合、カードブラウザの検索欄に次の文を入力してください。
 
@@ -176,9 +177,9 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | ciblu | x<sub>1</sub> は x<sub>2</sub> (生体)の血 / 血液 | x<sub>1</sub> xunre no'e sligu ne'i lo xadni be x<sub>2</sub> ku | C1::etc |
 | finpe | x<sub>1</sub> は x<sub>2</sub> (種類)の魚 | x<sub>1</sub> noi ke'a me la .ficu. ku'o danlu x<sub>2</sub> | C1::etc |
 | limna | x<sub>1</sub> は x<sub>2</sub> (液体)中を泳ぐ / 水泳する | x<sub>1</sub> noi ke'a danlu ku'o movdu ne'i x<sub>2</sub> noi ke'a sligu ku'o | C1::etc |
+| senva | x<sub>1</sub> は x<sub>2</sub> (事)を夢見る; x<sub>2</sub> は夢想 / 幻想 | x<sub>1</sub> ganse x<sub>2</sub> noi ke'a xanri x<sub>1</sub> ku'o | C1::etc |
 | speni | x<sub>1</sub> は x<sub>2</sub> と結婚している / の配偶者、 x<sub>3</sub> (法律 / 規則 / 慣習)のもと | x<sub>1</sub> bilga lo nu x<sub>1</sub> kansa x<sub>2</sub> kei ku ja'i x<sub>3</sub> mu'i lo nu x<sub>1</sub> prami x<sub>2</sub> kei ku | C1::etc |
 | stapa | x<sub>1</sub> は x<sub>2</sub> を x<sub>3</sub> で踏む | x<sub>1</sub> punji fi x<sub>2</sub> fe x<sub>3</sub> noi ke'a to'e xance ku'o | C1::etc |
-| mensi | x<sub>1</sub> は x<sub>2</sub> と、 x<sub>3</sub> (血縁)によって姉妹関係にある; x<sub>1</sub> は x<sub>2</sub> の姉 / 妹 | x<sub>1</sub> noi ke'a ninmu ku'o ckini x<sub>2</sub> x<sub>3</sub> | D1:カテゴリ・ワード::ペア・ワード |
 | bakni | x<sub>1</sub> は x<sub>2</sub> (種類)のウシ属動物 | x<sub>1</sub> noi ke'a me la .bos. ku'o danlu x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | banfi | x<sub>1</sub> は x<sub>2</sub> (種類)の両生綱 / 両生類動物 | x<sub>1</sub> noi ke'a me la .amfibian. ku'o danlu x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
 | cinki | x<sub>1</sub> は x<sub>2</sub> (種類)の昆虫綱(甲虫 / チョウ / ハエ / ハチ / カメムシ / バッタ / トンボ…目) | x<sub>1</sub> noi ke'a me la .insekt. ku'o danlu x<sub>2</sub> | D1:カテゴリ・ワード::動物 |
