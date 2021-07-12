@@ -216,7 +216,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | kosta | x<sub>1</sub> は x<sub>2</sub> (素材)のコート / ジャケット / マント | x<sub>1</sub> to'e nenri taxfu ma'e x<sub>2</sub> tezu'e lo nu na binxo lo ka to'e glare | D1::カテゴリ・ワード::服飾 |
 | mapku | x<sub>1</sub> は x<sub>2</sub> (素材)の帽子 / 冠 / 兜 / ヘルメット | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo stedu ku | D1::カテゴリ・ワード::服飾 |
 | palku | x<sub>1</sub> は x<sub>2</sub> (素材)のズボン / スラックス / パンツ(女性用) | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo to'e birka ku | D1::カテゴリ・ワード::服飾 |
-| pastu | x<sub>1</sub> は(素材)のローブ / チュニック / ガウン / ドレス | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo ctune ku bi'i lo to'e birka ku | D1::カテゴリ・ワード::服飾 |
+| pastu | x<sub>1</sub> は x<sub>2</sub> (素材)のローブ / チュニック / ガウン / ドレス | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo ctune ku bi'i lo to'e birka ku | D1::カテゴリ・ワード::服飾 |
 | skaci | x<sub>1</sub> は x<sub>2</sub> (素材)のスカート / キルト | x<sub>1</sub> noi ke'a to'e gapru kalri ku'o cukla taxfu ma'e x<sub>2</sub> | D1::カテゴリ・ワード::服飾 |
 | smoka | x<sub>1</sub> は x<sub>2</sub> (素材)の靴下 / ストッキング / タイツ | x<sub>1</sub> taxfu ma'e x<sub>2</sub> lo to'e xance ku | D1::カテゴリ・ワード::服飾 |
 | canko | x<sub>1</sub> は x<sub>2</sub> (壁 / 建物 / 構造)の窓 / 門 / 入口 / 出口 / 玄関 | x<sub>1</sub> dinju kevna x<sub>2</sub> tezu'e lo nu muvdu kei ku | D1::etc |
