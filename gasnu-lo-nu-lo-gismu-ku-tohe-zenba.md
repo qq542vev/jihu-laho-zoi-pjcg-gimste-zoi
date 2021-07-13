@@ -7,7 +7,7 @@
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
 ##   version - 0.1.2
-##   date - 2021-07-12
+##   date - 2021-07-13
 ##   since - 2021-04-24
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -166,6 +166,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | cidja | x<sub>1</sub> は x<sub>2</sub> (摂食者)のための食べ物 / 食糧 / 餌; x<sub>1</sub> は x<sub>2</sub> に栄養価を与える; x<sub>1</sub> は食用 | x<sub>1</sub> ka'e se citka x<sub>2</sub> | B1::カテゴリ・ワード::ご飯 |
 | sanmi | x<sub>1</sub> (群)は x<sub>2</sub> (品 / コース)の食事 / ごはん | x<sub>1</sub> gunma x<sub>2</sub> noi ka'e citka ke'a ku'o | B1::カテゴリ・ワード::ご飯 |
 | lojbo | x<sub>1</sub> は x<sub>2</sub> (性質面)に関してロジバン系 | la .lojban. | B1::etc |
+| lumci | x<sub>1</sub> は x<sub>2</sub> の汚れ x<sub>3</sub> を洗浄剤 / 用具 x<sub>4</sub> で洗う | gau x<sub>1</sub> x<sub>2</sub> binxo lo ka jinsa x<sub>3</sub> kei ku sepi'o x<sub>4</sub> | B1::etc |
 | vitke | x<sub>1</sub> は x<sub>2</sub> (者)・ x<sub>3</sub> (所 / 事)の客; x<sub>1</sub> は x<sub>2</sub> ・ x<sub>3</sub> を訪れる | x<sub>1</sub> penmi x<sub>2</sub> bu'u x<sub>3</sub> tezu'e lo nu x<sub>2</sub> vecnu fi x<sub>1</sub> kei ku | B1::etc |
 | cpina | x<sub>1</sub> は x<sub>2</sub> (味覚者)にとってからい / スパイシー | x<sub>1</sub> ka'e se citka seri'a lo nu x<sub>2</sub> cortu lo moklu ku kei ku | C1::カテゴリ・ワード::味 |
 | mrilu | x<sub>1</sub> は x<sub>2</sub> (郵便物 / 手紙 / Eメール)を x<sub>3</sub> (終点)に x<sub>4</sub> (始点)から x<sub>5</sub> (ネットワーク / システム)によって送達する | x<sub>1</sub> benji x<sub>2</sub> x<sub>3</sub> x<sub>4</sub> x<sub>5</sub> noi ke'a bevri x<sub>2</sub> x<sub>3</sub> x<sub>4</sub>
