@@ -7,8 +7,8 @@
 ## Metadata:
 ##
 ##   author - qq542vev<https://purl.org/meta/me/>
-##   version - 0.1.0
-##   date - 2021-04-20
+##   version - 0.1.1
+##   date - 2022-01-14
 ##   since - 2021-04-11
 ##   package - jihu-laho-zoi-pjcg-gimste-zoi
 ##   source - ma'oste bau la'o by 日本語 by ji'u la jbovlaste de'i li 2016-01-10 <https://guskant.github.io/lojbo/gismu-cmavo/jpn-mahoste.html>
@@ -2052,7 +2052,12 @@
 		<lerfu xml:lang="jbo">fu'a</lerfu>
 		<lerfu xml:lang="jbo-fonipa">fuha</lerfu>
 		<cmavo_klesi>FUhA</cmavo_klesi>
-		<ve_ciksi>ポーランド記法 ：</ve_ciksi>
+		<ve_ciksi>逆ポーランド記法</ve_ciksi>
+		<notci>数式において、「2 3 +」の形で演算を表現する時に冒頭に付ける。 {pe'o} の逆。</notci>
+		<mupli>
+			<jufra xml:lang="jbo">li fu'a re boi ci su'i</jufra>
+		</mupli>
+		<smuni>逆ポーランド記法</smuni>
 		<lerfu xml:lang="ja">フハ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_c8e41451-d670-4eae-acbe-f8ed8da4a8d0">
@@ -3397,6 +3402,8 @@
 			<jufra xml:lang="jbo">ka'e citka</jufra>
 			<jufra xml:lang="ja">食べ得る</jufra>
 		</mupli>
+		<smuni>あり得る ; モダリティ</smuni>
+		<smuni>できる ; モダリティ</smuni>
 		<lerfu xml:lang="ja">カヘ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_3fc4f42f-4e85-499f-9625-2c6a8a517a76">
@@ -4727,7 +4734,8 @@
 		<lerfu xml:lang="jbo-fonipa">naj</lerfu>
 		<cmavo_klesi>NAI</cmavo_klesi>
 		<ve_ciksi>小構造否定 ： 左の語を否定する。命題否定か、対義否定か、段階否定かは、左の語の selma'o によって異なる。</ve_ciksi>
-		<notci>TAhE, ROI, ZAhO 以外の間制や、法制や、論理接続や、 NU に付くと、矛盾否定 {na} と同じ意味になる。 TAhE, ROI, ZAhO や、非論理接続 JOI, BIhI に付くと、段階否定 {na'e} と同じ意味になる。 UI, CAI, COI に付くと、対義否定 {to'e} と同じ意味になる。</notci>
+		<notci>相制詞（TAhE, PA ROI, ZAhO）以外の間制や、法制や、論理接続や、 NU に付くと、矛盾否定 {na} と同じ意味になる。相制詞や、非論理接続 JOI, BIhI に付くと、段階否定 {na'e} と同じ意味になる。 UI, CAI, COI に付くと、対義否定 {to'e} と同じ意味になる。</notci>
+		<smuni>ない ; 否定（小構造）</smuni>
 		<lerfu xml:lang="ja">ナイ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_1cc988ad-212e-41bf-b6c3-7755fbfffe35">
@@ -4862,6 +4870,15 @@
 		<ve_ciksi>～の論理で ： nibli 法制詞, x_1</ve_ciksi>
 		<lerfu xml:lang="ja">ニヒ</lerfu>
 	</valsi>
+	<valsi klesi="cmavo" xml:id="uuid_5ca48764-f61b-4714-b7ed-e887490eee1b">
+		<lerfu xml:lang="jbo">ni'o</lerfu>
+		<lerfu xml:lang="jbo-fonipa">niho</lerfu>
+		<cmavo_klesi>NIhO</cmavo_klesi>
+		<ve_ciksi>段落境界 ： 境界詞； 新しい話題／段落</ve_ciksi>
+		<notci>段落や話題の始まりを表す。 「{ni'o} {ni'o}」のように複数回繰り返した場合、節や章など、文章のより大きなまとまりを区切る。</notci>
+		<lerfu xml:lang="ja">ニホ</lerfu>
+		<srana>{no'i}</srana>
+	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_e636e365-8eef-4f94-99a6-818de8cead01">
 		<lerfu xml:lang="jbo">ni'u</lerfu>
 		<lerfu xml:lang="jbo-fonipa">nihu</lerfu>
@@ -4915,6 +4932,16 @@
 			</krasi>
 		</mupli>
 		<lerfu xml:lang="ja">ノイ</lerfu>
+	</valsi>
+	<valsi klesi="cmavo" xml:id="uuid_c8314a6a-aaf9-47c7-94be-c316f17358bb">
+		<lerfu xml:lang="jbo">no'i</lerfu>
+		<lerfu xml:lang="jbo-fonipa">nohi</lerfu>
+		<cmavo_klesi>NIhO</cmavo_klesi>
+		<ve_ciksi>段落境界 ： 境界詞； さきほどの話題／段落</ve_ciksi>
+		<notci>以前の段落や話題を再開する。 「{no'i} {no'i}」のように複数回繰り返した場合、節や章など、文章のより大きなまとまりを再開する。 「{no'i} {xi} {ni'u} {pa}」のように負の数で添字を付けると、その数だけ戻った段落を再開する。 「{ni'o} {xi} {pa}」のように負ではない数の添字を付けた {ni'o} が先行していれば、 「{no'i} {xi} {pa}」のように同じ添字を使うことによってその段落を再開する。</notci>
+		<smuni>段落再開</smuni>
+		<lerfu xml:lang="ja">ノヒ</lerfu>
+		<srana>{ni'o}</srana>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_817c316c-64bc-400c-a4fd-935b69303d83">
 		<lerfu xml:lang="jbo">no'o</lerfu>
@@ -4996,7 +5023,7 @@
 			<jufra xml:lang="jbo">nu'o klama</jufra>
 			<jufra xml:lang="ja">行き損ねる</jufra>
 		</mupli>
-		<smuni>可能だが未実現</smuni>
+		<smuni>可能だが未実現 ; モダリティ</smuni>
 		<lerfu xml:lang="ja">ヌホ</lerfu>
 		<srana>{kakne}</srana>
 	</valsi>
@@ -5412,7 +5439,12 @@
 		<lerfu xml:lang="jbo">pe'o</lerfu>
 		<lerfu xml:lang="jbo-fonipa">pɛho</lerfu>
 		<cmavo_klesi>PEhO</cmavo_klesi>
-		<ve_ciksi>前置型MEX演算子 ： MEX（数式）の範囲の始まりを示す前置型標識； ポーランド式演算子など</ve_ciksi>
+		<ve_ciksi>ポーランド記法</ve_ciksi>
+		<notci>数式において、「+ 2 3」の形で演算を表現する時に冒頭に付けることができる。 {fu'a} の逆。</notci>
+		<mupli>
+			<jufra xml:lang="jbo">li pe'o su'i re boi ci</jufra>
+		</mupli>
+		<smuni>ポーランド記法</smuni>
 		<lerfu xml:lang="ja">ペホ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_52c2736b-9c07-4e71-b400-d410161181af">
@@ -5621,7 +5653,7 @@
 		<rafsi klesi="cimei-lerfu">pus</rafsi>
 		<cmavo_klesi>CAhA</cmavo_klesi>
 		<ve_ciksi>可能かつ実現 ： 間制詞（モダリティ）； 可能性が実現されたことを表す</ve_ciksi>
-		<smuni>可能かつ実現</smuni>
+		<smuni>可能かつ実現 ; モダリティ</smuni>
 		<lerfu xml:lang="ja">プヒ</lerfu>
 		<srana>{kakne}</srana>
 	</valsi>
@@ -5859,6 +5891,7 @@
 				<se_finti>行乞記（二）</se_finti>
 			</krasi>
 		</mupli>
+		<smuni>回目; 序数</smuni>
 		<lerfu xml:lang="ja">レフ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_f5e5faa9-2cf9-45b6-b625-0190d891f60b">

@@ -7,8 +7,8 @@
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.1
-##   date - 2021-06-15
+##   version - 0.1.2
+##   date - 2022-01-14
 ##   since - 2021-04-09
 ##   package - jihu-laho-zoi-pjcg-gimste-zoi
 ##   source - gimste bau la'o by 日本語 by ji'u la jbovlaste de'i li 2016-01-10 <https://guskant.github.io/lojbo/gismu-cmavo/jpn-gimste.html>
@@ -2838,7 +2838,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈʃitri</lerfu>
 		<rafsi klesi="cimei-lerfu">cir</rafsi>
 		<rafsi klesi="vomei-lerfu">citr</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (題目)・ <sumti>x3</sumti> (言説者)・ <sumti>x4</sumti> (観点)の歴史; <sumti>x1</sumti> は歴史的</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (題目)・ <sumti>x3</sumti> (言説者 / 観点)の歴史; <sumti>x1</sumti> は歴史的</ve_ciksi>
 		<notci>歴史は誰か( <sumti>x3</sumti> )によって組み立てられるもの。</notci>
 		<smuni>歴史</smuni>
 		<lerfu xml:lang="ja">シトリ</lerfu>
@@ -5011,8 +5011,13 @@
 		<lerfu xml:lang="jbo-fonipa">ˈdugri</lerfu>
 		<rafsi klesi="cimei-lerfu">dug</rafsi>
 		<rafsi klesi="vomei-lerfu">dugr</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> ・ <sumti>x3</sumti> (底)の対数</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (真数)・ <sumti>x3</sumti> (底)の対数</ve_ciksi>
 		<smuni>対数</smuni>
+		<sumti_smuni>
+			<smuni>対数</smuni>
+			<smuni>真数; 対数</smuni>
+			<smuni>底; 対数</smuni>
+		</sumti_smuni>
 		<lerfu xml:lang="ja">ドゥグリ</lerfu>
 		<srana><jbovla klesi="gismu">tenfa</jbovla></srana>
 	</valsi>
@@ -6914,7 +6919,7 @@
 		<rafsi klesi="cimei-lerfu">gus</rafsi>
 		<rafsi klesi="cimei-lerfu">gu'i</rafsi>
 		<rafsi klesi="vomei-lerfu">gusn</rafsi>
-		<ve_ciksi><sumti>x1</sumti> (エネルギー)は <sumti>x2</sumti> (対象)を <sumti>x3</sumti> (光源)に基づいて照らす; <sumti>x3</sumti> は <sumti>x2</sumti> を <sumti>x1</sumti> で照らす</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> (エネルギー)は <sumti>x2</sumti> (対象)を <sumti>x3</sumti> (光源)に基づいて照らす光; <sumti>x3</sumti> は <sumti>x2</sumti> を <sumti>x1</sumti> で照らす</ve_ciksi>
 		<notci><sumti>x3</sumti> は「ランプ」「太陽」など。</notci>
 		<smuni>光</smuni>
 		<lerfu xml:lang="ja">グスニ</lerfu>
@@ -15877,7 +15882,7 @@
 		<lerfu xml:lang="jbo">sinso</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈsinso</lerfu>
 		<rafsi klesi="vomei-lerfu">sins</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (逆正弦)の三角関数的正弦</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (角度 / 逆正弦)のサイン／正弦</ve_ciksi>
 		<smuni>正弦</smuni>
 		<lerfu xml:lang="ja">スィンソ</lerfu>
 		<srana><jbovla klesi="gismu">tanjo</jbovla></srana>
@@ -16578,7 +16583,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈsolri</lerfu>
 		<rafsi klesi="cimei-lerfu">sol</rafsi>
 		<rafsi klesi="vomei-lerfu">solr</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (惑星)の太陽 / 恒星</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (惑星)の太陽 / 恒星 / 日</ve_ciksi>
 		<smuni>太陽</smuni>
 		<lerfu xml:lang="ja">ソルゥリ</lerfu>
 		<srana><jbovla klesi="gismu">gusni</jbovla></srana>
@@ -17352,7 +17357,6 @@
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (種類)のニンニク</ve_ciksi>
 		<smuni>ニンニク</smuni>
 		<lerfu xml:lang="ja">スンガ</lerfu>
-		<srana><jbovla klesi="gismu">sluni</jbovla></srana>
 		<srana><jbovla klesi="gismu">stagi</jbovla></srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_9401f026-af40-44e5-a68b-c3b02fb79152">
@@ -20464,7 +20468,7 @@
 		<lerfu xml:lang="jbo-fonipa">zˈdilɛ</lerfu>
 		<rafsi klesi="cimei-lerfu">zdi</rafsi>
 		<rafsi klesi="vomei-lerfu">zdil</rafsi>
-		<ve_ciksi><sumti>x1</sumti> (事)は <sumti>x2</sumti> (観点)にとって <sumti>x3</sumti> (性質)についておもしろい / 愉しい; <sumti>x2</sumti> は <sumti>x1</sumti> を楽しむ</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> (事)は <sumti>x2</sumti> にとって <sumti>x3</sumti> (性質)についておもしろい / 愉しい; <sumti>x2</sumti> は <sumti>x1</sumti> を楽しむ</ve_ciksi>
 		<smuni>おもしろい</smuni>
 		<lerfu xml:lang="ja">ズディルェ</lerfu>
 		<srana><jbovla klesi="gismu">cinri</jbovla></srana>

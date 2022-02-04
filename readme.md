@@ -30,7 +30,7 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
  * [Ankiのデッキパッケージ](https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/releases)
  * [PJCG gimsteのgismuを更に減らす実験的試み](gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md)
  * [単語暗記カード印刷用](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/prina/)
- * [PJCG gimsteのgismu一覧](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/liste.html)
+ * [PJCG gimsteのgismu一覧](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/liste/)
 
 ## Ankiのデッキパッケージ
 
