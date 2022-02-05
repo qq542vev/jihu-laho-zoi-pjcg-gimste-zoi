@@ -38,7 +38,14 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 
 [![Ankiのデッキリスト](pixra/cmalu-pixra/ank-zei-karda-bakfu-liste.png)](pixra/ank-zei-karda-bakfu-liste.png "Ankiのデッキリスト") [![Ankiのカードの解答](pixra/cmalu-pixra/ank-zei-karda-danfu.png)](pixra/ank-zei-karda-danfu.png "Ankiのカードの解答") [![Ankiのカードの入力問題](pixra/cmalu-pixra/ank-zei-karda-ciska-bo-preti.png)](pixra/ank-zei-karda-ciska-bo-preti.png "Ankiのカードの入力問題") [![Ankiのカードの入力正誤](pixra/cmalu-pixra/ank-zei-karda-ciska-bo-danfu.png)](pixra/ank-zei-karda-ciska-bo-danfu.png "Ankiのカードの入力正誤") [![Ankiのカードのナイトモード](pixra/cmalu-pixra/ank-zei-karda-danfu-co-manku-skari.png)](pixra/ank-zei-karda-co-manku-skari.png "Ankiのカードのナイトモード")
 
-Ankiのデッキにはロジバンから日本語のカードと、日本語からロジバンのカードと、日本語からロジバン(入力問題)のカードの3種類が含まれています。カードブラウザの検索欄に `"note:PJCG gimste Lv.1" card:1` と入力するとロジバンから日本語のカードの一覧が、 `"note:PJCG gimste Lv.1" card:2` と入力すると日本語からロジバンのカードの一覧が、 `"note:PJCG gimste Lv.1" card:3` と入力すると日本語からロジバン(入力問題)のカードの一覧が表示されます。「全て選択」、「カードを保留」と選択することで、当該カードを一括で保留に出来ます。
+Ankiのデッキには4種類のカードタイプがあります。それぞれのカードタイプに含まれるカードの一覧を表示するには、カードブラウザの検索欄に次のように入力します。
+
+ * `"note:PJCG gimste Lv.1" "card:1"` - ロジバンから日本語のカード
+ * `"note:PJCG gimste Lv.1" "card:2"` - 日本語からロジバンのカード
+ * `"note:PJCG gimste Lv.1" "card:3"` - 日本語からロジバン(入力問題)のカード
+ * `"note:PJCG gimste Lv.1" "card:4"` - rafsiから日本語のカード
+
+「全て選択」、「カードを保留」と選択することで、当該カードを一括で保留に出来ます。
 
 # 謝辞
 
