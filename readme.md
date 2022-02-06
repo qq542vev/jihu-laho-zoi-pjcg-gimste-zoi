@@ -6,8 +6,8 @@
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.6
-##   date - 2021-12-21
+##   version - 0.1.7
+##   date - 2022-02-05
 ##   since - 2021-04-01
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -36,7 +36,9 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 
 [Anki](https://apps.ankiweb.net/)のデッキパッケージを使用することで、PCやスマートフォンで効率的にgismuの学習が行えます。
 
-[![Ankiのデッキリスト](pixra/cmalu-pixra/ank-zei-karda-bakfu-liste.png)](pixra/ank-zei-karda-bakfu-liste.png "Ankiのデッキリスト") [![Ankiのカードの解答](pixra/cmalu-pixra/ank-zei-karda-danfu.png)](pixra/ank-zei-karda-danfu.png "Ankiのカードの解答") [![Ankiのカードの入力問題](pixra/cmalu-pixra/ank-zei-karda-ciska-bo-preti.png)](pixra/ank-zei-karda-ciska-bo-preti.png "Ankiのカードの入力問題") [![Ankiのカードの入力正誤](pixra/cmalu-pixra/ank-zei-karda-ciska-bo-danfu.png)](pixra/ank-zei-karda-ciska-bo-danfu.png "Ankiのカードの入力正誤") [![Ankiのカードのナイトモード](pixra/cmalu-pixra/ank-zei-karda-danfu-co-manku-skari.png)](pixra/ank-zei-karda-co-manku-skari.png "Ankiのカードのナイトモード")
+[![Ankiのデッキリスト](pixra/cmalu-pixra/ank-zei-karda-bakfu-liste.png)](pixra/ank-zei-karda-bakfu-liste.png "Ankiのデッキリスト") [![Ankiのカードの問題](pixra/cmalu-pixra/preti-ank-zei-karda.png)](pixra/preti-ank-zei-karda.png "Ankiのカードの問題") [![Ankiのカードの解答](pixra/cmalu-pixra/danfu-ank-zei-karda.png)](pixra/danfu-ank-zei-karda.png "Ankiのカードの解答") [![Ankiのカードの入力正誤](pixra/cmalu-pixra/ciska-danfu-ank-zei-karda.png)](pixra/ciska-danfu-ank-zei-karda.png "Ankiのカードの入力正誤")
+
+### カードタイプ
 
 Ankiのデッキには4種類のカードタイプがあります。それぞれのカードタイプに含まれるカードの一覧を表示するには、カードブラウザの検索欄に次のように入力します。
 
@@ -46,6 +48,20 @@ Ankiのデッキには4種類のカードタイプがあります。それぞれ
  * `"note:PJCG gimste Lv.1" "card:4"` - rafsiから日本語のカード
 
 「全て選択」、「カードを保留」と選択することで、当該カードを一括で保留に出来ます。
+
+### 情報の非表示
+
+カードには問題と正解以外にも、関連した様々な情報が含まれます。カードに以下の任意タグを追加することで、当該カード内の不要な情報を非表示に出来ます。
+
+ * `datni-mipri` - 詳細情報を非表示
+ * `mupli-mipri` - 例文を非表示
+ * `notci-mipri` - 補足説明を非表示
+ * `pixra-mipri` - 画像を非表示
+
+# ToDo
+
+ * 2022年01月17以降のjbovlasteの更新データを反映させる。
+ * 単語暗記カード印刷用にQRコードを追加する。
 
 # 謝辞
 
