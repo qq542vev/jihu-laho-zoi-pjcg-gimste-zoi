@@ -523,7 +523,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈbarna</lerfu>
 		<rafsi klesi="cimei-lerfu">ba'a</rafsi>
 		<rafsi klesi="vomei-lerfu">barn</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> に有る印 / 斑点</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> 上にある材質 <sumti>x3</sumti> の斑点／染み／つぎあて／印</ve_ciksi>
 		<notci>様式を伴うものは「<jbovla klesi="lujvo">ba'armo'a</jbovla>」。</notci>
 		<mupli>
 			<jufra xml:lang="jbo"><jbovla klesi="cmavo">ko</jbovla> <jbovla klesi="gismu">catke</jbovla> <jbovla klesi="cmavo">lo</jbovla> <jbovla klesi="gismu">xunre</jbovla> <jbovla klesi="gismu">barna</jbovla></jufra>
@@ -1172,8 +1172,8 @@
 		<lerfu xml:lang="jbo-fonipa">'bliku</lerfu>
 		<rafsi klesi="cimei-lerfu">bli</rafsi>
 		<rafsi klesi="vomei-lerfu">blik</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (素材)の立体物 / 塊 / ブロック</ve_ciksi>
-		<smuni>塊</smuni>
+		<ve_ciksi><sumti>x1</sumti> は材質 <sumti>x2</sumti> ・表面 <sumti>x3</sumti> (面の数 / 面の大きさ / 面の形)のブロック(3次元の形)</ve_ciksi>
+		<smuni>ブロック</smuni>
 		<lerfu xml:lang="ja">ブルィク</lerfu>
 		<goro>&lt;ブリ食う&gt;</goro>
 		<goro>ブロック</goro>
@@ -1187,6 +1187,10 @@
 		<srana><jbovla klesi="gismu">bolci</jbovla></srana>
 		<srana><jbovla klesi="gismu">kurfa</jbovla></srana>
 		<srana><jbovla klesi="gismu">tarmi</jbovla></srana>
+		<srana><jbovla klesi="lujvo">pitybli</jbovla></srana>
+		<srana><jbovla klesi="lujvo">kubybli</jbovla></srana>
+		<srana><jbovla klesi="lujvo">blikubli</jbovla></srana>
+		<srana><jbovla klesi="lujvo">kitybli</jbovla></srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_702e5bab-99be-4b9a-8053-cc197c9d1744">
 		<lerfu xml:lang="jbo">bloti</lerfu>
@@ -1707,8 +1711,8 @@
 		<lerfu xml:lang="jbo">canci</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈʃanʃi</lerfu>
 		<rafsi klesi="vomei-lerfu">canc</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (所 / 視界)から消える</ve_ciksi>
-		<notci>眼やカメラ等の視覚媒体として <sumti>x3</sumti> の追加も。「現れる」は「<jbovla klesi="cmavo">to'e</jbovla>/tol-」で対義化。</notci>
+		<ve_ciksi><sumti>x1</sumti> は地点 <sumti>x2</sumti> において感覚器 / センサー <sumti>x3</sumti> の視界から消える</ve_ciksi>
+		<notci>「現れる」は「<jbovla klesi="cmavo">to'e</jbovla> / tol-」で対義化。</notci>
 		<smuni>消える</smuni>
 		<lerfu xml:lang="ja">シャンシ</lerfu>
 		<goro>&lt;シャンとしないと&gt;消失</goro>
@@ -1912,7 +1916,8 @@
 		<lerfu xml:lang="jbo-fonipa">ˈʃarna</lerfu>
 		<rafsi klesi="cimei-lerfu">car</rafsi>
 		<rafsi klesi="vomei-lerfu">carn</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (軸)・ <sumti>x3</sumti> (指向)で回る / 回転 / 周回 / 旋回する</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> を軸として <sumti>x3</sumti> の向きに回る / 回転する / 周回する / 旋回する</ve_ciksi>
+		<notci><sumti>x2</sumti> にベクトルを入れると <sumti>x3</sumti> を表現しやすい。とある地点から見た回転の角距離 (angular distance) <sumti>x4</sumti> を追加する定義案が、2012年までに出されている。その一方、回転角 (angle of rotation)・角速度 (angular velocity) などを追加する定義案は出されていない。</notci>
 		<smuni>回る</smuni>
 		<lerfu xml:lang="ja">シャルナ</lerfu>
 		<goro>おっしゃるな</goro>
@@ -1921,6 +1926,7 @@
 		<goro>tornar</goro>
 		<srana><jbovla klesi="gismu">gunro</jbovla></srana>
 		<srana><jbovla klesi="gismu">jendu</jbovla></srana>
+		<srana><jbovla klesi="lujvo">jincarna</jbovla></srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_90ffbe82-b320-4f7a-a14e-bfa94b1097ac">
 		<lerfu xml:lang="jbo">cartu</lerfu>
@@ -2274,8 +2280,8 @@
 		<lerfu xml:lang="jbo">cfine</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ʃˈfinɛ</lerfu>
 		<rafsi klesi="vomei-lerfu">cfin</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は角柱 / くさび形</ve_ciksi>
-		<smuni>角柱</smuni>
+		<ve_ciksi><sumti>x1</sumti> は材質 <sumti>x2</sumti> でできている楔 / 楔形</ve_ciksi>
+		<smuni>楔</smuni>
 		<lerfu xml:lang="ja">シフィネ</lerfu>
 		<srana><jbovla klesi="gismu">tutci</jbovla></srana>
 	</valsi>
@@ -2511,7 +2517,8 @@
 		<lerfu xml:lang="jbo">cimni</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈʃimni</lerfu>
 		<rafsi klesi="vomei-lerfu">cimn</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (次元 / 性質)に関して無限</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (次元 / 性質)に関して <sumti>x3</sumti> の程度に無限</ve_ciksi>
+		<notci><sumti>x3</sumti> は無限集合の濃度など。</notci>
 		<smuni>無限</smuni>
 		<lerfu xml:lang="ja">シムニ</lerfu>
 		<goro>死無に</goro>
@@ -2535,7 +2542,8 @@
 		<lerfu xml:lang="jbo">cindu</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈʃindu</lerfu>
 		<rafsi klesi="vomei-lerfu">cind</rafsi>
-		<ve_ciksi><sumti>x1</sumti> はブナ科(樫 / オーク)</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (種類)のオーク / 樫 / 楢</ve_ciksi>
+		<notci>ブナ科コナラ属の植物。</notci>
 		<smuni>ブナ科</smuni>
 		<lerfu xml:lang="ja">シンドゥ</lerfu>
 		<goro>cian(橡)</goro>
@@ -3162,10 +3170,13 @@
 		<lerfu xml:lang="jbo-fonipa">ʃˈlupa</lerfu>
 		<rafsi klesi="cimei-lerfu">cup</rafsi>
 		<rafsi klesi="vomei-lerfu">clup</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は回路 / 循環系 / ループ</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は材質 <sumti>x2</sumti> のループ / 回路 / 循環系</ve_ciksi>
 		<smuni>回路</smuni>
 		<lerfu xml:lang="ja">シルゥパ</lerfu>
 		<srana><jbovla klesi="gismu">djine</jbovla></srana>
+		<srana><jbovla klesi="lujvo">skoclupa</jbovla></srana>
+		<srana><jbovla klesi="lujvo">saljgeclupa</jbovla></srana>
+		<srana><jbovla klesi="lujvo">cuptai</jbovla></srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_9f61cd44-c630-455b-b630-b221221623cf">
 		<lerfu xml:lang="jbo">cmaci</lerfu>
@@ -3679,8 +3690,8 @@
 		<lerfu xml:lang="jbo-fonipa">ʃˈtɛbi</lerfu>
 		<rafsi klesi="cimei-lerfu">teb</rafsi>
 		<rafsi klesi="vomei-lerfu">cteb</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (本体)の唇</ve_ciksi>
-		<notci>比喩的に「窓枠」なども。</notci>
+		<ve_ciksi><sumti>x1</sumti> は開口部 <sumti>x2</sumti> を縁取る <sumti>x3</sumti> (本体)の唇 / ふち</ve_ciksi>
+		<notci>「窓枠」なども。</notci>
 		<smuni>唇</smuni>
 		<lerfu xml:lang="ja">シテビ</lerfu>
 		<goro>してビンタ</goro>
@@ -4172,8 +4183,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈdaplu</lerfu>
 		<rafsi klesi="cimei-lerfu">plu</rafsi>
 		<rafsi klesi="vomei-lerfu">dapl</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (特性)の島 / 環礁; <sumti>x1</sumti> は島国的</ve_ciksi>
-		<notci>「環状珊瑚礁」も。</notci>
+		<ve_ciksi><sumti>x1</sumti> は材質 / 性質 <sumti>x2</sumti> で形成され <sumti>x3</sumti> に囲まれた島 / 環礁; <sumti>x1</sumti> は島的</ve_ciksi>
 		<smuni>島</smuni>
 		<lerfu xml:lang="ja">ダプルゥ</lerfu>
 		<srana><jbovla klesi="gismu">lalxu</jbovla></srana>
@@ -4261,8 +4271,8 @@
 		<rafsi klesi="cimei-lerfu">dax</rafsi>
 		<rafsi klesi="cimei-lerfu">da'i</rafsi>
 		<rafsi klesi="vomei-lerfu">darx</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (対象本体)・ <sumti>x3</sumti> (対象箇所)を <sumti>x4</sumti> で打つ / 叩く</ve_ciksi>
-		<notci><sumti>x3</sumti> は「手」「指」「足」などの肉体部分も。</notci>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> を、 <sumti>x3</sumti> (道具など) が <sumti>x4</sumti> にぶつかる形で打つ / 叩く</ve_ciksi>
+		<notci><sumti>x3</sumti> は <sumti>x1</sumti> の一部、 <sumti>x4</sumti> は <sumti>x2</sumti> の一部であり、それぞれ武器や防具なども挙げられる。</notci>
 		<smuni>叩く</smuni>
 		<lerfu xml:lang="ja">ダルクィ</lerfu>
 		<srana><jbovla klesi="gismu">bikla</jbovla></srana>
@@ -4537,8 +4547,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈdɛnmi</lerfu>
 		<rafsi klesi="cimei-lerfu">dem</rafsi>
 		<rafsi klesi="vomei-lerfu">denm</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (性質)に関して濃厚 / 高密度</ve_ciksi>
-		<notci>「密集」も。その場合、箇所として <sumti>x3</sumti> の追加も。また、「晦渋」も。</notci>
+		<ve_ciksi><sumti>x1</sumti> は性質 <sumti>x2</sumti> に関して地点 <sumti>x3</sumti> において濃厚 / 高密度 / 密集</ve_ciksi>
 		<smuni>濃厚</smuni>
 		<lerfu xml:lang="ja">デンミ</lerfu>
 		<srana><jbovla klesi="gismu">carmi</jbovla></srana>
@@ -4780,7 +4789,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈdirʃɛ</lerfu>
 		<rafsi klesi="cimei-lerfu">di'e</rafsi>
 		<rafsi klesi="vomei-lerfu">dirc</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> を放射する</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> を <sumti>x3</sumti> の条件下で放射する</ve_ciksi>
 		<smuni>放射</smuni>
 		<lerfu xml:lang="ja">ディルシェ</lerfu>
 		<srana><jbovla klesi="gismu">gusni</jbovla></srana>
@@ -4790,8 +4799,8 @@
 		<lerfu xml:lang="jbo-fonipa">ˈdirgo</lerfu>
 		<rafsi klesi="cimei-lerfu">dig</rafsi>
 		<rafsi klesi="vomei-lerfu">dirg</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (物質)の雫 / 滴</ve_ciksi>
-		<notci><sumti>x1</sumti> を包む物質として <sumti>x3</sumti> の追加も。</notci>
+		<ve_ciksi><sumti>x1</sumti> は物質 <sumti>x2</sumti> (液体 / 湯気)でできた環境物質 <sumti>x3</sumti> 内の雫 / 滴</ve_ciksi>
+		<notci>小さく結合力のある液体の粒。</notci>
 		<smuni>雫</smuni>
 		<lerfu xml:lang="ja">ディルゴ</lerfu>
 		<srana><jbovla klesi="gismu">daplu</jbovla></srana>
@@ -4890,7 +4899,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈdʒinɛ</lerfu>
 		<rafsi klesi="cimei-lerfu">jin</rafsi>
 		<rafsi klesi="vomei-lerfu">djin</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (内直径)・ <sumti>x3</sumti> (外直径)の環 / 輪 / 円; <sumti>x1</sumti> は環状 / 円環面状</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は材質 <sumti>x2</sumti> ・内径 <sumti>x3</sumti> ・外径 <sumti>x4</sumti> の環 / 輪 / トーラス / ドーナツ形</ve_ciksi>
 		<smuni>環</smuni>
 		<lerfu xml:lang="ja">ヂネ</lerfu>
 		<srana><jbovla klesi="gismu">clupa</jbovla></srana>
@@ -5823,8 +5832,8 @@
 		<rafsi klesi="cimei-lerfu">fom</rafsi>
 		<rafsi klesi="cimei-lerfu">fo'o</rafsi>
 		<rafsi klesi="vomei-lerfu">fonm</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (成分)の泡</ve_ciksi>
-		<notci>口から吹く「泡つばき」も。</notci>
+		<ve_ciksi><sumti>x1</sumti> は 物質 <sumti>x2</sumti> の膜によって物質 <sumti>x3</sumti> を取り込んだ構造の泡 / フォーム</ve_ciksi>
+		<notci>生物細胞内の「液胞 (vacuole)」も。</notci>
 		<smuni>泡</smuni>
 		<lerfu xml:lang="ja">フォンモ</lerfu>
 		<goro>form</goro>
@@ -9662,8 +9671,8 @@
 		<lerfu xml:lang="jbo-fonipa">ˈkubli</lerfu>
 		<rafsi klesi="cimei-lerfu">kub</rafsi>
 		<rafsi klesi="vomei-lerfu">kubl</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (次元)・ <sumti>x3</sumti> (面)の立方体 / 多面体 / 多角形 / 多辺形 / ポリゴン</ve_ciksi>
-		<notci>通常は三次元( <sumti>x2</sumti> )・六面( <sumti>x3</sumti> )。</notci>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (次元)、 <sumti>x3</sumti> (面の数)の立方体 / 正多面体</ve_ciksi>
+		<notci>デフォルトで <sumti>x2</sumti> は「<jbovla klesi="cmavo">li</jbovla> <jbovla klesi="cmavo">ci</jbovla>」(3次元)、 <sumti>x3</sumti> は「<jbovla klesi="cmavo">li</jbovla> <jbovla klesi="cmavo">xa</jbovla>」(6面)。</notci>
 		<smuni>立方体</smuni>
 		<lerfu xml:lang="ja">クブルィ</lerfu>
 		<goro>キューブリック</goro>
@@ -13167,7 +13176,8 @@
 		<rafsi klesi="cimei-lerfu">pec</rafsi>
 		<rafsi klesi="cimei-lerfu">pe'u</rafsi>
 		<rafsi klesi="vomei-lerfu">penc</rafsi>
-		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (対象本体)・ <sumti>x3</sumti> (対象箇所)を <sumti>x4</sumti> で触る</ve_ciksi>
+		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> に、 <sumti>x3</sumti> が <sumti>x4</sumti> に接する形で触る</ve_ciksi>
+		<notci><sumti>x3</sumti> は <sumti>x1</sumti> の一部、 <sumti>x4</sumti> は <sumti>x2</sumti> の一部であり、それぞれ道具や衣服なども挙げられる。</notci>
 		<smuni>触る</smuni>
 		<lerfu xml:lang="ja">ペンシュ</lerfu>
 		<srana><jbovla klesi="gismu">ganse</jbovla></srana>
