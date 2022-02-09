@@ -1138,7 +1138,7 @@
 		<lerfu xml:lang="jbo">cu'o</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ʃuho</lerfu>
 		<cmavo_klesi>MOI</cmavo_klesi>
-		<ve_ciksi>確率selbri ： 数詞を確率selbriに変換する； １（事）は２（条件）において n の確率で起こる</ve_ciksi>
+		<ve_ciksi>確率 selbri : 数を確率 selbri に変換; 事象 x_1 は x_2 の条件下で確率 n で起こる</ve_ciksi>
 		<lerfu xml:lang="ja">シュホ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_aec06503-f462-483a-94b2-ee737488c08a">
@@ -4361,20 +4361,13 @@
 		<rafsi klesi="cimei-lerfu">mem</rafsi>
 		<rafsi klesi="cimei-lerfu">mei</rafsi>
 		<cmavo_klesi>MOI</cmavo_klesi>
-		<ve_ciksi>濃度 selbri ： 数量詞nの右に付いて、それを「x_1 はn個」という濃度を表す brivla にする</ve_ciksi>
+		<ve_ciksi>基数 selbri : 数を基数 selbri に変換 ; x_1 は集合 x_2 から形成される群れであり、その集合の n 個の要素は x_3 である</ve_ciksi>
+		<notci>この定義は「The Complete Lojban Language」の 18.26 節にある以下の定義と矛盾する: 「x_1 は基数 n に対等な集合 x_2 が形成する群れであり、その集合の元の1個以上が x_3 である [集合 x_4 との対応によって／基準 x_4 に基づいて測定される]。」 また、以下のように定義し直す案もある: 「 x_1 （群れ）は n 個の x_2 （群れ）」</notci>
 		<mupli>
-			<jufra xml:lang="jbo">lo ci mei nanmu</jufra>
-			<jufra xml:lang="ja">３人組の男達</jufra>
+			<jufra xml:lang="jbo">ti ci mei lo gerku</jufra>
+			<jufra xml:lang="ja">これらは犬3匹</jufra>
 		</mupli>
-		<mupli>
-			<jufra xml:lang="jbo">so'i mei sanga</jufra>
-			<jufra xml:lang="ja">大勢で歌う</jufra>
-		</mupli>
-		<mupli>
-			<jufra xml:lang="jbo">pa mei cusku (pavmeisku)</jufra>
-			<jufra xml:lang="ja">ひとりごとを言う</jufra>
-		</mupli>
-		<smuni>濃度 selbri</smuni>
+		<smuni>基数 selbri</smuni>
 		<lerfu xml:lang="ja">メイ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_3f1e3b58-35a6-483e-9d7c-9ee8bee5d581">
@@ -6876,12 +6869,14 @@
 		<lerfu xml:lang="jbo">si'e</lerfu>
 		<lerfu xml:lang="jbo-fonipa">sihɛ</lerfu>
 		<cmavo_klesi>MOI</cmavo_klesi>
-		<ve_ciksi>分量 selbri ： 数量詞の右に付いて、分量を表す selbri となる；</ve_ciksi>
+		<ve_ciksi>分量 selbri: x_1 は群れ x_2 の n 倍の分量</ve_ciksi>
+		<notci>英語の公式定義は「an (n)th portion」なので、文字通りに訳すと「n 分の1」だが、実際には（公式にも） n si'e が「n 分の1」と言う意味で使われることはない。一般には n 自体を1より小さい数として文が作られる。従って明らかに英語の公式定義の記述にミスがある。</notci>
 		<mupli>
-			<jufra xml:lang="jbo">pi re si'e nanba</jufra>
-			<jufra xml:lang="ja">２割分のパン</jufra>
+			<jufra xml:lang="jbo">pi re si'e lo nanba</jufra>
+			<jufra xml:lang="ja">パン２割分</jufra>
 		</mupli>
 		<lerfu xml:lang="ja">スィヘ</lerfu>
+		<srana><jbovla klesi="gismu">gunma</jbovla></srana>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_ecc4dd52-1758-4dcc-b3b6-35a3be059a12">
 		<lerfu xml:lang="jbo">si'i</lerfu>

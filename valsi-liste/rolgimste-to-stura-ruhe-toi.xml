@@ -1187,10 +1187,10 @@
 		<srana>{bolci}</srana>
 		<srana>{kurfa}</srana>
 		<srana>{tarmi}</srana>
-		<srana>{pitybli}</srana>
-		<srana>{kubybli}</srana>
-		<srana>{blikubli}</srana>
-		<srana>{kitybli}</srana>
+		<srana>{pitybli} （多面体のブロック）</srana>
+		<srana>{kubybli} （正多面体のブロック）</srana>
+		<srana>{blikubli} （ブロックである正多面体）</srana>
+		<srana>{kitybli} （レンガ）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_702e5bab-99be-4b9a-8053-cc197c9d1744">
 		<lerfu xml:lang="jbo">bloti</lerfu>
@@ -1684,7 +1684,7 @@
 		<lerfu xml:lang="jbo">cakla</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈʃakla</lerfu>
 		<rafsi klesi="vomei-lerfu">cakl</rafsi>
-		<ve_ciksi>x_1 は x_2 （種類）のチョコレート／ココア</ve_ciksi>
+		<ve_ciksi>x_1 はチョコレート／ココア</ve_ciksi>
 		<smuni>チョコレート</smuni>
 		<lerfu xml:lang="ja">シャクルゥア</lerfu>
 		<goro>＜しゃくなランチ＞</goro>
@@ -1926,7 +1926,7 @@
 		<goro>tornar</goro>
 		<srana>{gunro}</srana>
 		<srana>{jendu}</srana>
-		<srana>{jincarna}</srana>
+		<srana>{jincarna} （環状に回る／回転する）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_90ffbe82-b320-4f7a-a14e-bfa94b1097ac">
 		<lerfu xml:lang="jbo">cartu</lerfu>
@@ -3174,9 +3174,9 @@
 		<smuni>回路</smuni>
 		<lerfu xml:lang="ja">シルゥパ</lerfu>
 		<srana>{djine}</srana>
-		<srana>{skoclupa}</srana>
-		<srana>{saljgeclupa}</srana>
-		<srana>{cuptai}</srana>
+		<srana>{skoclupa} （縄のループ）</srana>
+		<srana>{saljgeclupa} （滑る結び目のついたループ）</srana>
+		<srana>{cuptai} （ループ形）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_9f61cd44-c630-455b-b630-b221221623cf">
 		<lerfu xml:lang="jbo">cmaci</lerfu>
@@ -4183,7 +4183,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈdaplu</lerfu>
 		<rafsi klesi="cimei-lerfu">plu</rafsi>
 		<rafsi klesi="vomei-lerfu">dapl</rafsi>
-		<ve_ciksi>x_1 は材質／性質 x_2 で形成され x_3 に囲まれた島／環礁； x1 は島的</ve_ciksi>
+		<ve_ciksi>x_1 は材質／性質 x_2 で形成され x_3 に囲まれた島／環礁； x_1 は島的</ve_ciksi>
 		<smuni>島</smuni>
 		<lerfu xml:lang="ja">ダプルゥ</lerfu>
 		<srana>{lalxu}</srana>
@@ -4448,7 +4448,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈdɛkto</lerfu>
 		<rafsi klesi="cimei-lerfu">dek</rafsi>
 		<rafsi klesi="vomei-lerfu">dekt</rafsi>
-		<ve_ciksi>x_1 は x_2 の、 x_3 （性質）におけるデカ／十 ［1 x1 0**1］</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 の、 x_3 （性質）におけるデカ／十 ［1 x_1 0**1］</ve_ciksi>
 		<smuni>デカ／十</smuni>
 		<lerfu xml:lang="ja">デクト</lerfu>
 		<srana>{grake}</srana>
@@ -4899,7 +4899,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈdʒinɛ</lerfu>
 		<rafsi klesi="cimei-lerfu">jin</rafsi>
 		<rafsi klesi="vomei-lerfu">djin</rafsi>
-		<ve_ciksi>x_1 は材質 x_2 ・内径  x_3 ・外径 x_4 の環／輪／トーラス／ドーナツ形</ve_ciksi>
+		<ve_ciksi>x_1 は材質 x_2 ・内径 x_3 ・外径 x_4 の環／輪／トーラス／ドーナツ形</ve_ciksi>
 		<smuni>環</smuni>
 		<lerfu xml:lang="ja">ヂネ</lerfu>
 		<srana>{clupa}</srana>
@@ -5855,7 +5855,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈforʃa</lerfu>
 		<rafsi klesi="cimei-lerfu">fro</rafsi>
 		<rafsi klesi="vomei-lerfu">forc</rafsi>
-		<ve_ciksi>x_1 は x_2 （目的）・ x_3 （分岐物／歯）のフォーク／くま手／またぐわ</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （目的）・ x_3 （歯／枝）・ x_4 （持ち手／幹／支持部）のフォーク／くま手／フォーク形の道具</ve_ciksi>
 		<smuni>フォーク</smuni>
 		<lerfu xml:lang="ja">フォルシャ</lerfu>
 		<srana>{dakfu}</srana>
@@ -5878,7 +5878,8 @@
 		<lerfu xml:lang="jbo-fonipa">'frati</lerfu>
 		<rafsi klesi="cimei-lerfu">fra</rafsi>
 		<rafsi klesi="vomei-lerfu">frat</rafsi>
-		<ve_ciksi>x_1 は x_2 （動作／行為）によって x_3 （刺激／要因）に反応する／呼応する</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （動作／行為）という形で x_3 （刺激／要因）に対し x_4 の条件下で反応する／呼応する</ve_ciksi>
+		<notci>x_3 が x_1 を刺激して反応 x_2 が起こる。</notci>
 		<smuni>反応</smuni>
 		<lerfu xml:lang="ja">フゥラティ</lerfu>
 		<srana>{preti}</srana>
@@ -5886,6 +5887,9 @@
 		<srana>{spuda}</srana>
 		<srana>{cpedu}</srana>
 		<srana>{tarti}</srana>
+		<srana>{terfra} （刺激）</srana>
+		<srana>{terfratoi}</srana>
+		<srana>{tunterfratoi} （刺激しようとする）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_cbade96a-23ca-4b0e-a29f-26920e5365c9">
 		<lerfu xml:lang="jbo">fraxu</lerfu>
@@ -5971,7 +5975,8 @@
 		<lerfu xml:lang="jbo-fonipa">'frumu</lerfu>
 		<rafsi klesi="cimei-lerfu">fru</rafsi>
 		<rafsi klesi="vomei-lerfu">frum</rafsi>
-		<ve_ciksi>x_1 は x_2 （者／事）に対してしかめつらをする／まゆを寄せる／難色を示す； x_1 はしかめつら</ve_ciksi>
+		<ve_ciksi>x_1 は顔をしかめる</ve_ciksi>
+		<notci>{frufra} （難色を示す）</notci>
 		<smuni>しかめつら</smuni>
 		<lerfu xml:lang="ja">フゥルム</lerfu>
 		<srana>{cmila}</srana>
@@ -6541,10 +6546,11 @@
 		<lerfu xml:lang="jbo-fonipa">'gluta</lerfu>
 		<rafsi klesi="cimei-lerfu">glu</rafsi>
 		<rafsi klesi="vomei-lerfu">glut</rafsi>
-		<ve_ciksi>x_1 は手袋／グローブ／ミトン</ve_ciksi>
+		<ve_ciksi>x_1 は材質 x_2 の手袋／グローブ／ミトン</ve_ciksi>
 		<smuni>手袋</smuni>
 		<lerfu xml:lang="ja">グルゥタ</lerfu>
 		<srana>{taxfu}</srana>
+		<srana>{degycauglu} （ミトン）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_aea690c9-65b4-4945-b215-a7e18573a7d8">
 		<lerfu xml:lang="jbo">gocti</lerfu>
@@ -8085,7 +8091,8 @@
 		<rafsi klesi="cimei-lerfu">jip</rafsi>
 		<rafsi klesi="cimei-lerfu">ji'o</rafsi>
 		<rafsi klesi="vomei-lerfu">jipn</rafsi>
-		<ve_ciksi>x_1 は x_2 （本体）の先端／先っぽ</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （本体）の部位 x_3 にある先端／先っぽ／頂点</ve_ciksi>
+		<notci>0次元の形状。</notci>
 		<smuni>先端</smuni>
 		<lerfu xml:lang="ja">ジプノ</lerfu>
 		<srana>{mokca}</srana>
@@ -8562,7 +8569,7 @@
 		<lerfu xml:lang="jbo">kajna</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈkaʒna</lerfu>
 		<rafsi klesi="vomei-lerfu">kajn</rafsi>
-		<ve_ciksi>x_1 は x_2 （壁／ x1 を含む家具など）に支えられた x_3 （目的）のための棚／カウンター</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （壁／ x_1 を含む家具など）に支えられた x_3 （目的）のための棚／カウンター</ve_ciksi>
 		<notci>棚状の物全般。</notci>
 		<smuni>棚</smuni>
 		<lerfu xml:lang="ja">カジナ</lerfu>
@@ -8852,8 +8859,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈkarbi</lerfu>
 		<rafsi klesi="cimei-lerfu">kab</rafsi>
 		<rafsi klesi="vomei-lerfu">karb</rafsi>
-		<ve_ciksi>x_1 （者）は x_2 と x_3 を x_4 （性質）について比較する</ve_ciksi>
-		<notci>比較の結果／結論をx5として追加してもよい。</notci>
+		<ve_ciksi>x_1 （観察者）は x_2 と x_3 を性質 x_4 に関して比較し、 x_5 （状態）であることを明らかにする</ve_ciksi>
 		<smuni>比較</smuni>
 		<lerfu xml:lang="ja">カルビ</lerfu>
 		<goro>カルビ比較</goro>
@@ -9349,8 +9355,7 @@
 		<rafsi klesi="cimei-lerfu">lup</rafsi>
 		<rafsi klesi="cimei-lerfu">lu'e</rafsi>
 		<rafsi klesi="vomei-lerfu">klup</rafsi>
-		<ve_ciksi>x_1 は x_2 （目的）のためのねじ／ボルト</ve_ciksi>
-		<notci>回転を要する留め具全般</notci>
+		<ve_ciksi>x_1 は x_2 のための、ねじ山 x_3 （ねじ山の間隔・材質）・ねじ穴 x_4 （サイズ・材質）のねじ／ボルト</ve_ciksi>
 		<smuni>ねじ</smuni>
 		<lerfu xml:lang="ja">クルゥペ</lerfu>
 		<goro>ねじくるくるぺっ</goro>
@@ -9388,7 +9393,8 @@
 		<rafsi klesi="cimei-lerfu">koj</rafsi>
 		<rafsi klesi="cimei-lerfu">ko'a</rafsi>
 		<rafsi klesi="vomei-lerfu">kojn</rafsi>
-		<ve_ciksi>x_1 は x_2 の角／隅</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （本体）の x_3 （材質）の角／隅</ve_ciksi>
+		<notci>最低3次元の形状。ある方向の傾きが不連続なところ。複数の平面の交わり。</notci>
 		<smuni>角（かど）</smuni>
 		<lerfu xml:lang="ja">コジナ</lerfu>
 		<goro>角に足の指をぶつけたのは故事なこと</goro>
@@ -9430,7 +9436,8 @@
 		<rafsi klesi="cimei-lerfu">kon</rafsi>
 		<rafsi klesi="cimei-lerfu">ko'u</rafsi>
 		<rafsi klesi="vomei-lerfu">konj</rafsi>
-		<ve_ciksi>x_1 は x_2 を頂点とする錐／円錐</ve_ciksi>
+		<ve_ciksi>x_1 は 材質 x_2 の x_3 を頂点とする円錐</ve_ciksi>
+		<notci>楕円体（2次曲面）も。</notci>
 		<smuni>錐（すい）</smuni>
 		<lerfu xml:lang="ja">コンジュ</lerfu>
 		<srana>{jesni}</srana>
@@ -9438,6 +9445,7 @@
 		<srana>{sovda}</srana>
 		<srana>{kojna}</srana>
 		<srana>{jganu}</srana>
+		<srana>{konclupa}</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_e25f0bba-af50-45f1-b3be-d26805047a05">
 		<lerfu xml:lang="jbo">korbi</lerfu>
@@ -10010,7 +10018,7 @@
 		<lerfu xml:lang="jbo">lanbi</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈlanbi</lerfu>
 		<rafsi klesi="vomei-lerfu">lanb</rafsi>
-		<ve_ciksi>x_1 は x_2 （種類）のたんぱく質／アルブミン</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （種類）の x_3 （アミノ酸配列）で構成されるたんぱく質</ve_ciksi>
 		<notci>アミノ配列は「jo'u」による項の連続で表す。</notci>
 		<smuni>たんぱく質</smuni>
 		<lerfu xml:lang="ja">ルァンビ</lerfu>
@@ -10178,8 +10186,7 @@
 		<lerfu xml:lang="jbo">latna</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈlatna</lerfu>
 		<rafsi klesi="vomei-lerfu">latn</rafsi>
-		<ve_ciksi>x_1 は x_2 （種類）のハス属植物</ve_ciksi>
-		<notci>「スイレン属」も。仏教、ギリシア神話、古代エジプトなどで広く象徴的であることから、文化をx3、象徴内容をx4とする方法も。</notci>
+		<ve_ciksi>x_1 は x_2 （種類）の、また社会的に x_3 （象徴対象）・ x_4 （文化／宗教）の蓮／睡蓮</ve_ciksi>
 		<smuni>蓮</smuni>
 		<lerfu xml:lang="ja">ルァトナ</lerfu>
 		<goro>lotus</goro>
@@ -10224,8 +10231,8 @@
 		<rafsi klesi="cimei-lerfu">len</rafsi>
 		<rafsi klesi="cimei-lerfu">le'o</rafsi>
 		<rafsi klesi="vomei-lerfu">lenj</rafsi>
-		<ve_ciksi>x_1 は x_2 （光／音／電波）を x_3 （焦点）に合わせるレンズ／収束器</ve_ciksi>
-		<notci>光学的／視覚的な集光に限らない。</notci>
+		<ve_ciksi>x_1 は波 x_2 を焦点 x_3 に集めるための、 x_4 （手段／材質）によるレンズ／メガネ</ve_ciksi>
+		<notci>x_2 は電磁波（光）や音なども。</notci>
 		<smuni>レンズ</smuni>
 		<lerfu xml:lang="ja">ルェンジョ</lerfu>
 		<goro>lenzu</goro>
@@ -10718,7 +10725,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈmaʃnu</lerfu>
 		<rafsi klesi="cimei-lerfu">cnu</rafsi>
 		<rafsi klesi="vomei-lerfu">macn</rafsi>
-		<ve_ciksi>x_1 （事）は x_2 （機能）に関して手動／マニュアル</ve_ciksi>
+		<ve_ciksi>x_1 （事象）は機能 x_2 に関して x_3 の条件下で手動（自動ではない）</ve_ciksi>
 		<smuni>手動</smuni>
 		<lerfu xml:lang="ja">マシヌ</lerfu>
 		<goro>マニュアル　手動</goro>
@@ -11683,7 +11690,8 @@
 		<lerfu xml:lang="jbo-fonipa">mlana</lerfu>
 		<rafsi klesi="cimei-lerfu">mla</rafsi>
 		<rafsi klesi="vomei-lerfu">mlan</rafsi>
-		<ve_ciksi>x_1 は x_2 の脇／側（がわ）（にある／いる）</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 の脇／横に位置する（ x_3 を正面に見る x_4 から見たとき）</ve_ciksi>
+		<notci>x_4 は x_2 にとって前や後ろに位置していても良い。</notci>
 		<smuni>側（がわ）</smuni>
 		<lerfu xml:lang="ja">ムルァナ</lerfu>
 		<goro>村な側</goro>
@@ -11934,7 +11942,7 @@
 		<lerfu xml:lang="jbo-fonipa">mruli</lerfu>
 		<rafsi klesi="cimei-lerfu">mru</rafsi>
 		<rafsi klesi="vomei-lerfu">mrul</rafsi>
-		<ve_ciksi>x_1 は x_2 （対象）を叩くための、 x_3 （頭部）の槌／ハンマー</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 を叩くための、 x_3 （錘／頭部）を持ち x_4 で駆動される槌／ハンマー</ve_ciksi>
 		<smuni>槌</smuni>
 		<lerfu xml:lang="ja">ムルルィ</lerfu>
 		<srana>{tutci}</srana>
@@ -12357,14 +12365,16 @@
 		<rafsi klesi="cimei-lerfu">naf</rafsi>
 		<rafsi klesi="cimei-lerfu">na'e</rafsi>
 		<rafsi klesi="vomei-lerfu">natf</rafsi>
-		<ve_ciksi>x_1 （命題）は x_2 （命題）と矛盾する／を否定する</ve_ciksi>
-		<notci>人そのものによる意識的否定ではなく、或る命題が別な命題とかみ合わないこと。拡張すれば「例外」も。</notci>
+		<ve_ciksi>x_1 （命題）は x_2 （命題）と x_3 （規則／論理）の下で矛盾する／を否定する</ve_ciksi>
 		<smuni>否定</smuni>
 		<lerfu xml:lang="ja">ナトフェ</lerfu>
 		<srana>{nibli}</srana>
 		<srana>{tugni}</srana>
 		<srana>{zanru}</srana>
 		<srana>{xusra}</srana>
+		<srana>{nafmupli} （例外）</srana>
+		<srana>{nafxu'a}</srana>
+		<srana>{tolxu'a} （否定的意見を持つ）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_fecc5e72-2643-4d1d-81a5-d8db22af9367">
 		<lerfu xml:lang="jbo">natmi</lerfu>
@@ -12540,7 +12550,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈnilʃɛ</lerfu>
 		<rafsi klesi="cimei-lerfu">ni'e</rafsi>
 		<rafsi klesi="vomei-lerfu">nilc</rafsi>
-		<ve_ciksi>x_1 は x_2 （場所）に備え付く家具／調度品／備品／設置物</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （場所）に設置される x_3 （目的／機能）のための家具／調度品／備品</ve_ciksi>
 		<smuni>家具</smuni>
 		<lerfu xml:lang="ja">ニルゥシェ</lerfu>
 		<srana>{ckana}</srana>
@@ -13050,13 +13060,14 @@
 		<lerfu xml:lang="jbo-fonipa">ˈpastu</lerfu>
 		<rafsi klesi="cimei-lerfu">pas</rafsi>
 		<rafsi klesi="vomei-lerfu">past</rafsi>
-		<ve_ciksi>x_1 は（素材）のローブ／チュニック／ガウン／ドレス</ve_ciksi>
+		<ve_ciksi>x_1 は x_2（素材）のガウン／長衣</ve_ciksi>
 		<notci>長い、もしくは全身を覆う衣服。</notci>
-		<smuni>ローブ</smuni>
+		<smuni>長衣</smuni>
 		<lerfu xml:lang="ja">パストゥ</lerfu>
 		<srana>{kosta}</srana>
 		<srana>{taxfu}</srana>
 		<srana>{palku}</srana>
+		<srana>{paspalku} （つなぎの服）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_e2f84a46-dfcc-4684-a43d-30130146bd0d">
 		<lerfu xml:lang="jbo">patfu</lerfu>
@@ -13545,14 +13556,13 @@
 		<lerfu xml:lang="jbo-fonipa">ˈpinsi</lerfu>
 		<rafsi klesi="cimei-lerfu">pis</rafsi>
 		<rafsi klesi="vomei-lerfu">pins</rafsi>
-		<ve_ciksi>x_1 は x_2 （素材）の鉛筆／クレヨン</ve_ciksi>
-		<notci>使っていて削れてくる筆記具全般</notci>
-		<smuni>鉛筆</smuni>
+		<ve_ciksi>x_1 は芯／先端 x_2 （材質）・支持部 x_3 （材質）の鉛筆／クレヨン／筆</ve_ciksi>
+		<notci>{penbi} よりも広義の筆記具。</notci>
+		<smuni>筆</smuni>
 		<lerfu xml:lang="ja">ピンスィ</lerfu>
 		<goro>ペンスィル</goro>
 		<srana>{ciska}</srana>
-		<srana>{penbi} (unlike the English equivalents}</srana>
-		<srana>{pinsi is the more general term over penbi}</srana>
+		<srana>{penbi}</srana>
 		<srana>{burcu}</srana>
 		<srana>{bakri}</srana>
 	</valsi>
@@ -13739,7 +13749,7 @@
 		<lerfu xml:lang="jbo-fonipa">'plixa</lerfu>
 		<rafsi klesi="cimei-lerfu">lix</rafsi>
 		<rafsi klesi="vomei-lerfu">plix</rafsi>
-		<ve_ciksi>x_1 （者）は x_2 を x_3 （道具）で耕す／すき込む</ve_ciksi>
+		<ve_ciksi>x_1 （者）は x_2 を x_3 （道具）・ x_4 （動力）で耕す／すき込む</ve_ciksi>
 		<notci>農作における耕しに限らない。</notci>
 		<smuni>耕す</smuni>
 		<lerfu xml:lang="ja">プルィクァ</lerfu>
@@ -14416,12 +14426,14 @@
 		<lerfu xml:lang="jbo-fonipa">ˈranmi</lerfu>
 		<rafsi klesi="cimei-lerfu">ram</rafsi>
 		<rafsi klesi="vomei-lerfu">ranm</rafsi>
-		<ve_ciksi>x_1 は x_2 （内容）・ x_3 （価値観／文化）の神話／伝説</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 についての・ x_3 （神話世界）・ x_4 （文化）における神話／伝説／おとぎ話</ve_ciksi>
 		<smuni>神話</smuni>
 		<lerfu xml:lang="ja">ランミ</lerfu>
 		<srana>{lijda}</srana>
 		<srana>{lisri}</srana>
 		<srana>{crida}</srana>
+		<srana>{ramda'u} （人間の形でないキャラクター／ドラゴンなど）</srana>
+		<srana>{veryranmi} （おとぎ話）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_cd841903-ae03-4eba-9b92-af7347cd7431">
 		<lerfu xml:lang="jbo">ransu</lerfu>
@@ -15051,7 +15063,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈrutni</lerfu>
 		<rafsi klesi="cimei-lerfu">run</rafsi>
 		<rafsi klesi="vomei-lerfu">rutn</rafsi>
-		<ve_ciksi>x_1 は人工物； x_1 は人為的</ve_ciksi>
+		<ve_ciksi>x_1 は民族 x_2 が作った／生み出した人工物／人為的な物</ve_ciksi>
 		<smuni>人工</smuni>
 		<lerfu xml:lang="ja">ルトニ</lerfu>
 		<goro>人工ルートに</goro>
@@ -15513,7 +15525,8 @@
 		<notci>アラビア／ヘブライ／アラム／エチオピア等</notci>
 		<smuni>セム</smuni>
 		<lerfu xml:lang="ja">セムト</lerfu>
-		<srana>{xrabo/xebro} (下位概念)</srana>
+		<srana>{xrabo} (下位概念)</srana>
+		<srana>{xebro} (下位概念)</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_9965722c-c863-4604-8773-69c6a9ee1a13">
 		<lerfu xml:lang="jbo">senci</lerfu>
@@ -15728,10 +15741,12 @@
 		<lerfu xml:lang="jbo">sicpi</lerfu>
 		<lerfu xml:lang="jbo-fonipa">'siʃpi</lerfu>
 		<rafsi klesi="vomei-lerfu">sicp</rafsi>
-		<ve_ciksi>x_1 は雨</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （含有物）の雨</ve_ciksi>
 		<smuni>雨</smuni>
 		<lerfu xml:lang="ja">スィシピ</lerfu>
-		<srana>{carvi} (上位概念)</srana>
+		<srana>{bratu}</srana>
+		<srana>{snime}</srana>
+		<srana>{carvi}</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_4d06e6b1-cdf1-4635-8d7d-df8f7e1d2db8">
 		<lerfu xml:lang="jbo">sidbo</lerfu>
@@ -15782,7 +15797,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈsigʒa</lerfu>
 		<rafsi klesi="cimei-lerfu">sig</rafsi>
 		<rafsi klesi="vomei-lerfu">sigj</rafsi>
-		<ve_ciksi>x_1 は x_2 （葉／物質）の巻きタバコ／葉巻／シガー</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （葉／物質）・ x_3 （製造者）の巻きタバコ／葉巻／シガー</ve_ciksi>
 		<smuni>葉巻</smuni>
 		<lerfu xml:lang="ja">スィグジャ</lerfu>
 		<srana>{danmo}</srana>
@@ -15795,7 +15810,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈsilka</lerfu>
 		<rafsi klesi="cimei-lerfu">sik</rafsi>
 		<rafsi klesi="vomei-lerfu">silk</rafsi>
-		<ve_ciksi>x_1 は絹／シルク</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 が生み出す絹／シルク</ve_ciksi>
 		<smuni>絹</smuni>
 		<lerfu xml:lang="ja">スィルゥカ</lerfu>
 		<goro>知るか、シルク</goro>
@@ -16592,7 +16607,8 @@
 		<lerfu xml:lang="jbo-fonipa">ˈsolri</lerfu>
 		<rafsi klesi="cimei-lerfu">sol</rafsi>
 		<rafsi klesi="vomei-lerfu">solr</rafsi>
-		<ve_ciksi>x_1 は x_2 （惑星）の太陽／恒星／日</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （惑星）・ x_3 （惑星に住む種族）の太陽</ve_ciksi>
+		<notci>x_2 は x_3 の移住先でも良い。</notci>
 		<smuni>太陽</smuni>
 		<lerfu xml:lang="ja">ソルゥリ</lerfu>
 		<srana>{gusni}</srana>
@@ -16966,8 +16982,8 @@
 		<lerfu xml:lang="jbo">stagi</lerfu>
 		<lerfu xml:lang="jbo-fonipa">'stagi</lerfu>
 		<rafsi klesi="vomei-lerfu">stag</rafsi>
-		<ve_ciksi>x_1 は x_2 （種類）の食用野菜</ve_ciksi>
-		<notci>厳密には果物と堅果も含まれる。</notci>
+		<ve_ciksi>x_1 は可食部 x_2 （部位）・植物 x_3 の野菜</ve_ciksi>
+		<notci>果物や堅果も。</notci>
 		<smuni>野菜</smuni>
 		<lerfu xml:lang="ja">スタギ</lerfu>
 		<srana>{grute}</srana>
@@ -16977,13 +16993,15 @@
 		<srana>{spati}</srana>
 		<srana>{sunga}</srana>
 		<srana>{tamca}</srana>
+		<srana>{nalrutstagi} （果実以外を可食部とする野菜）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_dd596dc7-e95d-40a3-b604-8c30b642e1ce">
 		<lerfu xml:lang="jbo">staku</lerfu>
 		<lerfu xml:lang="jbo-fonipa">'staku</lerfu>
 		<rafsi klesi="cimei-lerfu">tak</rafsi>
 		<rafsi klesi="vomei-lerfu">stak</rafsi>
-		<ve_ciksi>x_1 は x_2 （成分）・ x_3 （形状）のセラミックス／陶磁器</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （製造者）・ x_3 （成分）・ x_4 （形状）の陶器</ve_ciksi>
+		<notci>非金属の粘土などを窯で焼いて作られる焼き物。磁器も。 x_3 ですべての成分を列挙しなくても良い。</notci>
 		<smuni>セラミックス</smuni>
 		<lerfu xml:lang="ja">スタク</lerfu>
 		<srana>{kliti}</srana>
@@ -17467,8 +17485,8 @@
 		<lerfu xml:lang="jbo-fonipa">ˈtagʒi</lerfu>
 		<rafsi klesi="cimei-lerfu">tag</rafsi>
 		<rafsi klesi="vomei-lerfu">tagj</rafsi>
-		<ve_ciksi>x_1 は x_2 （対象本体）・ x_3 （対象箇所）にたいして、かっちり／ぴったり／しっかりしている； x_1 は x_2 から外れない／離れない</ve_ciksi>
-		<smuni>かっちり</smuni>
+		<ve_ciksi>x_1 は x_2 （対象本体）の x_3 （次元／方向）に対して x_4 （対象部位）でぴったりはまっている</ve_ciksi>
+		<smuni>ぴったり</smuni>
 		<lerfu xml:lang="ja">タグジ</lerfu>
 		<srana>{trati}</srana>
 		<srana>{jarki}</srana>
@@ -18186,7 +18204,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈtinbɛ</lerfu>
 		<rafsi klesi="cimei-lerfu">tib</rafsi>
 		<rafsi klesi="vomei-lerfu">tinb</rafsi>
-		<ve_ciksi>x_1 は x_2 （命令／規則）に服従する／従う； x_1 は従順</ve_ciksi>
+		<ve_ciksi>x_1 は x_2 （命令／規則）・ x_3 （発令者）に服従する／従う／従順</ve_ciksi>
 		<smuni>服従</smuni>
 		<lerfu xml:lang="ja">ティンベ</lerfu>
 		<srana>{minde}</srana>
@@ -18664,13 +18682,19 @@
 		<rafsi klesi="cimei-lerfu">tul</rafsi>
 		<rafsi klesi="cimei-lerfu">tu'o</rafsi>
 		<rafsi klesi="vomei-lerfu">tunl</rafsi>
-		<ve_ciksi>x_1 は x_2 を飲み込む／飲み下す</ve_ciksi>
+		<ve_ciksi>x_1 は飲み込む／飲み下す</ve_ciksi>
 		<notci>比喩的に（概念／意見を）「取り入れる」「消化する」も</notci>
 		<smuni>飲み込む</smuni>
 		<lerfu xml:lang="ja">トゥンルォ</lerfu>
 		<srana>{citka}</srana>
 		<srana>{pinxe}</srana>
 		<srana>{galxe}</srana>
+		<srana>{tulpinxe} （液体を飲み込む）</srana>
+		<srana>{tulcti} （飲み込むように飲食する）</srana>
+		<srana>{ctitu'o} （飲食し飲み込む）</srana>
+		<srana>{galxycti} （喉を経由する形で飲食する）</srana>
+		<srana>{galxynerbi'o} （喉に入る）</srana>
+		<srana>{galxygre} （喉を通過する）</srana>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_38451583-39ca-4090-88c3-5a8f864b5589">
 		<lerfu xml:lang="jbo">tunta</lerfu>
@@ -19025,7 +19049,7 @@
 		<lerfu xml:lang="jbo">vidni</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈvidni</lerfu>
 		<rafsi klesi="vomei-lerfu">vidn</rafsi>
-		<ve_ciksi>x_1 は画面／映像モニター／スクリーン</ve_ciksi>
+		<ve_ciksi>x_1 は機能 x_2 の画面／映像モニター／スクリーン</ve_ciksi>
 		<smuni>画面</smuni>
 		<lerfu xml:lang="ja">ヴィドニ</lerfu>
 		<srana>{skina}</srana>
@@ -19315,7 +19339,7 @@
 		<lerfu xml:lang="jbo-fonipa">'vraga</lerfu>
 		<rafsi klesi="cimei-lerfu">vra</rafsi>
 		<rafsi klesi="vomei-lerfu">vrag</rafsi>
-		<ve_ciksi>x_1 は x_2 （機能）・ x_3 （支点／台）のてこ／レバー／バール</ve_ciksi>
+		<ve_ciksi>x_1 は機能 x_2 ・支点 x_3 ・アーム x_4 のてこ／レバー／バール</ve_ciksi>
 		<smuni>てこ</smuni>
 		<lerfu xml:lang="ja">ヴラガ</lerfu>
 		<srana>{tutci}</srana>
@@ -19650,8 +19674,8 @@
 		<lerfu xml:lang="jbo">xanka</lerfu>
 		<lerfu xml:lang="jbo-fonipa">ˈxanka</lerfu>
 		<rafsi klesi="vomei-lerfu">xank</rafsi>
-		<ve_ciksi>x_1 は x_2 （事）について緊張／心配する； x_1 は x_2 が不安</ve_ciksi>
-		<notci>心配という心理の条件としてx3の追加も。</notci>
+		<ve_ciksi>x_1 は x_2 について x_3 の条件下で心配する／不安</ve_ciksi>
+		<notci>x_2 は NU類で抽象化。</notci>
 		<smuni>緊張</smuni>
 		<lerfu xml:lang="ja">クァンカ</lerfu>
 		<goro>＜半分隠す＞</goro>
@@ -20273,8 +20297,7 @@
 		<lerfu xml:lang="jbo-fonipa">ˈxutla</lerfu>
 		<rafsi klesi="cimei-lerfu">xul</rafsi>
 		<rafsi klesi="vomei-lerfu">xutl</rafsi>
-		<ve_ciksi>x_1 は x_2 （性質）に関して滑らか／すべすべ／つるうるしている</ve_ciksi>
-		<notci>x2 は布地表面や起伏特性など。</notci>
+		<ve_ciksi>x_1 は滑らか／すべすべ／つるうるしている</ve_ciksi>
 		<smuni>滑らか</smuni>
 		<lerfu xml:lang="ja">クゥトルァ</lerfu>
 		<srana>{plita}</srana>
