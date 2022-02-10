@@ -51,6 +51,8 @@
 			<jufra xml:lang="ja">このバナナは皮が黄色い</jufra>
 		</mupli>
 		<smuni>バナナ</smuni>
+		<sumsmu sumti="x1">バナナ</sumsmu>
+		<sumsmu sumti="x2" vanbi="種、品種">バナナの種類</sumsmu>
 		<lerfu xml:lang="ja">バドナ</lerfu>
 		<goro>&lt;場で怒鳴る&gt;</goro>
 		<goro>banana</goro>
@@ -640,6 +642,7 @@
 		<rafsi klesi="vomei-lerfu">bavm</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (品種)のオオムギ粒</ve_ciksi>
 		<smuni>大麦</smuni>
+		<sumsmu sumti="x1" vanbi="穀粒">オオムギ</sumsmu>
 		<lerfu xml:lang="ja">バヴミ</lerfu>
 		<goro>&lt;場でヴォミット&gt;</goro>
 		<goro>mai(麦)</goro>
@@ -1363,6 +1366,9 @@
 		<ve_ciksi><sumti>x1</sumti> (<jbovla klesi="cmavo">du'u</jbovla>)は <sumti>x2</sumti> (関係)を <sumti>x3</sumti> (項の列 / 集合)について賓述を表す関係性 / 命題</ve_ciksi>
 		<notci>自然言語においては、 <sumti>x2</sumti> を表すのが賓辞 / 述語、 <sumti>x3</sumti> のうちの一つを表すのが主辞 / 主語。</notci>
 		<smuni>命題</smuni>
+		<sumsmu sumti="x1" vanbi="論理学">命題</sumsmu>
+		<sumsmu sumti="x2" vanbi="論理学">述語</sumsmu>
+		<sumsmu sumti="x3" vanbi="論理学">項の列</sumsmu>
 		<lerfu xml:lang="ja">ブリディ</lerfu>
 		<goro>predicate</goro>
 		<srana><jbovla klesi="gismu">sumti</jbovla></srana>
@@ -2791,6 +2797,7 @@
 		<ve_ciksi><sumti>x1</sumti> (<jbovla klesi="cmavo">lu'o</jbovla>)は構造 <sumti>x2</sumti> を持ち、 <sumti>x3</sumti> (構成要素の集合)からなる、性質 <sumti>x4</sumti> (<jbovla klesi="cmavo">ka</jbovla>)を示す体系 / システム</ve_ciksi>
 		<notci><sumti>x1</sumti> は共同で効果 <sumti>x4</sumti> をもたらす(相乗効果)。 <sumti>x1</sumti> は「ネットワーク」も。 <sumti>x2</sumti> は関係・規則も。</notci>
 		<smuni>体系</smuni>
+		<sumsmu sumti="x1">システム</sumsmu>
 		<lerfu xml:lang="ja">システ</lerfu>
 		<goro>システム cistemu</goro>
 		<srana><jbovla klesi="cmavo">ci'e</jbovla></srana>
@@ -3217,6 +3224,7 @@
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> から突き出ている山</ve_ciksi>
 		<notci>「丘」「土手」も。</notci>
 		<smuni>山</smuni>
+		<sumsmu sumti="x1">山</sumsmu>
 		<lerfu xml:lang="ja">シマナ</lerfu>
 		<goro>島なし山国</goro>
 		<srana><jbovla klesi="gismu">punli</jbovla></srana>
@@ -3310,6 +3318,7 @@
 		<rafsi klesi="vomei-lerfu">cnan</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は性質 <sumti>x2</sumti> (<jbovla klesi="cmavo">ka</jbovla>, <jbovla klesi="cmavo">ni</jbovla>)に関する、 <sumti>x3</sumti> (集合)の観点 <sumti>x4</sumti> (<jbovla klesi="cmavo">si'o</jbovla>)による標準 / 平均 / スタンダード</ve_ciksi>
 		<smuni>平均</smuni>
+		<sumsmu sumti="x1">平均値</sumsmu>
 		<lerfu xml:lang="ja">シナノ</lerfu>
 		<goro>信濃は標準</goro>
 		<srana><jbovla klesi="gismu">tcaci</jbovla></srana>
@@ -3833,6 +3842,7 @@
 		<rafsi klesi="vomei-lerfu">cunm</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (品種)のキビ粒</ve_ciksi>
 		<smuni>キビ</smuni>
+		<sumsmu sumti="x1" vanbi="穀粒">キビ</sumsmu>
 		<lerfu xml:lang="ja">シュンミ</lerfu>
 		<goro>旬味</goro>
 		<srana><jbovla klesi="gismu">gurni</jbovla></srana>
@@ -5022,11 +5032,9 @@
 		<rafsi klesi="vomei-lerfu">dugr</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (真数)・ <sumti>x3</sumti> (底)の対数</ve_ciksi>
 		<smuni>対数</smuni>
-		<sumti_smuni>
-			<smuni>対数</smuni>
-			<smuni>真数; 対数</smuni>
-			<smuni>底; 対数</smuni>
-		</sumti_smuni>
+		<sumsmu sumti="x1">対数</sumsmu>
+		<sumsmu sumti="x2" vanbi="対数">真数</sumsmu>
+		<sumsmu sumti="x3" vanbi="対数">底</sumsmu>
 		<lerfu xml:lang="ja">ドゥグリ</lerfu>
 		<srana><jbovla klesi="gismu">tenfa</jbovla></srana>
 	</valsi>
@@ -5216,6 +5224,8 @@
 			<jufra xml:lang="ja">海賊船が帆走する</jufra>
 		</mupli>
 		<smuni>帆走</smuni>
+		<sumsmu sumti="x1">帆</sumsmu>
+		<sumsmu sumti="x2">帆走</sumsmu>
 		<lerfu xml:lang="ja">ファルゥヌ</lerfu>
 		<srana><jbovla klesi="gismu">bloti</jbovla></srana>
 	</valsi>
@@ -6127,6 +6137,9 @@
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (到達されないもの / 所)にたいして <sumti>x3</sumti> (通過を妨げられているもの)にとって閉まっている; <sumti>x1</sumti> は <sumti>x3</sumti> が <sumti>x2</sumti> へ達することを妨げる</ve_ciksi>
 		<notci><sumti>x1</sumti> はドアなどのほか、半透膜も。</notci>
 		<smuni>閉鎖</smuni>
+		<sumsmu sumti="x1" vanbi="通過を妨げるもの">閉じているもの</sumsmu>
+		<sumsmu sumti="x2" vanbi="閉鎖によって">到達されないもの</sumsmu>
+		<sumsmu sumti="x3" vanbi="閉鎖によって">通れないもの</sumsmu>
 		<lerfu xml:lang="ja">ガンルォ</lerfu>
 		<srana><jbovla klesi="gismu">kalri</jbovla></srana>
 		<srana><jbovla klesi="gismu">pagre</jbovla></srana>
@@ -8219,6 +8232,7 @@
 		<rafsi klesi="vomei-lerfu">jmin</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> を <sumti>x3</sumti> に加え、その結果 <sumti>x4</sumti> となる</ve_ciksi>
 		<smuni>加える</smuni>
+		<sumsmu sumti="x1">加える</sumsmu>
 		<lerfu xml:lang="ja">ジミナ</lerfu>
 		<goro>地味な追加</goro>
 		<srana><jbovla klesi="gismu">zmadu</jbovla></srana>
@@ -8338,6 +8352,9 @@
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (完成品)に <sumti>x3</sumti> (方法)で料理する</ve_ciksi>
 		<notci><sumti>x3</sumti> はレシピなど。素材・原材料は「<jbovla klesi="cmavo-compound">sepu'e</jbovla>」で付け加えるか、 <sumti>x3</sumti> 内で説明する。</notci>
 		<smuni>料理する</smuni>
+		<sumsmu sumti="x1">料理人</sumsmu>
+		<sumsmu sumti="x2" vanbi="料理の結果、できたもの">料理</sumsmu>
+		<sumsmu sumti="x3" vanbi="料理">レシピ</sumsmu>
 		<lerfu xml:lang="ja">ジュクパ</lerfu>
 		<srana><jbovla klesi="gismu">cupra</jbovla></srana>
 		<srana><jbovla klesi="gismu">bredi</jbovla></srana>
@@ -8628,6 +8645,9 @@
 		<rafsi klesi="vomei-lerfu">kalr</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (通り抜けた先)へ <sumti>x3</sumti> (通り抜けるもの)にとって開いている</ve_ciksi>
 		<smuni>開く</smuni>
+		<sumsmu sumti="x1">開いているもの</sumsmu>
+		<sumsmu sumti="x2" vanbi="開口部を通り抜けた先">通過先</sumsmu>
+		<sumsmu sumti="x3" vanbi="開口部を通り抜けるもの">通過者</sumsmu>
 		<lerfu xml:lang="ja">カルゥリ</lerfu>
 		<srana><jbovla klesi="gismu">ganlo</jbovla></srana>
 		<srana><jbovla klesi="gismu">pagre</jbovla></srana>
@@ -9046,6 +9066,9 @@
 		<rafsi klesi="vomei-lerfu">kenk</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (材料)・ <sumti>x3</sumti> (作り方)のケーキ / トルテ / タルト / パイ / フラン</ve_ciksi>
 		<smuni>ケーキ</smuni>
+		<sumsmu sumti="k1" vanbi="焼き菓子">ケーキ</sumsmu>
+		<sumsmu sumti="k2">ケーキの材料</sumsmu>
+		<sumsmu sumti="k3">ケーキの作り方</sumsmu>
 		<goro>ケーキでケンカする</goro>
 		<srana><jbovla klesi="lujvo">titnanba</jbovla></srana>
 		<srana><jbovla klesi="lujvo">jupypesxu</jbovla></srana>
@@ -10421,6 +10444,10 @@
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (題目 / 筋書 / 教訓)の、 <sumti>x3</sumti> (作者)から <sumti>x4</sumti> (聴者)への物語 / 説話</ve_ciksi>
 		<notci>「伝説」なども。 <sumti>x3</sumti> は話者も。</notci>
 		<smuni>物語</smuni>
+		<sumsmu sumti="x1">物語</sumsmu>
+		<sumsmu sumti="x2" vanbi="物語の題目や筋書き、教訓">物語の内容</sumsmu>
+		<sumsmu sumti="x3" vanbi="物語の作者 / 話者">作者 / 話者</sumsmu>
+		<sumsmu sumti="x4" vanbi="物語の聴者">聴者</sumsmu>
 		<lerfu xml:lang="ja">ルィスリ</lerfu>
 		<srana><jbovla klesi="gismu">ranmi</jbovla></srana>
 		<srana><jbovla klesi="gismu">cfika</jbovla></srana>
@@ -10626,6 +10653,9 @@
 		<rafsi klesi="vomei-lerfu">lumc</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> の汚れ <sumti>x3</sumti> を洗浄剤 / 用具 <sumti>x4</sumti> で洗う</ve_ciksi>
 		<smuni>洗う</smuni>
+		<sumsmu sumti="x1">洗う</sumsmu>
+		<sumsmu sumti="x2" vanbi="洗う対象">汚れもの</sumsmu>
+		<sumsmu sumti="x3" vanbi="洗い落とされるもの">汚れ</sumsmu>
 		<lerfu xml:lang="ja">ルゥムシ</lerfu>
 		<goro>洗い汚れる無視</goro>
 		<srana><jbovla klesi="gismu">djacu</jbovla></srana>
@@ -11921,6 +11951,7 @@
 		<rafsi klesi="vomei-lerfu">mraj</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (品種)のライムギ粒</ve_ciksi>
 		<smuni>ライ麦</smuni>
+		<sumsmu sumti="x1" vanbi="穀粒">ライムギ</sumsmu>
 		<lerfu xml:lang="ja">ムラジ</lerfu>
 		<srana><jbovla klesi="gismu">gurni</jbovla></srana>
 	</valsi>
@@ -12213,6 +12244,7 @@
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (種類 / 原料 / 穀物)のパン</ve_ciksi>
 		<notci>酵母を使っても使わなくても良い。</notci>
 		<smuni>パン</smuni>
+		<sumsmu sumti="x1" vanbi="食品">パン</sumsmu>
 		<lerfu xml:lang="ja">ナンバ</lerfu>
 		<goro>パンはナンばかり</goro>
 		<goro>mianbau(面包)</goro>
@@ -14531,6 +14563,9 @@
 			<jufra xml:lang="ja">重水素原子(D)</jufra>
 		</mupli>
 		<smuni>原子</smuni>
+		<sumsmu sumti="x1" vanbi="化学">原子</sumsmu>
+		<sumsmu sumti="x2" vanbi="化学">原子番号</sumsmu>
+		<sumsmu sumti="x3" vanbi="化学">原子量</sumsmu>
 		<lerfu xml:lang="ja">ラトニ</lerfu>
 		<goro>元素、ラットに</goro>
 		<srana><jbovla klesi="gismu">kantu</jbovla></srana>
@@ -15079,6 +15114,9 @@
 		<rafsi klesi="vomei-lerfu">sabj</rafsi>
 		<ve_ciksi><sumti>x1</sumti> は <sumti>x2</sumti> (物)を <sumti>x3</sumti> (者)に供給 / 提供する供給源</ve_ciksi>
 		<smuni>供給</smuni>
+		<sumsmu sumti="x1">供給源</sumsmu>
+		<sumsmu sumti="x2">供給物</sumsmu>
+		<sumsmu sumti="x3">供給先</sumsmu>
 		<lerfu xml:lang="ja">サブジ</lerfu>
 		<goro>供給サブジェクト</goro>
 		<goro>supply</goro>
