@@ -3590,7 +3590,7 @@
 		<ve_ciksi>逐語的困惑 (<jbovla klesi="cmavo">ki'a</jbovla> 逐語的困惑 - <jbovla klesi="cmavo-compound">ki'anai</jbovla> 逐語的理解)</ve_ciksi>
 		<notci>心態詞; 語句にたいして不明瞭な点を感じることを表す; 「<jbovla klesi="cmavo">xu</jbovla>」と違い、語句の真理値は尋ねない</notci>
 		<mupli>
-			<jufra xml:lang="jbo"><jbovla klesi="cmavo">mi</jbovla> <jbovla klesi="gismu">penmi</jbovla> <jbovla klesi="cmavo">ko'a</jbovla> --- <jbovla klesi="cmavo">ko'a</jbovla> <jbovla klesi="cmavo">ki'a</jbovla></jufra>
+			<jufra xml:lang="jbo"><jbovla klesi="cmavo">mi</jbovla> <jbovla klesi="gismu">penmi</jbovla> <jbovla klesi="cmavo">ko'a</jbovla> --- .<jbovla klesi="cmavo">i</jbovla> <jbovla klesi="cmavo">ko'a</jbovla> <jbovla klesi="cmavo">ki'a</jbovla></jufra>
 			<jufra xml:lang="ja">彼女に会った。 --- “彼女”って誰のこと?</jufra>
 		</mupli>
 		<lerfu xml:lang="ja">キハ</lerfu>

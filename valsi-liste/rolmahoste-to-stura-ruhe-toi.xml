@@ -3590,8 +3590,8 @@
 		<ve_ciksi>逐語的困惑 （ ki'a 逐語的困惑 - ki'anai 逐語的理解）</ve_ciksi>
 		<notci>心態詞； 語句にたいして不明瞭な点を感じることを表す； xu と違い、語句の真理値は尋ねない；</notci>
 		<mupli>
-			<jufra xml:lang="jbo">{ mi penmi ko'a } { ko'a ki'a }</jufra>
-			<jufra xml:lang="ja">｛彼女に会った。｝｛“彼女”って誰のこと？｝</jufra>
+			<jufra xml:lang="jbo">mi penmi ko'a --- .i ko'a ki'a</jufra>
+			<jufra xml:lang="ja">彼女に会った。 --- “彼女”って誰のこと？</jufra>
 		</mupli>
 		<lerfu xml:lang="ja">キハ</lerfu>
 		<srana>{cfipu}</srana>
