@@ -262,9 +262,9 @@ awkScript=$(
 
 				.qr-code {
 					position: absolute;
-					bottom: 0.1cm;
-					left: 0.1cm;
-					width: 12mm;
+					bottom: 0;
+					left: 0;
+					width: 15mm;
 					background: #FFFFFF;
 				}
 
