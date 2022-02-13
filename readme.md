@@ -7,7 +7,7 @@
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
 ##   version - 0.1.7
-##   date - 2022-02-05
+##   date - 2022-02-12
 ##   since - 2021-04-01
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -60,7 +60,6 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 
 # ToDo
 
- * 2022年01月17以降のjbovlasteの更新データを反映させる。
  * 単語暗記カード印刷用にQRコードを追加する。
 
 # 謝辞

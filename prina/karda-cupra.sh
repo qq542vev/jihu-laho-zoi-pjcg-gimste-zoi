@@ -19,7 +19,7 @@ awkScript=$(
 		}
 
 		printf("</table>")
-		printf("<table lang=\"ja\" xml:lang=\"ja\">")
+		printf("<table class=\"trixe\" lang=\"ja\" xml:lang=\"ja\">")
 		printf("<caption>%dページ目の単語表の裏面印刷用</caption>", mai)
 
 		for(i = 0; i < selpaunahu; i = i + 1) {
@@ -29,11 +29,11 @@ awkScript=$(
 
 			namcu = (int((i + colmun) / colmun) * colmun) - (i % colmun) - 1
 
-			if((namcu, "preti") in valsi) {
-				gsub(/lang=""/, "lang=\"\" xml:lang=\"\"", valsi[namcu, "ve_ciksi"])
-				gsub(/lang="jbo"/, "lang=\"jbo\" xml:lang=\"\"jbo\"\"", valsi[namcu, "ve_ciksi"])
+			if((namcu, "crane") in valsi) {
+				gsub(/lang=""/, "lang=\"\" xml:lang=\"\"", valsi[namcu, "trixe"])
+				gsub(/lang="jbo"/, "lang=\"jbo\" xml:lang=\"\"jbo\"\"", valsi[namcu, "trixe"])
 
-				printf("<td id=\"ve-ciksi-%s\" class=\"culno\" title=\"%s\" about=\"[_:%s]\" property=\"dcterms:description\"><a href=\"#preti-%s\">%s</a></td>", valsi[namcu, "preti"], valsi[namcu, "preti"], valsi[namcu, "preti"], valsi[namcu, "preti"], valsi[namcu, "ve_ciksi"])
+				printf("<td id=\"trixe-%s\" class=\"nalkunti %s\" title=\"%s\" about=\"[_:%s]\" property=\"dcterms:description\"><a href=\"#crane-%s\">%s</a></td>", valsi[namcu, "crane"], valsi[namcu, "klesi"], valsi[namcu, "crane"], valsi[namcu, "crane"], valsi[namcu, "crane"], valsi[namcu, "trixe"])
 			} else {
 				printf("<td class=\"kunti\"></td>")
 			}
@@ -49,7 +49,7 @@ awkScript=$(
 	(NR % selpaunahu) == 1 {
 		split("", valsi)
 
-		printf("<table lang=\"jbo\" xml:lang=\"jbo\">")
+		printf("<table class=\"crane\" lang=\"jbo\" xml:lang=\"jbo\">")
 		printf("<caption lang=\"ja\" xml:lang=\"ja\">%dページ目の単語表の表面印刷用</caption>", (NR / selpaunahu) + 1)
 	}
 
@@ -63,10 +63,11 @@ awkScript=$(
 		vimcuHtml = $6
 		gsub(/<[a-z]+[^>]*>|<\/[a-z]+>/, "", vimcuHtml)
 
-		valsi[(NR - 1) % selpaunahu, "preti"] = $2
-		valsi[(NR - 1) % selpaunahu, "ve_ciksi"] = $6
+		valsi[(NR - 1) % selpaunahu, "crane"] = $2
+		valsi[(NR - 1) % selpaunahu, "klesi"] = $4
+		valsi[(NR - 1) % selpaunahu, "trixe"] = $6
 
-		printf("<td id=\"preti-%s\" class=\"culno\" title=\"%s\" about=\"[_:%s]\" property=\"foaf:name\"><input name=\"%s\" type=\"checkbox\" title=\"「%s」を暗記カード一覧から削除\"/><a href=\"#ve-ciksi-%s\">%s</a></td>", $2, vimcuHtml, $2, $2, $2, $2, $5)
+		printf("<td id=\"crane-%s\" class=\"nalkunti %s\" title=\"%s\" about=\"[_:%s]\" property=\"foaf:name\"><input name=\"%s\" type=\"checkbox\" title=\"「%s」を暗記カード一覧から削除\"/><a href=\"#trixe-%s\">%s</a></td>", $2, $4, vimcuHtml, $2, $2, $2, $2, $5)
 	}
 
 	(NR % colmun) == 0 {
@@ -259,6 +260,18 @@ awkScript=$(
 					margin: 0 1.5em;
 				}
 
+				.qr-code {
+					position: absolute;
+					bottom: 0.1cm;
+					left: 0.1cm;
+					width: 12mm;
+					background: #FFFFFF;
+				}
+
+				.cuxna {
+					background: #F4F4F4;
+				}
+
 				@page {
 					margin: 0;
 				}
@@ -282,6 +295,8 @@ awkScript=$(
 				}
 			</style>
 
+			<script type="text/javascript" src="qrcode.js"></script>
+
 			<script type="text/javascript">/*<![CDATA[*/
 				"use strict";
 
@@ -295,12 +310,34 @@ awkScript=$(
 					}));
 				}
 
+				function addCss(string) {
+						var style = document.createElement("style");
+						style.setAttribute("type", "text/css");
+						style.innerHTML = string;
+						return document.head.appendChild(style);
+				}
+
+				function addJvsQr(valsi) {
+					var dictURL = "https://jbovlaste.lojban.org/dict/";
+
+					var img = document.createElement("img");
+					img.setAttribute("alt", "");
+					img.setAttribute("src", "qr-code/" + valsi + ".svg");
+					img.setAttribute("class", "qr-code");
+
+					var a = document.createElement("a");
+					a.setAttribute("href", dictURL + valsi);
+					a.appendChild(img);
+
+					return a;
+				}
+
 				function cartu_stika() {
 					var form = document.getElementById("cartu_stika").elements;
 					var ralju = document.getElementById("ralju");
 					var vihuste = document.getElementById("vihuste");
 
-					Array.prototype.forEach.call(ralju.querySelectorAll("td.culno:lang(jbo)"), function(pagbu) {
+					Array.prototype.forEach.call(ralju.querySelectorAll("td.nalkunti:lang(jbo)"), function(pagbu) {
 						if(form[pagbu.textContent]["checked"]) {
 							vihuste.appendChild(document.createElement("li"));
 
@@ -319,10 +356,10 @@ awkScript=$(
 						}
 					});
 
-					var valsi = Array.prototype.map.call(ralju.querySelectorAll("td.culno:lang(jbo)"), function(pagbu) {
+					var valsi = Array.prototype.map.call(ralju.querySelectorAll("td.nalkunti:lang(jbo)"), function(pagbu) {
 						return {
-							"preti": pagbu,
-							"ve_ciksi": document.getElementById("ve-ciksi-" + pagbu.textContent)
+							"crane": pagbu,
+							"trixe": document.getElementById("trixe-" + pagbu.textContent)
 						};
 					});
 					var selpaunahu = form.pinpau.value * form.rajypau.value;
@@ -332,16 +369,15 @@ awkScript=$(
 						ralju.firstChild.remove();
 					}
 
-					document.head.appendChild(document.createElement("style"));
-					document.head.lastChild.setAttribute("type", "text/css");
-					document.head.lastChild.innerHTML += "@page { margin: " + form.kutnahu.value + "mm 0; }";
-					document.head.lastChild.innerHTML += "table { border-width: " + form.barlihi.value + "mm; width: " + form.pinynahu.value + "mm; }";
-					document.head.lastChild.innerHTML += "td { height: " + rajypau_rajnahu + "mm; border-width: " + form.nerlihi.value + "mm; }";
+					var css = "@page { margin: " + form.kutnahu.value + "mm 0; }";
+					css += "table { border-width: " + form.barlihi.value + "mm; width: " + form.pinynahu.value + "mm; }";
+					css += "td { height: " + rajypau_rajnahu + "mm; border-width: " + form.nerlihi.value + "mm; }";
+					addCss(css);
 
 					for(var i = valsi.length; (i % selpaunahu) !== 0; i = i + 1) {
 						valsi[i] = {};
 
-						["preti", "ve_ciksi"].forEach(function(currentValue) {
+						["crane", "trixe"].forEach(function(currentValue) {
 							valsi[i][currentValue] = document.createElement("td");
 							valsi[i][currentValue].setAttribute("class", "kunti");
 						});
@@ -352,6 +388,7 @@ awkScript=$(
 							if((i % selpaunahu) === 0) {
 								ralju.appendChild(document.createElement("table"));
 
+								ralju.lastChild.setAttribute("class", "crane");
 								ralju.lastChild.setAttribute("lang", "jbo");
 								ralju.lastChild.setAttribute("xml:lang", "jbo");
 
@@ -364,12 +401,13 @@ awkScript=$(
 							ralju.lastChild.appendChild(document.createElement("tr"));
 						}
 
-						valsi[i]["preti"].style.height = rajypau_rajnahu + "mm";
-						ralju.lastChild.lastChild.appendChild(valsi[i]["preti"]);
+						valsi[i]["crane"].style.height = rajypau_rajnahu + "mm";
+						ralju.lastChild.lastChild.appendChild(valsi[i]["crane"]);
 
 						if((i % selpaunahu) === (selpaunahu - 1)) {
 							ralju.appendChild(document.createElement("table"));
 
+							ralju.lastChild.setAttribute("class", "trixe");
 							ralju.lastChild.setAttribute("lang", "ja");
 							ralju.lastChild.setAttribute("xml:lang", "ja");
 
@@ -384,15 +422,17 @@ awkScript=$(
 									ralju.lastChild.appendChild(document.createElement("tr"));
 								}
 
-								ralju.lastChild.lastChild.appendChild(valsi[j - (j % form.rajypau.value) + (form.rajypau.value - (j % form.rajypau.value)) - 1]["ve_ciksi"]);
-								ralju.lastChild.lastChild.lastChild.style.height = rajypau_rajnahu + "mm"
+								ralju.lastChild.lastChild.appendChild(valsi[j - (j % form.rajypau.value) + (form.rajypau.value - (j % form.rajypau.value)) - 1]["trixe"]);
+								ralju.lastChild.lastChild.lastChild.style.height = rajypau_rajnahu + "mm";
 							}
 						}
 					}
 				}
 
 				window.onload = function() {
-					Array.prototype.forEach.call(document.getElementById("cartu_stika").elements, function(pagbu) {
+					var form = document.getElementById("cartu_stika").elements;
+
+					Array.prototype.forEach.call(form, function(pagbu) {
 						if(("name" in pagbu) && (pagbu.name in this)) {
 							pagbu.value = this[pagbu.name];
 
@@ -404,17 +444,26 @@ awkScript=$(
 
 					cartu_stika();
 
-					Array.prototype.forEach.call(document.querySelectorAll("td.culno"), function(pagbu)
- {
-						pagbu.ondblclick = function(fasnu) {
-							if(fasnu.target.style.backgroundColor) {
-								fasnu.target.style.backgroundColor = null;
-							} else {
-								fasnu.target.style.backgroundColor = "#F4F4F4";
-							}
+					["crane", "trixe"].forEach(function(farna) {
+						var namcu = Number(form[farna + "qr"].value);
+
+						if(namcu) {
+							var selector = "." + farna + " td.nalkunti";
+
+							Array.prototype.forEach.call(document.querySelectorAll(selector), function(pagbu) {
+								pagbu.appendChild(addJvsQr(pagbu.id.slice(-5)));
+							});
+
+							addCss(selector + " .qr-code { width: " + namcu + "mm; }");
 						}
 					});
-				}
+
+					Array.prototype.forEach.call(document.querySelectorAll("td.nalkunti"), function(pagbu) {
+						pagbu.ondblclick = function(fasnu) {
+							fasnu.target.classList.toggle("cuxna");
+						};
+					});
+				};
 			/*]]>*/</script>
 		</head>
 		<body>
@@ -473,11 +522,13 @@ awkScript=$(
 							<option value="20">20</option>
 						</select>列</label>
 
-						<label>表の横幅 <input required="required" name="pinynahu" type="number" min="5" value="297" />mm</label>
-						<label>表の縦幅 <input required="required" name="rajnahu" type="number" min="5" value="210" />mm</label>
-						<label>縦の余白 <input required="required" name="kutnahu" type="number" min="0" value="0" />mm</label>
-						<label>外側の線 <input required="required" name="barlihi" type="number" min="0" step="0.1" value="0" />mm</label>
-						<label>内側の線 <input required="required" name="nerlihi" type="number" min="0" step="0.1" value="0.3" />mm</label>
+						<label>表の横幅: <input required="required" name="pinynahu" type="number" min="5" value="297" />mm</label>
+						<label>表の縦幅: <input required="required" name="rajnahu" type="number" min="5" value="210" />mm</label>
+						<label>縦の余白: <input required="required" name="kutnahu" type="number" min="0" value="0" />mm</label>
+						<label>外側の線: <input required="required" name="barlihi" type="number" min="0" step="0.1" value="0" />mm</label>
+						<label>内側の線: <input required="required" name="nerlihi" type="number" min="0" step="0.1" value="0.3" />mm</label>
+						<label>表面のQRコードの幅: <input required="required" name="craneqr" type="number" min="0" step="1" value="0" />mm</label>
+						<label>裏面のQRコードの幅: <input required="required" name="trixeqr" type="number" min="0" step="1" value="0" />mm</label>
 						<input type="submit" value="変更" />
 					</p>
 
@@ -493,4 +544,4 @@ awkScript=$(
 		</body>
 	</html>
 	EOF
-} >index.html
+} >'index.html'
