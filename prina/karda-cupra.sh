@@ -264,7 +264,8 @@ awkScript=$(
 					position: absolute;
 					bottom: 0;
 					left: 0;
-					width: 15mm;
+					width: 10mm;
+					height: 10mm;
 					background: #FFFFFF;
 				}
 
@@ -454,7 +455,7 @@ awkScript=$(
 								pagbu.appendChild(addJvsQr(pagbu.id.substring(6)));
 							});
 
-							addCss(selector + " .qr-code { width: " + namcu + "mm; }");
+							addCss(selector + " .qr-code { width: " + namcu + "mm; height: " + namcu + "mm; }");
 						}
 					});
 
