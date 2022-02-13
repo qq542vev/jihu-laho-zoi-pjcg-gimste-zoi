@@ -451,7 +451,7 @@ awkScript=$(
 							var selector = "." + farna + " td.nalkunti";
 
 							Array.prototype.forEach.call(document.querySelectorAll(selector), function(pagbu) {
-								pagbu.appendChild(addJvsQr(pagbu.id.slice(-5)));
+								pagbu.appendChild(addJvsQr(pagbu.id.substring(6)));
 							});
 
 							addCss(selector + " .qr-code { width: " + namcu + "mm; }");
