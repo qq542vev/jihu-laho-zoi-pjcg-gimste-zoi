@@ -296,8 +296,6 @@ awkScript=$(
 				}
 			</style>
 
-			<script type="text/javascript" src="qrcode.js"></script>
-
 			<script type="text/javascript">/*<![CDATA[*/
 				"use strict";
 
