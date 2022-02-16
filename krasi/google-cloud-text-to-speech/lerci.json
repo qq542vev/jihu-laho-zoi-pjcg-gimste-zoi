@@ -1,0 +1,15 @@
+{
+	"input": {
+		"ssml": "<emphasis><sub alias=\"おそい\">遅い</sub></emphasis>"
+	},
+	"voice": {
+		"languageCode": "ja-JP",
+		"name": "ja-JP-Wavenet-B",
+		"ssmlGender": "FEMALE"
+	},
+	"audioConfig": {
+		"audioEncoding": "LINEAR16",
+		"speakingRate": 1,
+		"pitch": -4.0
+	}
+}

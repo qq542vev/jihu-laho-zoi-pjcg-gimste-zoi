@@ -1,0 +1,15 @@
+{
+	"input": {
+		"ssml": "<emphasis><sub alias=\"もちあげる\">持ち上げる</sub></emphasis>"
+	},
+	"voice": {
+		"languageCode": "ja-JP",
+		"name": "ja-JP-Wavenet-B",
+		"ssmlGender": "FEMALE"
+	},
+	"audioConfig": {
+		"audioEncoding": "LINEAR16",
+		"speakingRate": 1,
+		"pitch": -4.0
+	}
+}
