@@ -1,6 +1,6 @@
 {
 	"input": {
-		"ssml": "<emphasis><sub alias=\"きよらか\">清らか</sub></emphasis>"
+		"ssml": "<speak><emphasis><sub alias=\"きよらか\">清らか</sub></emphasis></speak>"
 	},
 	"voice": {
 		"languageCode": "ja-JP",
