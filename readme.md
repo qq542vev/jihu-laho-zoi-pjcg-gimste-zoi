@@ -7,7 +7,7 @@
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
 ##   version - 0.1.8
-##   date - 2022-02-13
+##   date - 2022-02-26
 ##   since - 2021-04-01
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -31,6 +31,7 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
  * [PJCG gimsteのgismuを更に減らす実験的試み](gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md)
  * [単語暗記カード印刷用](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/prina/)
  * [PJCG gimsteのgismu一覧](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/liste/)
+ * [PJCG gimste bot](https://twitter.com/PJCG_gimste_bot) - Twitter上で定期的にPJCG gismuを呟きます。
 
 ## Ankiのデッキパッケージ
 
@@ -40,12 +41,15 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 
 ### カードタイプ
 
-このデッキパッケージには4種類のカードタイプがあります。それぞれのカードタイプに含まれるカードの一覧を表示するには、カードブラウザの検索欄に次のように入力します。
+このデッキパッケージには5種類のカードタイプがあります。それぞれのカードタイプに含まれるカードの一覧を表示するには、カードブラウザの検索欄に次のように入力します。
 
- * `"note:PJCG gimste Lv.1" "card:1"` - ロジバンから日本語のカード
- * `"note:PJCG gimste Lv.1" "card:2"` - 日本語からロジバンのカード
- * `"note:PJCG gimste Lv.1" "card:3"` - 日本語からロジバン(入力問題)のカード
- * `"note:PJCG gimste Lv.1" "card:4"` - rafsiから日本語のカード
+| 検索文                             | 表面   | 裏面   | 備考            |
+| ---------------------------------- | ------ | ------ | --------------- |
+| `"note:PJCG gimste Lv.1" "card:1"` | gismu  | 説明文 |                 |
+| `"note:PJCG gimste Lv.1" "card:2"` | 説明文 | gismu  |                 |
+| `"note:PJCG gimste Lv.1" "card:3"` | 説明文 | gismu  | gismuの入力問題 |
+| `"note:PJCG gimste Lv.1" "card:4"` | rafsi  | 説明文 |                 |
+| `"note:PJCG gimste Lv.1" "card:5"` | rafsi  | 説明文 | gismuの入力問題 |
 
 「全て選択」、「カードを保留」と選択することで、当該カードを一括で保留に出来ます。
 
