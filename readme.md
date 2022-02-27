@@ -21,7 +21,7 @@
 
 # ji'u la'o .zoi. PJCG gimste .zoi.
 
-このプロジェクトは [PJCG gimste](https://cogas.github.io/pages/lojbo/pjcg_gimste/) の成果に基づいて、新たな学習教材を作成する試みです。
+このプロジェクトは [PJCG gimste](https://cogas.github.io/pages/lojbo/pjcg_gimste/) の成果に基づいて、新たなロジバン学習教材を作成する試みです。
 
 PJCG gimste は人工言語ロジバンの重要な gismu を選定するプロジェクトです。[ロジバン若手の会](https://groups.google.com/g/ponjo_lojbo_citno_girzu)のメンバーの方々が、使用頻度が多い gismu の中からより重要なものを選定し、 [cogas](https://cogas.github.io/) さんによって纏められました。
 
