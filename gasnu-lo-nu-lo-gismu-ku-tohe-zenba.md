@@ -1,13 +1,13 @@
 <!--
 ## File: gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md
 ##
-## PJCG gimsteのgismuを更に減らす実験的試み
+## PJCG gimste の gismuを更に減らす実験的試み
 ##
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.2
-##   date - 2021-07-13
+##   version - 0.1.3
+##   date - 2022-02-27
 ##   since - 2021-04-24
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -19,11 +19,11 @@
 ##   * Bag report - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
-# PJCG gimsteのgismuを更に減らす実験的試み
+# PJCG gimste の gismu を更に減らす実験的試み
 
 **このページの内容は実験的です。実際にテストされていません。**
 
-PJCG gimsteのgismuの個数は全てのgismuの半分以下ですが、それでもまだ、519個のgismuが存在します。表現する場に於いて少ないgismuでも「言い換え / va'i」により近い表現できるようになるのではないかと思い作成しました。
+PJCG gimste の gismu の個数は全ての gismu の半分以下ですが、それでもまだ、519個の gismu が存在します。表現する場に於いて少ない gismu でも「言い換え / va'i」により近い表現できるようになるのではないかと思い作成しました。
 
 ## no'e / to'e
 

@@ -6,8 +6,8 @@
 ## Metadata:
 ##
 ##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.8
-##   date - 2022-02-26
+##   version - 0.1.9
+##   date - 2022-02-27
 ##   since - 2021-04-01
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
 ##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
@@ -23,33 +23,33 @@
 
 このプロジェクトは[PJCG gimste](https://cogas.github.io/pages/lojbo/pjcg_gimste/)の成果に基づいて、新たな学習教材を作成する試みです。
 
-PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジェクトです。[ロジバン若手の会](https://groups.google.com/g/ponjo_lojbo_citno_girzu)のメンバーの方々が、使用頻度が多いgismuの中からより重要なものを選定し、[cogas](https://cogas.github.io/)さんによって纏められました。
+PJCG gimste は人工言語ロジバンの重要な gismu を選定するプロジェクトです。[ロジバン若手の会](https://groups.google.com/g/ponjo_lojbo_citno_girzu)のメンバーの方々が、使用頻度が多い gismu の中からより重要なものを選定し、 [cogas](https://cogas.github.io/) さんによって纏められました。
 
 # 成果物
 
- * [Ankiのデッキパッケージ](https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/releases)
- * [PJCG gimsteのgismuを更に減らす実験的試み](gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md)
+ * [Anki のデッキパッケージ](https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/releases)
+ * [PJCG gimste の gismu を更に減らす実験的試み](gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md)
  * [単語暗記カード印刷用](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/prina/)
- * [PJCG gimsteのgismu一覧](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/liste/)
- * [PJCG gimste bot](https://twitter.com/PJCG_gimste_bot) - Twitter上で定期的にPJCG gismuを呟きます。
+ * [PJCG gimste の gismu 一覧](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/liste/)
+ * [PJCG gimste bot](https://twitter.com/PJCG_gimste_bot) - Twitter 上で定期的に PJCG gismu を呟きます。
 
-## Ankiのデッキパッケージ
+## Anki のデッキパッケージ
 
-[Anki](https://apps.ankiweb.net/)のデッキパッケージを使用することで、PCやスマートフォンで効率的にgismuの学習が行えます。
+[Anki](https://apps.ankiweb.net/) のデッキパッケージを使用することで、 PC やスマートフォンで効率的に gismu の学習が行えます。
 
-[![Ankiのデッキリスト](pixra/cmalu-pixra/ank-zei-karda-bakfu-liste.png)](pixra/ank-zei-karda-bakfu-liste.png "Ankiのデッキリスト") [![Ankiのカードの問題](pixra/cmalu-pixra/preti-ank-zei-karda.png)](pixra/preti-ank-zei-karda.png "Ankiのカードの問題") [![Ankiのカードの解答](pixra/cmalu-pixra/danfu-ank-zei-karda.png)](pixra/danfu-ank-zei-karda.png "Ankiのカードの解答") [![Ankiのカードの入力正誤](pixra/cmalu-pixra/ciska-danfu-ank-zei-karda.png)](pixra/ciska-danfu-ank-zei-karda.png "Ankiのカードの入力正誤")
+[![Anki のデッキリスト](pixra/cmalu-pixra/ank-zei-karda-bakfu-liste.png)](pixra/ank-zei-karda-bakfu-liste.png "Anki のデッキリスト") [![Anki のカードの問題](pixra/cmalu-pixra/preti-ank-zei-karda.png)](pixra/preti-ank-zei-karda.png "Anki のカードの問題") [![Anki のカードの解答](pixra/cmalu-pixra/danfu-ank-zei-karda.png)](pixra/danfu-ank-zei-karda.png "Anki のカードの解答") [![Anki のカードの入力正誤](pixra/cmalu-pixra/ciska-danfu-ank-zei-karda.png)](pixra/ciska-danfu-ank-zei-karda.png "Anki のカードの入力正誤")
 
 ### カードタイプ
 
 このデッキパッケージには5種類のカードタイプがあります。それぞれのカードタイプに含まれるカードの一覧を表示するには、カードブラウザの検索欄に次のように入力します。
 
-| 検索文                             | 表面   | 裏面   | 備考            |
-| ---------------------------------- | ------ | ------ | --------------- |
-| `"note:PJCG gimste Lv.1" "card:1"` | gismu  | 説明文 |                 |
-| `"note:PJCG gimste Lv.1" "card:2"` | 説明文 | gismu  |                 |
-| `"note:PJCG gimste Lv.1" "card:3"` | 説明文 | gismu  | gismuの入力問題 |
-| `"note:PJCG gimste Lv.1" "card:4"` | rafsi  | 説明文 |                 |
-| `"note:PJCG gimste Lv.1" "card:5"` | rafsi  | 説明文 | gismuの入力問題 |
+| 検索文                             | 表面   | 裏面   | 備考             |
+| ---------------------------------- | ------ | ------ | ---------------- |
+| `"note:PJCG gimste Lv.1" "card:1"` | gismu  | 説明文 |                  |
+| `"note:PJCG gimste Lv.1" "card:2"` | 説明文 | gismu  |                  |
+| `"note:PJCG gimste Lv.1" "card:3"` | 説明文 | gismu  | gismu の入力問題 |
+| `"note:PJCG gimste Lv.1" "card:4"` | rafsi  | 説明文 |                  |
+| `"note:PJCG gimste Lv.1" "card:5"` | rafsi  | 説明文 | gismu の入力問題 |
 
 「全て選択」、「カードを保留」と選択することで、当該カードを一括で保留に出来ます。
 
@@ -66,4 +66,4 @@ PJCG gimsteは人工言語ロジバンの重要なgismuを選定するプロジ�
 
 # 謝辞
 
-このプロジェクトはPJCG gimsteを基にしています。PJCG gimsteの作成者の皆様に感謝の意を表します。
+このプロジェクトは PJCG gimste を基にしています。 PJCG gimste の作成者の皆様に感謝の意を表します。
