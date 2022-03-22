@@ -1,22 +1,22 @@
 <!--
-## File: gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md
+## Document: gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md
 ##
 ## PJCG gimste の gismuを更に減らす実験的試み
 ##
 ## Metadata:
 ##
-##   author - qq542vev <https://purl.org/meta/me/>
+##   author - <qq542vev at https://purl.org/meta/me/>
 ##   version - 0.1.3
 ##   date - 2022-02-27
 ##   since - 2021-04-24
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
-##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
+##   license - <CC-BY at https://creativecommons.org/licenses/by/4.0/>
 ##   package - jihu-laho-zoi-pjcg-gimste-zoi
 ##
 ## See Also:
 ##
-##   * Project homepage - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
-##   * Bag report - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
+##   * <Project homepage at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
+##   * <Bag report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
 # PJCG gimste の gismu を更に減らす実験的試み

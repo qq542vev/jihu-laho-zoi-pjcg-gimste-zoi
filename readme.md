@@ -1,22 +1,22 @@
 <!--
-## File: readme.md
+## Document: readme.md
 ##
 ## 「ji'u la'o .zoi. PJCG gimste .zoi.」の日本語マニュアル。
 ##
 ## Metadata:
 ##
-##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.9
-##   date - 2022-02-27
+##   author - <qq542vev at https://purl.org/meta/me/>
+##   version - 0.2.0
+##   date - 2022-03-22
 ##   since - 2021-04-01
 ##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
-##   license - CC-BY <https://creativecommons.org/licenses/by/4.0/>
+##   license - <CC-BY at https://creativecommons.org/licenses/by/4.0/>
 ##   package - jihu-laho-zoi-pjcg-gimste-zoi
 ##
 ## See Also:
 ##
-##   * Project homepage - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
-##   * Bag report - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
+##   * <Project homepage at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
+##   * <Bag report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
 # ji'u la'o .zoi. PJCG gimste .zoi.
@@ -27,11 +27,12 @@ PJCG gimste は人工言語ロジバンの重要な gismu を選定するプロ�
 
 # 成果物
 
- * [Anki のデッキパッケージ](https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/releases)
+ * [Anki のデッキパッケージ](https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/releases?q=Anki+%E3%81%AE%E3%83%87%E3%83%83%E3%82%AD%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8)
  * [PJCG gimste の gismu を更に減らす実験的試み](gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md)
  * [単語暗記カード印刷用](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/prina/)
  * [PJCG gimste の gismu 一覧](https://qq542vev.github.io/jihu-laho-zoi-pjcg-gimste-zoi/liste/)
  * [PJCG gimste bot](https://twitter.com/PJCG_gimste_bot) - Twitter 上で定期的に PJCG gismu を呟きます。
+ * [聞き流し用音声ファイル](https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/releases?q=%E8%81%9E%E3%81%8D%E6%B5%81%E3%81%97%E7%94%A8%E9%9F%B3%E5%A3%B0)
 
 ## Anki のデッキパッケージ
 
