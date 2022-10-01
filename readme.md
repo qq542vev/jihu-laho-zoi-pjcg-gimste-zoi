@@ -1,29 +1,28 @@
-<!--
-## Document: readme.md
-##
-## 「ji'u la'o .zoi. PJCG gimste .zoi.」の日本語マニュアル。
-##
-## Metadata:
-##
-##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.2.0
-##   date - 2022-03-22
-##   since - 2021-04-01
-##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
-##   license - <CC-BY at https://creativecommons.org/licenses/by/4.0/>
-##   package - jihu-laho-zoi-pjcg-gimste-zoi
-##
-## See Also:
-##
-##   * <Project homepage at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
-##   * <Bag report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
+<!-- Document: readme.md
+
+	「ji'u la'o .zoi. PJCG gimste .zoi.」の日本語マニュアル。
+
+	Metadata:
+
+		author - <qq542vev at https://purl.org/meta/me/>
+		version - 0.2.1
+		date - 2022-10-01
+		since - 2021-04-01
+		copyright - Copyright (C) 2021-2022 qq542vev. Some rights reserved.
+		license - <CC-BY at https://creativecommons.org/licenses/by/4.0/>
+		package - jihu-laho-zoi-pjcg-gimste-zoi
+
+	See Also:
+
+		* <Project homepage at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
+		* <Bag report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
 # ji'u la'o .zoi. PJCG gimste .zoi.
 
 このプロジェクトは [PJCG gimste](https://cogas.github.io/pages/lojbo/pjcg_gimste/) の成果に基づいて、新たなロジバン学習教材を作成する試みです。
 
-PJCG gimste は人工言語ロジバンの重要な gismu を選定するプロジェクトです。[ロジバン若手の会](https://groups.google.com/g/ponjo_lojbo_citno_girzu)のメンバーの方々が、使用頻度が多い gismu の中からより重要なものを選定し、 [cogas](https://cogas.github.io/) さんによって纏められました。
+PJCG gimste は人工言語ロジバンの重要な gismu を選定するプロジェクトです。[ロジバン若手の会](https://groups.google.com/g/ponjo_lojbo_citno_girzu)のメンバーの方々が、使用頻度が高い gismu の中からより重要なものを選定し、[cogas](https://cogas.github.io/) さんによって纏められました。
 
 # 成果物
 
@@ -36,7 +35,7 @@ PJCG gimste は人工言語ロジバンの重要な gismu を選定するプロ�
 
 ## Anki のデッキパッケージ
 
-[Anki](https://apps.ankiweb.net/) のデッキパッケージを使用することで、 PC やスマートフォンで効率的に gismu の学習が行えます。
+[Anki](https://apps.ankiweb.net/) のデッキパッケージを使用することで、PC やスマートフォンで効率的に gismu の学習が行えます。
 
 [![Anki のデッキリスト](pixra/cmalu-pixra/ank-zei-karda-bakfu-liste.png)](pixra/ank-zei-karda-bakfu-liste.png "Anki のデッキリスト") [![Anki のカードの問題](pixra/cmalu-pixra/preti-ank-zei-karda.png)](pixra/preti-ank-zei-karda.png "Anki のカードの問題") [![Anki のカードの解答](pixra/cmalu-pixra/danfu-ank-zei-karda.png)](pixra/danfu-ank-zei-karda.png "Anki のカードの解答") [![Anki のカードの入力正誤](pixra/cmalu-pixra/ciska-danfu-ank-zei-karda.png)](pixra/ciska-danfu-ank-zei-karda.png "Anki のカードの入力正誤")
 
@@ -67,4 +66,4 @@ PJCG gimste は人工言語ロジバンの重要な gismu を選定するプロ�
 
 # 謝辞
 
-このプロジェクトは PJCG gimste を基にしています。 PJCG gimste の作成者の皆様に感謝の意を表します。
+このプロジェクトは PJCG gimste を基にしています。PJCG gimste の作成者の皆様に感謝の意を表します。

@@ -1,33 +1,32 @@
-<!--
-## Document: gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md
-##
-## PJCG gimste の gismuを更に減らす実験的試み
-##
-## Metadata:
-##
-##   author - <qq542vev at https://purl.org/meta/me/>
-##   version - 0.1.3
-##   date - 2022-02-27
-##   since - 2021-04-24
-##   copyright - Copyright (C) 2021 qq542vev. Some rights reserved.
-##   license - <CC-BY at https://creativecommons.org/licenses/by/4.0/>
-##   package - jihu-laho-zoi-pjcg-gimste-zoi
-##
-## See Also:
-##
-##   * <Project homepage at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
-##   * <Bag report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
+<!-- Document: gasnu-lo-nu-lo-gismu-ku-tohe-zenba.md
+
+	PJCG gimste の gismu を更に減らす実験的試み
+
+	Metadata:
+
+		author - <qq542vev at https://purl.org/meta/me/>
+		version - 0.1.4
+		date - 2022-10-01
+		since - 2021-04-24
+		copyright - Copyright (C) 2021-2022 qq542vev. Some rights reserved.
+		license - <CC-BY at https://creativecommons.org/licenses/by/4.0/>
+		package - jihu-laho-zoi-pjcg-gimste-zoi
+
+	See Also:
+
+		* <Project homepage at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
+		* <Bag report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
 # PJCG gimste の gismu を更に減らす実験的試み
 
 **このページの内容は実験的です。実際にテストされていません。**
 
-PJCG gimste の gismu の個数は全ての gismu の半分以下ですが、それでもまだ、519個の gismu が存在します。表現する場に於いて少ない gismu でも「言い換え / va'i」により近い表現できるようになるのではないかと思い作成しました。
+PJCG gimste の gismu の個数は全ての gismu の半分以下ですが、それでもまだ、519個の gismu が存在します。表現する場に於いてより少ない gismu でも「言い換え / va'i」に近い表現が出来るようになるのではないかと思い作成しました。
 
 ## no'e / to'e
 
-「no'e」や「to'e」を使用することにより、手軽に「言い換え」を行うことができます。
+「no'e」や「to'e」を使用することにより、手軽に「言い換え」を行うことが出来ます。
 
 | gismu | 説明 | 言い換え | カテゴリー |
 | ----- | ---- | -------- | ---------- |
@@ -121,7 +120,7 @@ PJCG gimste の gismu の個数は全ての gismu の半分以下ですが、そ
 | fengu | x<sub>1</sub> は x<sub>2</sub> (者)にたいして x<sub>3</sub> (事 / 性質)について憤慨している / 怒っている | to'e fraxu | D1::etc |
 | lazni | x<sub>1</sub> (者)は x<sub>2</sub> (動作 / 仕事 / 努力 / 事)に関して怠惰 / 怠ける; x<sub>1</sub> は x<sub>2</sub> を怠る | to'e troci | D1::etc |
 
-Ankiで以上のカードを全て選択する場合、カードブラウザの検索欄に次の文を入力してください。
+Anki で以上のカードを全て選択する場合、カードブラウザの検索欄に次の文を入力してください。
 
 `"deck:PJCG gimste Lv.1 (519語)" ("valsi:badri" or "valsi:lacpu" or "valsi:cmalu" or "valsi:bartu" or "valsi:cikna" or "valsi:ctuca" or "valsi:cpacu" or "valsi:lenku" or "valsi:makcu" or "valsi:patfu" or "valsi:nanmu" or "valsi:nanla" or "valsi:nakni" or "valsi:fanmo" or "valsi:linto" or "valsi:penmi" or "valsi:xebni" or "valsi:tordu" or "valsi:lunra" or "valsi:jarki" or "valsi:frica" or "valsi:morsi" or "valsi:xlali" or "valsi:menli" or "valsi:ruble" or "valsi:jamfu" or "valsi:tuple" or "valsi:blabi" or "valsi:grusi" or "valsi:pelxu" or "valsi:spati" or "valsi:srasu" or "valsi:drudi" or "valsi:tumla" or "valsi:berti" or "valsi:stici" or "valsi:cnita" or "valsi:trixe" or "valsi:zunle" or "valsi:nicte" or "valsi:vanci" or "valsi:critu" or "valsi:dunra" or "valsi:sanli" or "valsi:dunda" or "valsi:dizlo" or "valsi:balvi" or "valsi:lerci" or "valsi:cadzu" or "valsi:srera" or "valsi:bersa" or "valsi:tcidu" or "valsi:rigni" or "valsi:jdika" or "valsi:mleca" or "valsi:gapci" or "valsi:litki" or "valsi:kanro" or "valsi:sudga" or "valsi:jibni" or "valsi:fliba" or "valsi:laldo" or "valsi:stela" or "valsi:ganlo" or "valsi:slabu" or "valsi:sampu" or "valsi:kunti" or "valsi:kusru" or "valsi:ckasu" or "valsi:daspo" or "valsi:cabna" or "valsi:klaku" or "valsi:vorme" or "valsi:masno" or "valsi:frili" or "valsi:caxno" or "valsi:bruna" or "valsi:danfu" or "valsi:snura" or "valsi:macnu" or "valsi:fulta" or "valsi:zifre" or "valsi:rutni" or "valsi:korcu" or "valsi:senpi" or "valsi:fanza" or "valsi:fendi" or "valsi:fengu" or "valsi:lazni")`
 
@@ -129,7 +128,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 
 ## 更にカードを減らす
 
-より細かな「言い換え」を使用することで更にカードを減らせますが、文が長くなり、相手に通じるかどうかは、より文脈依存になります。例えば「血液」は「体の中の赤い液体」となります。
+より細かな「言い換え」を使用することで更にカードを減らせますが、文が長くなり、相手に通じるかどうかは、より文脈依存です。例えば「血液」は「体の中の赤い液体」です。
 
 | gismu | 説明 | 言い換え | カテゴリー |
 | ----- | ---- | -------- | ---------- |
@@ -232,7 +231,7 @@ Ankiで以上のカードを全て選択する場合、カードブラウザの�
 | vindu | x<sub>1</sub> は x<sub>2</sub> にとって毒 / 中毒性がある | x<sub>1</sub> (no'e / to'e) sligu seri'a lo nu x<sub>2</sub> bilma kei ku | D1::etc |
 | xagji | x<sub>1</sub> は x<sub>2</sub> に飢える; x<sub>1</sub> は腹をすかしている / おなかがへっている; x<sub>1</sub> は x<sub>2</sub> (燃料 / 栄養)の補充を必要としている | x<sub>1</sub> djica lo nu citka x<sub>2</sub> kei ku | D1::etc |
 
-Ankiで以上のカードを全て選択する場合、カードブラウザの検索欄に次の文を入力してください。
+Anki で以上のカードを全て選択する場合、カードブラウザの検索欄に次の文を入力してください。
 
 `"deck:PJCG gimste Lv.1 (519語)" ("valsi:mamta" or "valsi:nixli" or "valsi:crino" or "valsi:stici" or "valsi:stuna" or "valsi:critu" or "valsi:vensa" or "valsi:cerni" or "valsi:vanci" or "valsi:jbena" or "valsi:kelci" or "valsi:manku" or "valsi:remna" or "valsi:sisti" or "valsi:tixnu" or "valsi:cfari" or "valsi:baktu" or "valsi:botpi" or "valsi:kabri" or "valsi:palta" or "valsi:patxu" or "valsi:bloti" or "valsi:vinji" or "valsi:briju" or "valsi:ckule" or "valsi:gusta" or "valsi:zarci" or "valsi:zdani" or "valsi:lalxu" or "valsi:rirxe" or "valsi:cidja" or "valsi:sanmi" or "valsi:lojbo" or "valsi:lumci" or  "valsi:vitke" or "valsi:cpina" or "valsi:mrilu" or "valsi:cmima" or "valsi:girzu" or "valsi:grake" or "valsi:mitre" or "valsi:xampo" or "valsi:cpana" or "valsi:ciblu" or "valsi:finpe" or "valsi:limna" or "valsi:senva" or "valsi:speni" or "valsi:stapa" or "valsi:bakni" or "valsi:banfi" or "valsi:cinki" or "valsi:cipni" or "valsi:curnu" or "valsi:gerku" or "valsi:mabru" or "valsi:mlatu" or "valsi:respa" or "valsi:voksa" or "valsi:savru" or "valsi:bende" or "valsi:bunre" or "valsi:narju" or "valsi:zirpu" or "valsi:simsa" or "valsi:jenmi" or "valsi:pulji" or "valsi:ckana" or "valsi:matci" or "valsi:cinba" or "valsi:gletu" or "valsi:broda" or "valsi:brode" or "valsi:brodi" or "valsi:brodo" or "valsi:brodu" or "valsi:creka" or "valsi:cutci" or "valsi:dakli" or "valsi:daski" or "valsi:gluta" or "valsi:kosta" or "valsi:mapku" or "valsi:palku" or "valsi:pastu" or "valsi:skaci" or "valsi:smoka" or "valsi:canko" or "valsi:catra" or "valsi:cifnu" or "valsi:gacri" or "valsi:jukpa" or "valsi:kagni" or "valsi:livla" or "valsi:sanga" or "valsi:vacri" or "valsi:vindu" or "valsi:xagji")`
 

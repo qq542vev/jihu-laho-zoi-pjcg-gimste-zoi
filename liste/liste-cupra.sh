@@ -291,9 +291,9 @@ awkScript=$(
 		<body>
 			<main id="ralju" rel="foaf:topic">
 				<section>
-					<h1>PJCG gismte Lv.1のgismu一覧</h1>
+					<h1>PJCG gismte Lv.1 の gismu 一覧</h1>
 
-					<p><a href="https://cogas.github.io/pages/lojbo/pjcg_gimste/">PJCG gismte Lv.1</a>のgismu一覧です。ロジバンの単語をダブルクリックすると<a href="https://jbovlaste.lojban.org/">jbovlaste</a>の単語ページに遷移します。</p>
+					<p><a href="https://cogas.github.io/pages/lojbo/pjcg_gimste/">PJCG gismte Lv.1</a> の gismu 一覧です。ロジバンの単語上でダブルクリックを行うと <a href="https://jbovlaste.lojban.org/">jbovlaste</a> の単語ページに遷移します。</p>
 
 					$(awk "${awkScript}" '../pjcg-gimste-lv1/gimste.csv' | sed -e 's/""/"/g')
 				</section>
