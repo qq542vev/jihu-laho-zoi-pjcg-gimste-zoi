@@ -162,17 +162,17 @@ awkScript=$(
 			<meta name="author" property="dc11:creator" content="qq542vev" />
 			<meta name="dcterms.created" property="dcterms:created" datatype="dcterms:W3CDTF" content="2021-06-12" />
 			<meta name="dcterms.modified" property="dcterms:modified" datatype="dcterms:W3CDTF" content="$(date '+%Y-%m-%d')" />
-			<meta name="description" property="dcterms:description" content="PJCG gismte Lv.1のgisum一覧です。" />
+			<meta name="description" property="dcterms:description" content="PJCG gismte Lv.1 の gisum一覧です。" />
 			<meta name="keywords" property="schema:keywords" content="Lojban,gismu,gismte" />
 			<meta name="robots" content="index,follow" />
 
-			<title property="dcterms:title">PJCG gismte Lv.1のgismu一覧</title>
+			<title property="dcterms:title">PJCG gismte Lv.1 の gismu 一覧</title>
 
 			<link rel="author" title="qq542vev" href="https://purl.org/meta/me/" />
 			<link rel="dcterms:conformsTo" title="Valid HTML+RDFa 1.1" href="http://www.w3.org/TR/html-rdfa/" />
 			<link rel="copyright license" title="LLG Web Copyright License" href="https://mw.lojban.org/papri/LLG_Web_Copyright_License" />
 			<link rel="profile grddl:profileTransformation" href="http://ns.inria.fr/grddl/rdfa/" />
-			<link rel="start" title="ji'u la'o .zoi. PJCG gimste .zoi." href="https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/" />
+			<link rel="start" title="ji'u la'o .zoi. PJCG gimste .zoi." href="https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi" />
 
 			<style type="text/css">
 				body {
