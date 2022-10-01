@@ -472,7 +472,7 @@ awkScript=$(
 						<p>単語暗記カードの表の変更を行う場合は、Webブラウザーの JavaScript を有効にしてください。</p>
 					</noscript>
 
-					<p><a rel="dcterms:references" title="lela.iúk.tánxe - PJCG gimste" href="https://cogas.github.io/pages/lojbo/pjcg_gimste/">PJCG gismte Lv.1</a>の単語暗記カードの両面印刷用ページを作成します。このメッセージは印刷時非表示です。<a rel="alternate" type="application/pdf" href="a3.pdf">A3</a>, <a rel="alternate" type="application/pdf" href="a4.pdf">A4</a>, <a rel="alternate" type="application/pdf" href="a5.pdf">A5</a> のPDF ファイルも存在します。このページをダウンロードしたならば、オフラインでも利用が可能です。</p>
+					<p><a rel="dcterms:references" title="lela.iúk.tánxe - PJCG gimste" href="https://cogas.github.io/pages/lojbo/pjcg_gimste/">PJCG gismte Lv.1</a> の単語暗記カードの両面印刷用ページを作成します。このメッセージは印刷時非表示です。<a rel="alternate" type="application/pdf" href="a3.pdf">A3</a>, <a rel="alternate" type="application/pdf" href="a4.pdf">A4</a>, <a rel="alternate" type="application/pdf" href="a5.pdf">A5</a> の PDF ファイルも存在します。このページをダウンロードしたならば、オフラインでも利用が可能です。</p>
 
 					<p>
 						<label><select size="1" name="pinpau">
