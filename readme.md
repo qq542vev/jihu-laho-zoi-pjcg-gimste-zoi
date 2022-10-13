@@ -15,7 +15,7 @@
 	See Also:
 
 		* <Project homepage at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
-		* <Bag report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
+		* <Bug report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 
 # ji'u la'o .zoi. PJCG gimste .zoi.
