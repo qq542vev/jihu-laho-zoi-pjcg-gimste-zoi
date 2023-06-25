@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-## File: rolmahoste-to-stura-sai-toi.xml
-##
-## ma'osteのXMLファイル
-##
-## Metadata:
-##
-##   author - qq542vev<https://purl.org/meta/me/>
-##   version - 0.1.2
-##   date - 2022-01-14
-##   since - 2021-04-11
-##   package - jihu-laho-zoi-pjcg-gimste-zoi
-##   source - ma'oste bau la'o by 日本語 by ji'u la jbovlaste de'i li 2016-01-10 <https://guskant.github.io/lojbo/gismu-cmavo/jpn-mahoste.html>
-##
-## See Also:
-##
-##   * Project homepage - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
-##   * Bag report - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
+<!-- File: rolmahoste-to-stura-sai-toi.xml
+
+	ma'oste のXMLファイル
+
+	Metadata:
+
+		author - <qq542vev at https://purl.org/meta/me/>
+		version - 0.1.3
+		date - 2023-06-06
+		since - 2021-04-11
+		package - jihu-laho-zoi-pjcg-gimste-zoi
+		source - <ma'oste bau la'o by 日本語 by ji'u la jbovlaste de'i li 2016-01-10 at https://guskant.github.io/lojbo/gismu-cmavo/jpn-mahoste.html>
+
+	See Also:
+
+		* <Project homepage at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
+		* <Bug report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 <liste>
 	<valsi klesi="cmavo" xml:id="uuid_3d593d99-fcd4-4e75-b7bb-948d53aac08e">
@@ -5810,7 +5809,7 @@
 		<lerfu xml:lang="jbo">re'a</lerfu>
 		<lerfu xml:lang="jbo-fonipa">rɛha</lerfu>
 		<cmavo_klesi>VUhU4</cmavo_klesi>
-		<ve_ciksi>転置行列 : 数理演算子(単一項); ある行列の列と行を交換することで生ずる行列; [A*]</ve_ciksi>
+		<ve_ciksi>転置行列 : 数理演算子(単一項); ある行列の列と行を交換することで生ずる行列; [$A^T$]</ve_ciksi>
 		<lerfu xml:lang="ja">レハ</lerfu>
 	</valsi>
 	<valsi klesi="cmavo" xml:id="uuid_09d862b3-1a8f-41de-ae93-43921b94cb98">

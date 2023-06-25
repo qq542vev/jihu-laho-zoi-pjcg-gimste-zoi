@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-## File: rolgimste-to-stura-ruhe-toi.xml
-##
-## gimsteのXMLファイル
-##
-## Metadata:
-##
-##   author - qq542vev <https://purl.org/meta/me/>
-##   version - 0.1.1
-##   date - 2022-01-14
-##   since - 2021-04-09
-##   package - jihu-laho-zoi-pjcg-gimste-zoi
-##   source - gimste bau la'o by 日本語 by ji'u la jbovlaste de'i li 2016-01-10 <https://guskant.github.io/lojbo/gismu-cmavo/jpn-gimste.html>
-##
-## See Also:
-##
-##   * Project homepage - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
-##   * Bag report - <https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
+<!-- File: rolgimste-to-stura-ruhe-toi.xml
+
+	gimste のXMLファイル
+
+	Metadata:
+
+		author - <qq542vev at https://purl.org/meta/me/>
+		version - 0.1.2
+		date - 2023-06-06
+		since - 2021-04-09
+		package - jihu-laho-zoi-pjcg-gimste-zoi
+		source - <gimste bau la'o by 日本語 by ji'u la jbovlaste de'i li 2016-01-10 at https://guskant.github.io/lojbo/gismu-cmavo/jpn-gimste.html>
+
+	See Also:
+
+		* <Project homepage at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi>
+		* <Bug report at https://github.com/qq542vev/jihu-laho-zoi-pjcg-gimste-zoi/issues>
 -->
 <liste>
 	<valsi klesi="gismu" xml:id="uuid_4dcf9021-cd43-4e81-8466-16d83cffee96">
@@ -319,7 +318,8 @@
 		</mupli>
 		<smuni>言語</smuni>
 		<lerfu xml:lang="ja">バング</lerfu>
-		<goro>＜晩の愚行＞. language</goro>
+		<goro>＜晩の愚行＞</goro>
+		<goro>language</goro>
 		<srana>{tance}</srana>
 		<srana>{cusku}</srana>
 		<srana>{ve} {tavla}</srana>
@@ -628,7 +628,8 @@
 		<ve_ciksi>x_1 は x_2 （本体／機材）・ x_3 （用途）・ x_4 （素材）のボタン／ノブ／スイッチ／つまみ／取っ手</ve_ciksi>
 		<smuni>ボタン</smuni>
 		<lerfu xml:lang="ja">バトケ</lerfu>
-		<goro>＜バットける＞. button</goro>
+		<goro>＜バットける＞</goro>
+		<goro>button</goro>
 		<goro>keu(釦)</goro>
 		<srana>{jadni}</srana>
 		<srana>{balji}</srana>
@@ -886,7 +887,8 @@
 		<ve_ciksi>x_1 は x_2 （種類）のハチ目昆虫</ve_ciksi>
 		<smuni>蜂</smuni>
 		<lerfu xml:lang="ja">ビフゥシェ</lerfu>
-		<goro>＜ビーフ・シェア＞. bee</goro>
+		<goro>＜ビーフ・シェア＞</goro>
+		<goro>bee</goro>
 		<goro>fen(蜂)</goro>
 		<srana>{manti} (下位概念)</srana>
 		<srana>{cinki} (上位概念)</srana>
@@ -7820,6 +7822,12 @@
 		<srana>{zbepi}</srana>
 		<srana>{genja}</srana>
 		<srana>{krasi}</srana>
+	</valsi>
+	<valsi klesi="experimental-gismu" xml:id="uuid_282c38d7-416b-4d31-af71-c95715bf9805">
+		<lerfu xml:lang="jbo">jidge</lerfu>
+		<lerfu xml:lang="jbo-fonipa">ˈʒidgɛ</lerfu>
+		<rafsi klesi="vomei-lerfu">jidg</rafsi>
+		<ve_ciksi>x_1 には x_2 をする機会／契機／チャンスがある、 x_3 （条件）で</ve_ciksi>
 	</valsi>
 	<valsi klesi="gismu" xml:id="uuid_3d4f6d8d-2a48-4b8c-b559-11f9ccdfd7df">
 		<lerfu xml:lang="jbo">jijnu</lerfu>
